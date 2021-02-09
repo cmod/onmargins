@@ -1,5 +1,7 @@
 # On Margins — Podcast
 
+![On Margins Cover](https://raw.githubusercontent.com/cmod/onmargins/main/on_margins-cover-wide-2021.jpg)
+
 Public archive of recordings of the podcast [*On Margins*](https://craigmod.com/onmargins/). 
 
 Available on: 
