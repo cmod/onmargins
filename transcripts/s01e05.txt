@@ -1,0 +1,459 @@
+[00:00:00 @craigmod] Craig Mod: You're listening to On Margins. I'm Craig Mod, and this is Episode Five. Kottke.org is a website. It is not an app. It is not a product. It is simply a static website updated daily, running some rickety, old blogging software. As of March 2018, it's been consistently updated for 20 years. It is largely the product of a single mind, Jason Kottke.
+
+[00:00:29 @craigmod] Kottke.org has shaped the way many of us have thought about news, blogging, and linking. Jason has built his entire career around the power of hypertext.
+
+[00:00:41 @craigmod] That is, he has pointed to things and added commentary in over 26,000 posts. A simple gesture, and today, an obvious one, but one that was only possible because of how the Web was constructed.
+
+[00:00:55 @craigmod] Everything on the web sits side-by-side as equal class citizens. A guy in a bedroom in the middle of nowhere can stand toe-to-toe with global news agencies, and through a consistency of tone, hopefulness, and sharp eye, kottke.org has stood the test of time.
+
+[00:01:16 @craigmod] It's one of the largest, longest-running single proprietor websites online. Now, not all books are bound and not all books need be printed on paper. In my estimation, kottke.org is as much a book, that is, a distillation of a singular curious point of view as any thick nonfiction tome published today.
+
+[00:01:40 @craigmod] Jason was kind enough to make time to chat with me about this and more on today's episode. I hope you enjoy.
+
+[00:01:48 @craigmod] Jason, thank you for being here today.
+
+[00:01:50 @jasonkottke] Jason Kottke: Yeah, no problem. Thanks for having me, Craig.
+
+[00:01:52 @craigmod] Craig: If you were to go back in time and thank one person or one institution that has allowed you to do what you're doing today, who would that be?
+
+[00:02:03 @jasonkottke] Jason: I think there's a few contenders. I grew up on a farm in a small town in rural Wisconsin. This was the '80s and early '90s, and so I was very culturally sheltered. I didn't know a whole lot about what was going on in the wider world.
+
+[00:02:18 @jasonkottke] I did well at school and I got a scholarship to a college in Iowa called Coe College, C-O-E. Coe College. I went, and college for me was this eye-opening experience, like it is for a lot of people, but I think for me, it was like I discovered that I was always a super curious kid and super interested in science and learning.
+
+[00:02:43 @jasonkottke] I actually liked school. I liked the learning part of school. I hated the social part of school, but the learning part of school was great.
+
+[00:02:49 @jasonkottke] When I got to college, it was like, holy shit, there are people here who take that part of school seriously -- because they're curious about it, because they can't help it. I learned that that I am one of those people that I just can't help being interested in all sorts of different things. College for me was like this amazing thing.
+
+[00:03:10 @jasonkottke] Didn't know what I was going to major in when I got there, but after a year or two, I decided I was going to major in physics. I had this advisor. His name was Dr. Feller. He was the best teacher, hands down, I've ever had in my entire life.
+
+[00:03:28 @jasonkottke] He would do this amazing thing. I didn't know this right away, but when I got to be a junior and senior, I noticed this more and more.
+
+[00:03:37 @jasonkottke] In the class, he would teach simultaneously to every level in the class, no matter if you knew exactly what was going on with everything, or if you were really struggling, or anywhere in between. I don't know how he did it. Like I still don't know how he did it.
+
+[00:03:52 @jasonkottke] He was so generous with his time and his energy. He had this infectious energy that just propelled everyone forward. I just took so much from that experience and from having him as an advisor, and as a mentor, and as a friend really. He became a friend.
+
+[00:04:15 @jasonkottke] I think I owe him a lot in how I approach the world, and how I approach work, and in just thinking of the world as this endless bounty of things to know.
+
+[00:04:31 @craigmod] Craig: Is he still around?
+
+[00:04:32 @jasonkottke] Jason: He still is, yeah. I think this is his last year teaching. He's going to transition into a peer research role, working with students on research.
+
+[00:04:44 @jasonkottke] Every five years, the physics department has a reunion. This year, coming up is the reunion, and I've already -- I haven't bought my tickets, but I will soon. I am definitely attending.
+
+[00:04:57 @craigmod] Craig: Have you ever said, hey, by the way, a big part of what I'm doing today was influenced by having you as an archetype in my life? Have you ever explicitly told him that?
+
+[00:05:07 @jasonkottke] Jason: I haven't, but I think I'm going to make a point of it this time around.
+
+[00:05:13 @craigmod] Craig: I only bring that up because I had two people in my childhood too who enabled me to get access to a kind of thinking similar to what you described -- a kind of thinking, a kind of curiosity. There was one person who literally gave me access to his house, because he had a computer and we couldn't afford one.
+
+[00:05:36 @craigmod] When you're young, you don't think about death. You don't think about gratitude as much as you should, at least I didn't. Maybe that's a failure of my upbringing or me as a child or whatever. I never really thanked him. I never thanked him.
+
+[00:05:49 @craigmod] In fact, there was this one day he got a new computer and I bought his old computer and that was it. I remember five years ago going, "Shit, I need to email Tom." I went to look and he had passed away from a heart attack a few years before.
+
+[00:06:06 @craigmod] You just go, "Fuck." It's a really important thing to remember to do.
+
+[00:06:11 @craigmod] A lot of times, we think people know that they have had a profound impact on us, but the reality is is that they don't. I think a lot of people have tremendous influence, positive influence on folks they come in contact with, students, and they never really know how much of an impact they've had until it's explicitly said.
+
+[00:06:32 @craigmod] For me, that's become an important principle of moving through the world. That's great, though. You're lucky.
+
+[00:06:40 @craigmod] It's amazing how powerful just one good person in your life can be.
+
+[00:06:44 @jasonkottke] Jason: Yeah, I feel lucky to have crossed paths with him and to have been so influenced by him. I think a lot of his students feel like that. I think he's far and away the most popular/the most respected teacher that school has ever had in a lot of ways. Super guy.
+
+[00:07:03 @craigmod] Craig: You have 20 years built up on the site. Have you done a calculation of how many words that is?
+
+[00:07:09 @jasonkottke] Jason: I did a few years ago and I can't remember what it was. It's several books worth of stuff. If I didn't do this and I wrote books instead, I would have 10, 12 books under my name right now. It's a lot. [laughs]
+
+[00:07:27 @craigmod] Craig: It's a ton. It's crazy. To have one place where you consistently put 20 years of thinking and focus into.
+
+[00:07:37 @jasonkottke] Jason: I haven't done a lot of writing elsewhere. I've written one or two things for "Wired," I think. I did a thing for "Meg Magazine." I did something for Nieman Lab. That was about it. Everything else is on kottke.org.
+
+[00:07:52 @craigmod] Craig: I was going to ask about the .org bit. It feels natural. It feels like if it was kottke.com...Kottke.com, even just saying it feels incorrect. It feels wrong. There's no .com happening in Kottkeland.
+
+[00:08:07 @craigmod] That felt quite insightful in 1998, to pick a .org. Do you remember, was kottke.com taken?
+
+[00:08:14 @jasonkottke] Jason: Oh, yeah. I would have had .com, but it was taken so I had to take .org. It wasn't any sort of stylistic or editorial choice. It was just like, "OK, I'm going to go with .org."
+
+[00:08:27 @jasonkottke] In the early days, only organizations and non-profits could have .org domains. When I got .org, everyone was like, "I don't understand. Are you an...?" It was like this, "Can you really have this?"
+
+[00:08:42 @jasonkottke] I'm like, "Well, yeah. Anybody can register anything. You can register a .net even though you're not a network."
+
+[00:08:48 @craigmod] Craig: This is back when TLDs had meaning. Today, nothing matters. Nothing is real.
+
+[00:08:55 @jasonkottke] Jason: Exactly. I tweeted the other day that I was looking for a guest editor for an upcoming week. Somebody sent me an email about it. "Oh, I'm a writer here, here, and here. Here's my personal URL." It was beyonce.horse. That's a URL now, a fucking great URL, but it was kind of crazy.
+
+[00:09:18 @craigmod] Craig: Oh my God. You should hire that creature.
+
+[00:09:22 @jasonkottke] Jason: I looked at it and I was like, "Holy shit. Beyonce.horse? This is a big green check mark in my estimation." We'll see.
+
+[00:09:29 @craigmod] Craig: I like that we're at beyonce.horse period of the Internet because it's all invented. We get so precious about this stuff. This is the proper way to do this, or that, or whatever. This is all just invented stuff, from some bearded dudes in the '60s who were just saying, "Let's use .com. We're going to do HTTP://. That makes sense. That's a good way of doing it. That's a very readable way to define the protocol."
+
+[00:10:00 @jasonkottke] Jason: And then culture took over. Culture is things like, "I'm going to do beyonce.horse."
+
+[00:10:05 @craigmod] Craig: Right, because it's like it doesn't matter. Who's typing in URLs anymore anyway?
+
+[00:10:11 @craigmod] I feel like the .org, for you, as an ethos, intentional or not. It feels so fitting because it feels like kottke.org is an organization. It's a singular voice. It is a collection of careful thinking, hopeful thinking.
+
+[00:10:30 @craigmod] That's what I want in my organizations in the world, my cultural organizations, is consideration and hope and curiosity. It feels very, very fitting.
+
+[00:10:39 @craigmod] Have you ever taken the kottke.org content and done anything else with it? Has it ever manifested in any other way besides kottke.org on the web?
+
+[00:10:49 @jasonkottke] Jason: No, it hasn't. I thought about putting it on the Kindle or turning it into an actual book. I was talking to some friends a few years ago about making an iPad sort of magazine thing out of it where you would take articles from the website around certain topics and repackage them together into these magazine issues.
+
+[00:11:13 @jasonkottke] I don't know. Nothing ever came of that. It's still an idea that's out there. There are lots of different things I could do.
+
+[00:11:19 @craigmod] Craig: Has anyone approached you about acquiring the archive?
+
+[00:11:23 @jasonkottke] Jason: No.
+
+[00:11:24 @jasonkottke] Craig: Has a library ever come to you and said, "Hey?" In the same way that you acquire Leonard Cohen's letters. Has anyone said, "We want the kottke.org official archives"?
+
+[00:11:33 @jasonkottke] Jason: I think at some point, a few years ago, the New York Public Library sent me an email about something like that, that they were going to do it but then they never followed up. It was one of those things where maybe the person that was there at that time was spearheading this thing and then it lost steam and fell apart.
+
+[00:11:52 @jasonkottke] That was the only thing that I remember along those lines.
+
+[00:11:57 @craigmod] Craig: When I think of your website or a website like yours, in my mind, it sits as close to a book as you can get online. It feels like there are strong edges to it. I know where it begins and ends, even though it's 20 years and probably millions of words.
+
+[00:12:13 @craigmod] I feel like even if it's not knowable in its entirety, I understand the parameters of the object. I understand the parameters of the website. I understand the contract that I'm entering into when I go to kottke.org.
+
+[00:12:29 @craigmod] I think a lot of the web, and I think a lot of digital space, is subverted by this lack of real contract between the person that is looking at the thing and the people or person that's making the thing. On Twitter, for example, or Facebook, those things are so nebulous I don't know what the contract is.
+
+[00:12:49 @jasonkottke] Jason: That's constantly shifting, too.
+
+[00:12:51 @craigmod] Craig: Constantly changing. You don't know what it's going to be the next day. But a website like yours, to me, has a very clear.
+
+[00:12:57 @craigmodALEXA] Craig's Alexa: Sorry, I don't know that.
+
+[00:13:00 @craigmod] Craig: Sorry, Alexa was just yelling at me.
+
+[00:13:02 @jasonkottke] Jason: [laughs] It's the conference we're in. Talk about not knowing boundries.
+
+[00:13:06 @craigmod] Craig: Exactly.
+
+[00:13:07 @craigmod] Websites like yours, you go to it and you know what you're getting. You know the edges of it. You can see where it left off the day before. There is a human scale to it, even though now, it's super huge, that I think is beautiful and important and sustaining.
+
+[00:13:23 @craigmod] If you were to take what you've done and you were to slice it to make a 400 page book, what would you pick? How would you do that? How would you think about going about that?
+
+[00:13:31 @jasonkottke] Jason: It's interesting when you talk about the, "You can see the boundaries of the thing." When I close my eyes, I can see exactly what a book would look like, the book version of kottke.org.
+
+[00:13:42 @craigmod] Craig: Would it be yellow?
+
+[00:13:44 @jasonkottke] Jason: Exactly. I can see exactly what a conference, if I put on a conference, what that would look like. Or a podcast. Specifically with the book, one of the titles I've always had in the back of my mind is, "The Kottke Almanac," because the site is so eclectic. It's actually been interesting. I've been experimenting with email newsletters.
+
+[00:14:08 @jasonkottke] Tim Carmondy and I have started this newsletter called, "Noticing," which is basically him taking the week of posts that I've done on kottke.org and making sense of them as a unit, which I had never thought about before. I don't think about the site that way, in these week long chunks.
+
+[00:14:28 @jasonkottke] I think this is an interesting thing. This is an interesting thing. Tim has been going back and chunking those things together into, "Here's the three themes this week that Jason's been talking about."
+
+[00:14:40 @jasonkottke] I'm like, "Huh? OK. Sure." I think that a book would probably be going back into the archives and looking at some sort of bigger themes that aren't evident day to day, even to me, because I'm in the stream paddling as fast as I can. I'm not standing on the bridge watching.
+
+[00:15:01 @craigmod] Craig: I think that would be incredible. I love the framing of almanac because one of the things that you've been, if nothing else, is consistent. To have that kind of consistency over such a long period of time means that you, in some way, whether consciously or not, you're mirroring the things that are happening in the world. You're mirroring the trends that are out there.
+
+[00:15:21 @craigmod] I think the framing of here are the trends. This is what was happening at this moment. Here are the subtendrils. Here are the things that I picked up that are connected with that that maybe in the moment I didn't realize. Looking back on it, I'm like, "Yeah, this influenced this. This led to this." You start to draw these lines between things. That would be really fascinating, I think.
+
+[00:15:41 @jasonkottke] Jason: For the last, I don't know how many ever years, at least eight or nine years, I've been tagging all the entries with tags. The easy thing to do would be to go back and group things together by tag. I think a better way to do it would be to group things together by...
+
+[00:15:57 @jasonkottke] One of the things I talk about often is, "Here's what people can do. People are amazing. They can do all of these amazing things." That's a theme that runs through a lot of what I post, even though it's always below the surface. I never call that much attention to it.
+
+[00:16:16 @jasonkottke] That's one of the things that could be a theme in a potential book.
+
+[00:16:21 @craigmod] Craig: Even something simple like, "The World According to Kottke.org" or something like that. You can almost imagine the design of it, where facing pages have a screenshot of some website. You could break it down by every two weeks you choose one thing and you go through 10 or 20 years of two week, here's this one thing from this two week period. This is one thing from this two week period.
+
+[00:16:44 @craigmod] You have these screenshots. You have this super strong visual component on the right side, and on the left, you have the text breakdown of what that was. You have dates running on the bottom or whatever. Even just that, because I think one thing that physical objects do really well is it lets us experience, say for example, a span of 20 years. Experience 20 years of web design.
+
+[00:17:07 @craigmod] Looking back over those 20 years and seeing, even just being able to flip through it and see how websites have changed so drastically during certain periods. I don't know how you get all the screenshots. I guess archive.org you'd have to lean on a lot.
+
+[00:17:19 @jasonkottke] Jason: That would be the hard part. Also, blowing them up to book size.
+
+[00:17:22 @craigmod] Craig: I think that messiness is OK. What you could even do is print them in the book at real size, as you go through time, they get bigger because...
+
+[00:17:32 @jasonkottke] Jason: Bigger and bigger and bigger.
+
+[00:17:34 @craigmod] Craig: Because the resolution goes up or whatever.
+
+[00:17:35 @jasonkottke] Jason: And then, when you get responsive it's full bleed.
+
+[00:17:39 @craigmod] Craig: Exactly.
+
+[00:17:39 @jasonkottke] Jason: That would be kind of funny.
+
+[00:17:43 @craigmod] Craig: That would be pretty neat.
+
+[00:17:44 @craigmod] Anyway, it feels like there's a lot to play with there. More importantly, it would let you hold this thing that...I was going back through your redesigns over the years. I was having these emotional moments because I first found you through [inaudible] and then, obviously, Kottke. I was looking at those designs. There is something so specific about the way they look, and the design language they're using. It's so strong.
+
+[00:18:17 @craigmod] I remember when I saw them for the first time. It had such an impact on me, the intensity of the colors or whatever, that I remember who I was at that time. These designs have a place in my heart in the same way that a familiar corner in a city has a place in my heart. There's this weird emotional resonance connected to those images, to those points in digital space.
+
+[00:18:39 @craigmod] It's almost overwhelming looking back over them because you start to remember who you were and who you wanted to be at that moment. I think there are very few things online where many of us who today have been working in this medium for decades can look back and feel that about a still existing.
+
+[00:18:59 @craigmod] To somehow, transmute part of that into an object you can hold feels intuitively like there's value there.
+
+[00:19:09 @jasonkottke] Jason: When I look at old designs of mine, and also designs for other sites I have those reactions, as well, that sense of nostalgia. Every time I did a redesign, it was a very conscious choice. It was like, "The old thing, it's looking old. I need something new to tell..."
+
+[00:19:34 @jasonkottke] In some cases, it was like, "I want to tell new types of stories using new kinds of posts, using a different font or whatever to make sure that what I am saying is presented properly." It's funny. The site has changed a lot, but in other ways, the designs that I had, each stuck around for a while. It was each two years here, three years here, four years here.
+
+[00:19:56 @jasonkottke] Each is anchored in a moment.
+
+[00:19:59 @craigmod] Craig: And in the presence of a certain kind of web technology, too. When video starts taking off, you have to go, "How do we bring videos to this page in a way that works?" Or, "If everyone's reading on a mobile phone now..." I noticed, I think it was in 2012, you said, "40 percent of all the reading happens on a phone. I want to make sure that looked better."
+
+[00:20:21 @craigmod] I think Blogging with a capital B was as much about messing around with the technology and responding to technology as giving us excuses to redesign as it was, and is, about the content, in a way. You have this cute note on your 2016 redesign edition where you're really excited about the footnotes.
+
+[00:20:45 @craigmod] I was looking at that and I was thinking, "Yeah, I would spend two weeks refactoring and redesigning and rebuilding everything for a better footnote." I get that. That's a certain kind of ethos of engaging with this medium.
+
+[00:21:00 @jasonkottke] Jason: I spent so long on how those footnotes should work and look. Now, I don't like them. I think they should work a completely different way.
+
+[00:21:09 @craigmod] Craig: How should they work?
+
+[00:21:10 @jasonkottke] Jason: I haven't figured it quite out yet because I haven't actually popped into Sketch and tried fiddling around with actual design. In my head, it should just be a different type of link that is...You click on it and it pops up right there instead of a numbered button or whatever.
+
+[00:21:27 @jasonkottke] I think I have pink circle with a plus sign in it now. It's too distracting when you're reading. I want to minimize the distraction.
+
+[00:21:38 @craigmod] Craig: I like the in lineness of it.
+
+[00:21:38 @jasonkottke] Jason: Yeah, that's good. You're not jumping around.
+
+[00:21:41 @craigmod] Craig: I also miss...What's fun with footnotes is you get to the bottom and you read them all at once. Then you go back. It's almost like dessert. It's a content dessert.
+
+[00:21:52 @craigmod] Obviously, you're a big David Foster Wallace fan.
+
+[00:21:55 @jasonkottke] Jason: Yeah. It's funny. I was just going to mention that because I found this news article today. It was Switzerland was banning cooking live lobsters because it's inhumane. Of course, David Foster Wallace wrote a story called, "Consider the Lobster," for "Gourmet Magazine" in 2004 about this very thing.
+
+[00:22:12 @jasonkottke] It goes on for pages and pages. Inspired by that, I downloaded the "Consider the Lobster" audiobook. He made a collection out of a bunch of his narrative nonfiction. It was called Consider the Lobster after that story.
+
+[00:22:26 @jasonkottke] I started listening to it. The footnotes in the audiobook, what the audiobook people decided on is that he would speak in a normal voice for the normal text and then they would modify his voice into a deeper voice when he did the footnotes. It's completely ridiculous because you're listening along, and all of a sudden, his voice changes.
+
+[00:22:51 @jasonkottke] You know you're in a footnote but it sounds crazy, because some of the footnotes are three or four minutes long. He's talking in this voice that's not his voice instead of just saying at the beginning, "Footnote," and then, "End footnote."
+
+[00:23:06 @craigmod] Craig: You could imagine putting a tin phoney, telephone, old-timey telephone filter over it or something where...
+
+[00:23:13 @jasonkottke] Jason: Yeah, it's so distracting, though, because his footnotes, they're a part of the main text. They really are.
+
+[00:23:20 @craigmod] Craig: They're only footnotes because he couldn't get away with filing a 20,000 word story so he files a 10,000 word story with 10,000 words of footnotes, right?
+
+[00:23:29 @jasonkottke] Jason: Right, exactly.
+
+[00:23:29 @craigmod] Craig: There's that element to it.
+
+[00:23:34 @craigmod] I like the in lineness of footnotes when they work that way, but I also like having the collection at the bottom to reward myself with if I make it through a big piece. Usually, the footnotes are where the true voice comes out. That's what I find.
+
+[00:23:49 @craigmod] Even for me, when I'm writing a big thing and I have footnotes, it's like there's a tension in the main body of text. When I get to the footnotes, it's like, "Oh, yeah. This is the casual corner. This is where I can let my shoulders relax." I should probably be bringing that feeling to the main text, too, but...
+
+[00:24:08 @jasonkottke] Jason: Exactly. What's funny about my site and a lot of blogs is that I am writing in a casual corner all of the time. I write how I talk, but the footnotes somehow are even more so than that, which is weird.
+
+[00:24:24 @craigmod] Craig: It's totally arbitrary. Real footnotes live at the back of a book half the time. They're off the page, so they do feel like they're in a little universe. On the web, there's no main and set or whatever. It's all...especially when you're a robot it's all the same.
+
+[00:24:39 @jasonkottke] Jason: I feel like I'm using them less now because when I do want to include one, I'm like, "Wait a minute, I should just..."
+
+[00:24:46 @craigmod] Craig: Say this.
+
+[00:24:47 @jasonkottke] Jason: I should incorporate this into the main text because that's where I should be using this sort of tone anyway.
+
+[00:24:53 @craigmod] Craig: I use it as, "Actually, I want this paragraph to be four times as long, but that's not fair to you. And so, the TLDR is here. Then, if you want more, it's down below." It's about finding that balance.
+
+[00:25:05 @craigmod] Voice is so important. I guess, of the 20 years of kottke.org, obviously, 9/11 was an intense political moment. Where were you in terms of this project when that happened? How did you respond to that? Do you remember?
+
+[00:25:23 @jasonkottke] Jason: I was a little more than three years in of doing the blog. I was doing kottke.org and Osculate at the same time as personal projects. Kottke.org was taking more and more of my attention, just because blogging was taking off. I was like, "Hey, all these other people are doing this thing. I want to..."
+
+[00:25:43 @jasonkottke] It was about exploration a lot. It was about, "Oh, there's this new kind of way people are expressing themselves in this distributed conversational way." I was interested in exploring that.
+
+[00:25:56 @jasonkottke] Then, 9/11 happened. I was living in San Francisco. I was not in New York at the time. Living in San Francisco, by the time I woke up and sat down at my computer...
+
+[00:26:08 @craigmod] Craig: It had all happened.
+
+[00:26:09 @jasonkottke] Jason: I had just left a job. I was laid off like everyone else I knew then, because it was 2001 in San Francisco. Nobody I knew had a job. I didn't have a job.
+
+[00:26:18 @jasonkottke] I woke up and got on the computer. I think the first tower had already fallen. Everyone was freaking out, of course. I started doing the bloggy sort of thing, which is like, "Oh, people are posting all sorts of cool stuff. I'm going to start a post linking to all of that stuff."
+
+[00:26:45 @jasonkottke] I did that and was basically on the computer all day, pretty much, with minimal breaks, just posting stuff like photos and maybe even snippets of video. I don't think I was hosting the video, but I was posting to other...This was pre YouTube, of course. Probably these QuickTime videos that were 320 by whatever.
+
+[00:27:08 @craigmod] Craig: We all took down CNN.com. CNN couldn't even handle it.
+
+[00:27:13 @jasonkottke] Jason: Sites were going down left and right. That was part of the thing, is I was in these chat rooms on AIM and probably ICQ, as well. People were talking about, "Oh, I mirrored this thing here. I mirrored this thing here." It was an early moment of this sort of distributed...
+
+[00:27:33 @jasonkottke] I'm not going to call it journalism, but it was this distributed, "How do we get this information out to people?" Sort of thing. What journalism is at its base. It was taking in a lot of different...How do we help? Red Cross. We're going to do this. We're going to do this.
+
+[00:27:52 @jasonkottke] It was really incredible.
+
+[00:27:53 @craigmod] Craig: Now, we're in this other kind of political moment that is almost the polar opposite of that, in that, it's not contained. It's infinite.
+
+[00:28:04 @craigmod] In your interview with the Nieman Lab, you said it seems like, in terms of other media outlets, it's been hard to cover anything but things that are serious. Then you say for Kottke, "I think that the site is much more about things that are a little bit more..." You said, "I don't want to say hopeful, but a lot of it is. Look at this cool thing."
+
+[00:28:23 @craigmod] How do you see Kottke existing in this current political climate?
+
+[00:28:27 @jasonkottke] Jason: It has nothing to do with the news or not a whole lot to do with the news. I'm more interested in the broad trends.
+
+[00:28:33 @jasonkottke] I don't know. I think 9/11 is an interesting thing, because I think something started there that has not yet ended and won't end for a long time. It's not just the wars in Afghanistan and Iraq. We've been in Afghanistan for I don't know how many years now. Since 9/11.
+
+[00:28:51 @jasonkottke] The role of US in the world changed. I think the way that the US thought about itself changed on 9/11. I don't think we've entered any sort of new moment where that identity has shifted dramatically.
+
+[00:29:07 @jasonkottke] I think a lot of our politics since then has been in either direct or indirect reaction to what happened on 9/11.
+
+[00:29:17 @craigmod] Craig: In your comments about the role of media, everything is so serious. Everything is doom and gloom, in a way. The reason I asked, obviously, I know you do some political posts but there is this tenor of existing in another plane. Kottke.org is existing in, somehow, a more graceful space probably, in part, because you're not driven by clicks.
+
+[00:29:44 @craigmod] You're not trying to clickbait folks. You're not putting out, as you said in that interview, 60 things a day, machine gunning, scattershotting, hoping that you make the page view chart go up and to the right. That way, the news organization can continue with ad dollars or whatever.
+
+[00:30:02 @craigmod] There's a gracefulness that's happening there, which I think is fantastic. I think it's really important. It's probably why, in some ways, kottke.org feels weirdly the freshest it's ever been in 20 years.
+
+[00:30:15 @craigmod] I don't know if you feel that way but it's subversive in a number of ways. It's subversive because it's a stand alone website. That feels like its own protest. You're not on Medium. You're not on Facebook. You are your own thing. You own your island. You're a landowner on the web.
+
+[00:30:34 @jasonkottke] Jason: Right.
+
+[00:30:34 @craigmod] Craig: That there is a sense of hopefulness. It feels like today, being hopeful is a form of protest. And that's a totally, totally acceptable form of protest that I think sometimes gets thrown under the bus. On top of that, you have memberships. Let's talk about that for a second.
+
+[00:30:53 @jasonkottke] Jason: All right.
+
+[00:30:52 @craigmod] Craig: You have this website for 20 years and you just launched memberships a year ago.
+
+[00:30:56 @jasonkottke] Jason: Right.
+
+[00:30:56 @craigmod] Craig: Part of that was because the deck was folding.
+
+[00:30:58 @jasonkottke] Jason: Mm-hmm.
+
+[00:30:59 @craigmod] Craig: Since you've launched those memberships, how has it changed your relationship with the website? Have the memberships been greater or lesser than you expected? What's the experience been with those?
+
+[00:31:10 @jasonkottke] Jason: Going back to when I started doing the site full-time in 2005, I quit my web design job and I was like, "OK, I'm going to do this full-time." I actually launched it with, I called it the micro-patron drive. Sort of this BBS style pledge drive.
+
+[00:31:28 @jasonkottke] Donate $30 and I'm going to do this full-time for a year and if I get enough money and enough momentum and whatever, I will continue doing it. What was interesting about that is that it didn't, on my end, like the financial stuff was fine. I got enough money to actually make it into, this is actually a job that I'm getting paid for.
+
+[00:31:55 @jasonkottke] But the way I felt about it was not great. I felt like I had 1,500 people who were my boss. That was totally, from my perspective. None of the people who had donated or contributed were saying, oh, you're not posting enough about this or you're doing this and not enough of this or whatever. Nobody was complaining about that. It was all in my brain.
+
+[00:32:19 @jasonkottke] At the end of the year, I was like, "OK, I'm not going to do that anymore. I'm going to put ads on it," and that's what I did. For 10 or 12 years, that totally worked. In the last few years, I've been wondering, with the rise of Patreon and Kickstarter and all of that sort of stuff, people have gotten used to the idea of contributing to these projects that they care about, that they want to see exist in the world.
+
+[00:32:46 @jasonkottke] I started thinking again. I was like, "OK, maybe I should do this membership thing." I launched it and it did way better than I thought it was going to.
+
+[00:32:54 @craigmod] Craig: Right.
+
+[00:32:54 @jasonkottke] Jason: It was kind of ridiculous, like I had this range of what I thought and it blew past the high end of the range two days in. I was like, "Holy crap!"
+
+[00:33:04 @jasonkottke] Now, it's been going for almost a year and a half and I've got to say, I do this site for a lot of different reasons. It's interesting to me. I like doing the work. I feel really lucky to be able to sit down in a chair every morning and just learn all day. I get to read all of this stuff and write about it and all of these interesting things.
+
+[00:33:25 @jasonkottke] I also like doing it for the people who are paying me to do it, who have contributed and who have entrusted their hard-earned American dollar, and also dollars from all over the place, actually. I really feel a sense of commitment to them that is really positive for me.
+
+[00:33:44 @craigmod] Craig: Right.
+
+[00:33:45 @jasonkottke] Jason: It's not like it was 10, 12 years ago, where I felt it was this thing that was a negative thing. Now, it's a very positive thing. It's something that propels me.
+
+[00:33:56 @craigmod] Craig: Right.
+
+[00:33:57 @jasonkottke] Jason: Which is great, I love it.
+
+[00:33:59 @craigmod] Craig: I think the normalization of paying for stuff has changed. In 2005, there was no real easy way to do a web payment. There was just PayPal. I have this vague recollection of that drive back in 2005. When you launched the memberships a year and a half ago, my first reaction was, "Holy shit, am I not giving this thing money?"
+
+[00:34:23 @jasonkottke] [laughter]
+
+[00:34:23 @craigmod] Craig: Wait a minute, I should be giving this thing money! Why am I not doing this? Yeah, obviously. I think a lot of us felt that way. It was this realization, I think we understand the brittle nature of our institutions a little more than we ever have.
+
+[00:34:37 @craigmod] These things we love in the world are not in this world, unless we continually put energy into them, supportive energy into them. I think we felt that really strongly in the last two years, especially.
+
+[00:34:50 @jasonkottke] Jason: Yeah. I think we've seen how things like advertising and things like shareholders can twist these services that we have loved into things that aren't looking out for our best interests.
+
+[00:35:06 @jasonkottke] Membership type things can do that, as well. They can tweak incentives in a way, but I think they are much more likely to tweak them in a positive way than in a negative way, maybe. Maybe that's just a belief. I don't know.
+
+[00:35:19 @craigmod] Craig: No, I think it's true. It formalizes an already implicit pact. I think the formalization of a contract that was already implicit between your readers and yourself, I think that's a good thing for everyone.
+
+[00:35:30 @craigmod] What I was talking with a friend about pricing prints for a gallery show, he was like, "Well, I don't want to overcharge." I'm like, "Yeah, but if you charge an amount that makes people think the relationships are going to have with that thing they buy is going to be so much greater than if it's like a five dollar thing and they just go, well, I will buy it."
+
+[00:35:50 @craigmod] But if they pay 200 bucks for the print, they're going to do something special with it. Anyway, I think a lot of us in the world feel like our institutions that we love need to be supported. Obviously, the easiest way to do that is to give money.
+
+[00:36:05 @jasonkottke] Jason: Yeah.
+
+[00:36:06 @craigmod] Craig: This is the moment to ask for these things, if you're in the position that you're in. Also, like you were saying, it dovetails into the content that you can focus on.
+
+[00:36:15 @jasonkottke] Jason: Mm-hmm.
+
+[00:36:16 @craigmod] Craig: I don't think all of these media outlets that are focused on the so-called serious stuff all the time, I don't think they're doing it because they feel like, this is for the best interest of our readership. I don't think reading 10 articles a day about how everything is falling apart helps anyone, really.
+
+[00:36:36 @craigmod] Without actionable items. Being able to disconnect from that cycle, even though those are the things that people are going to click on, I think is important. The membership it even feels like a subversion of what is happening in the world today. Asking for memberships, as opposed to aligning yourself with some kind of ad network or whatever.
+
+[00:36:54 @jasonkottke] Jason: A membership for a blog that's 19 years old and wants to last for another 19 years as a blog. That's kind of crazy. Look, I'm not sure I would recommend anyone else going that route, but I don't know, it feels like the right thing to do. It feels like it will be around for another 19 years, somehow.
+
+[00:37:12 @craigmod] Craig: That's what I mean. Like today, kottke.org feels more vital than ever. It feels more alive than I think it's ever been. I was iterating through those points before, but another one is the mailing list, which I think is great. I love how we're all obsessed with mailing lists now again. It's like 1984.
+
+[00:37:30 @jasonkottke] Jason: Email is still a thing, man.
+
+[00:37:33 @craigmod] Craig: It's the vinyl of the Internet. But I think for good reason. Because again, you open Facebook, you don't know what the hell contract your entering into.
+
+[00:37:42 @jasonkottke] Jason: Yep.
+
+[00:37:43 @craigmod] Craig: You open email and you get it. You understand. This thing is going to end.
+
+[00:37:47 @jasonkottke] Jason: Mm-hmm.
+
+[00:37:48 @craigmod] Craig: As false as it may be, the inbox is a place of implied intimacy, where you can have an even stronger voice than you can on the open web. I know for me, writing stuff to my mailing list is probably the most satisfying thing I do online, to be honest. The responses I get are unlike responses you can get anywhere else on the web, I've found.
+
+[00:38:13 @jasonkottke] Jason: Right.
+
+[00:38:14 @craigmod] Craig: You're not going to get a 3,000 word comment from the heart posting on a news site or something like that.
+
+[00:38:20 @jasonkottke] Jason: Right, not anymore. But blogs used to be that way, a little bit. One of the ways I've always thought about blogs is like you're writing an email to anyone who might be interested, rather than a single person.
+
+[00:38:31 @craigmod] Craig: Sure, yeah.
+
+[00:38:32 @jasonkottke] Jason: I think that blogs very much used to be like that. It was, we are all writing these open emails to each other and anyone who wanted to respond at length could.
+
+[00:38:40 @craigmod] Craig: Because we thought it was a safe space. It felt intimate. There was an intimacy there in those networks.
+
+[00:38:46 @jasonkottke] Jason: Right.
+
+[00:38:47 @craigmod] Craig: The world hadn't figured it out yet. There was no Beyonce.horse yet.
+
+[00:38:51 @craigmod] [laughter]
+
+[00:38:51 @craigmod] Craig: That was coming later. The confluence of all of the things that are happening on kottke.org right now, leaning on the mailing list, which is phenomenal, by the way. I think it's so good and I think Tim is such a great partner for it.
+
+[00:39:04 @craigmod] Again, it's about voice. Tim has that voice. I look at those mailing list mails and I think that would take me, whatever Tim just wrote would take me a month to write. The fact that he is doing that every week.
+
+[00:39:15 @craigmod] Also, using the mailing list as a place -- not to make it coldly commercial -- but as a place to sell things. Sustainability is critical, right? We all want things that we love in the world to continue, and so they need to be sustainable.
+
+[00:39:29 @craigmod] I've just found for me, my mailing list, there's no other place in the world where I can say hey folks, I need help with this thing or I launched this project, can you support it? Instantly the support comes, in this way that's so moving.
+
+[00:39:42 @craigmod] Between your mailing list and the memberships and the subversive nature of being a handcrafted blog in 2018, it feels like, yeah man, kottke.org is more vital and more important than ever. That's exciting, I think.
+
+[00:40:00 @jasonkottke] Jason: Yeah, that's great to hear, if it's true. I hope it's true.
+
+[00:40:03 @craigmod] Craig: How do you feel?
+
+[00:40:05 @jasonkottke] Jason: I feel like I've been working hard on it.
+
+[00:40:07 @craigmod] Craig: You have.
+
+[00:40:08 @jasonkottke] Jason: I had some difficult life changes in the last three or four years and I feel like I finally, in the last couple of years, I finally had some time and energy to really knuckle down and sit down and think about where this thing should go and what I want my role to be going forward and new things I could do.
+
+[00:40:31 @jasonkottke] I think I've been hitting it hard. I hope it's having an effect.
+
+[00:40:35 @craigmod] Craig: I think it is, and I think that it shows in the membership. Interesting connection.
+
+[00:40:41 @jasonkottke] Jason: Yeah.
+
+[00:40:42 @craigmod] Craig: Just this remembering of how vital a singular curious voice in the world can be, and how necessary that is sometimes. I'm able to type in "K-O" in my web browser and it auto-completes to kottke.
+
+[00:40:56 @craigmod] You go to this familiar place that keeps evolving over time, but everything is connected through the strength of your voice and your ethos and your curiosity. I think that's a very important, amazing thing to have in the world today. Thank you for doing that.
+
+[00:41:13 @jasonkottke] Jason: Those are very kind words, Craig. Thank you.
+
+[00:41:17 @craigmod] Craig: They're true. I do think you should think about the book. I know that running the website alone is a lot of work, but I think, even if you don't do it, the exercise of touching that world might be instructive.
+
+[00:41:29 @jasonkottke] Jason: Mm-hmm.
+
+[00:41:30 @craigmod] Craig: But I love the idea of the almanac. I hope you'll consider it, and let me know if I can help in any way. You can print it in Japan if you want. That would be really expensive.
+
+[00:41:39 @craigmod] [laughter]
+
+[00:41:42 @craigmod] Craig: Thank you for taking time today, and happy birthday, happy blog day. Happy blog birthday.
+
+[00:41:48 @jasonkottke] Jason: Thank you.
+
+[00:41:48 @craigmod] Craig: Man, I think I speak for everyone on the web when I say we hope we see and continue to read kottke.org for another 20 years.
+
+[00:41:58 @jasonkottke] Jason: I'll see what I can do about that. Thanks, Craig.
+
+[00:42:00 @craigmod] Craig: Thanks, Jason, bye-bye.
+
+[00:42:02 @craigmod] Thank you all for listening. You can always email me at me@craigmod.com if you have any comments or especially if you have suggestions for future guests. I'm always looking for interesting book-related folk just outside my radar.
+
+[00:42:21 @craigmod] And as always, there is a transcript of this episode online, as there is of every episode, at craigmod.com/onmargins.
+
+[00:42:33 @craigmod] Today's episode was sponsored by a very special group. The physics geeks in the heart of Geneva, solving tough problems and building giant slingshots underground, beneath supermarkets and schools and police stations.
+
+[00:42:48 @craigmod] If it wasn't for a cadre of curious geniuses, this episode would not exist, nor would trillions of dollars in market cap, for most of today's companies. A big thank you to the tireless geeks of Geneva. Our heart goes out to you.
+
+[00:43:07 @craigmod] Until next time, I am Craig Mod, and this was On Margins.

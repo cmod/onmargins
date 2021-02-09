@@ -1,0 +1,457 @@
+[00:00:00 @craigmod] Craig Mod: You're listening to "On Margins." I am Craig Mod, and this is episode 004. Today, I am speaking with one-half of the founding duo of Timbuktu, Elena Favilli. Now, Elena and Francesca, her partner in putting Timbuktu together, they had been working on building apps for the last seven or eight years.
+
+[00:00:24 @craigmod] It wasn't until about two years ago when they put out a book called "Goodnight Stories for Rebel Girls" that everything in their lives change. I am recording this on the side of a mountain along the Kumano Kodo, world heritage pilgrimage path in Wakayama Prefecture, Japan.
+
+[00:00:39 @craigmod] I am sitting in one of the remains of what was once a tea house along this path, and I am looking out over the mountains in the distance of Kii Peninsula. For the last couple of days, I have been walking alone. As you walk alone, you have many thoughts, and I have been thinking about people, and books, and companies that have inspired me over the last 5 to 10 years.
+
+[00:01:06 @craigmod] I can say without hesitation that one of the most inspiring companies has been Timbuktu, and two of the most inspiring people I've met, two people whom I loved dearly and who I've been rooting for and will continue to root for are Elena and Francesca. I couldn't be happier to have Elena on the program with us today. I hope you enjoy.
+
+[00:01:25 @craigmod] Elena, thank you for making time to speak today. It's great to have you here.
+
+[00:01:29 @elena_favilli] Elena Favilli: [laughs] Thank you for having me.
+
+[00:01:31 @craigmod] Craig: We've known each other since, I guess, 2011?
+
+[00:01:35 @elena_favilli] Elena: I think it was 2012. Yeah, when we moved to San Francisco. Yeah, it was 2012.
+
+[00:01:40 @craigmod] Craig: I was looking back through email stuff, trying to find exactly when we first contact to each other, and it turns out, you followed me on February 4th, 2011. That's [laughs] when Timbuktu Labs on Twitter followed me. That was...
+
+[00:01:57 @elena_favilli] Elena: [laughs] I guess, I got to know you before we met physically in San Francisco. Yeah, I think I discovered one of your articles on the "The New York Times," and that's how I started to follow you on Twitter.
+
+[00:02:15 @craigmod] Craig: You guys reached out to me, and I at that point in time, in 2011-2012, I was getting all of this inbound about people making apps. Everyone was making a digital magazine and everyone was trying to put together an iPad app.
+
+[00:02:29 @craigmod] This was an exciting time to be doing this stuff. Your email came in, and I just pushed it off and pushed it off because I pushed everyone's emails off. You followed up, and you followed up, and I finally opened the Timbuktu app and I was blown away. It was the most delightful thing I had opened since I've gotten an iPad. In fact, I wrote back to you right away.
+
+[00:02:54 @craigmod] I have the email. I said, "Wow, I just downloaded and spent half an hour with Timbuktu. You are all crazy. I love it. It's the weirdest thing I've seen out of all the kids' apps I've downloaded. It has real voice and real character." [laughs] Then, you guys wrote back, "I love that you said we're crazy. We are indeed."
+
+[00:03:15 @craigmod] [laughter]
+
+[00:03:16 @elena_favilli] Elena: That's so cool. I didn't remember this. It's so cool. It totally sounds like us. [laughs]
+
+[00:03:25 @craigmod] Craig: It is wonderful. This is the thing that has been a theme throughout all of what you've made. It's that your voice and the character of what you're creating is so strong, so well defined, and so joyful. When you and Francesca began this in 2011, what was the process of getting to that voice of playfulness that you had?
+
+[00:03:46 @elena_favilli] Elena: This was really a natural voice that's always been with us and within us. It's just our normal approach to life, I would say, before apps and books. It's really our tone of voice.
+
+[00:04:03 @elena_favilli] We thought that it would be cool to bring that perspective to the children's media space which is, instead most of the times, strictly educational, strictly scholastic and people talking down to kids and explaining how things are, how they should be. We really wanted to stay away from all of that.
+
+[00:04:27 @elena_favilli] We thought that the iPad that was about to come out at the time, or had just come out, was the perfect medium to experiment a bit with this new approach to children's media and communication. We've always been very passionate about children's books, the physical aspect of illustration and of children's communication has always a strong part of our background and passion.
+
+[00:04:56 @elena_favilli] We really wanted to try to take that and try to bring it and translate it into a digital experience.
+
+[00:05:04 @craigmod] Craig: Why did you feel the need to bring it into a digital place? What was exciting at that moment that made you think that?
+
+[00:05:09 @elena_favilli] Elena: I remember that moment. We had been studying this iPad thing before it came out and it was about to come out. [laughs] I remember there was this hype around it and this promise that it would be a new tool that eventually would take over. Everybody would be on the iPad, especially children. Maybe they wouldn't read books anymore. They would just play with the iPad and learn and read on the iPad.
+
+[00:05:41 @elena_favilli] It was a way for us to experiment with a new medium, which has always been something that we both love. This combination...also, the combination of and the intersection of design and technology was something that...It's always been at the core of our research.
+
+[00:05:59 @elena_favilli] The iPad, at the time, was the perfect tool to do that because it was a design object, but it was also a cutting edge technology object. It was so new and nobody knew at the time what they were doing with the iPad, really. Even those people who said that they knew. Nobody knew.
+
+[00:06:19 @craigmod] Craig: I still don't think most of us know what we're doing with the iPad. In that time, though, what was so difficult was that you had to be a really technical person to make an iPad app. In the same way, anyone can make a Keynote presentation and make it pretty and make it work, to make an iPad app back then you had to be a technical person.
+
+[00:06:39 @craigmod] The reason why I was so reticent to open up your app when you first approached is because I had seen so many other apps that were so boring, that may have been technically well executed but had no soul. They were these soulless technical things or they'd be 10 gigabytes of data. It was kind of crushing.
+
+[00:07:01 @craigmod] When I opened your app, the thing that struck me was all the technology fell away. It was pure joy and voice and ownership of the space in a way that I hadn't seen anyone else do. That was ultimately why I got so excited about what Timbuktu Labs could produce.
+
+[00:07:22 @craigmod] The technical stuff you can figure out. Whatever. You can raise some money. You can hire some engineers. You can brute force tech but you can't brute force voice, and joy, and a lightness of being, and a seduction of good character. It was this feeling of being pulled into another world and wanting to stay in that world.
+
+[00:07:48 @craigmod] I remember thinking, "Yeah, this is pretty special. This is not something you see every day."
+
+[00:07:54 @elena_favilli] Elena: I guess that's because we're not tech people. Francesca and me, none of us, we don't have a tech background so technology is something that we learned along the way. It wasn't our main focus. Our main focus has always been content.
+
+[00:08:13 @elena_favilli] That's what's made a big difference in our apps, if you compare them to most of the apps that were around at the time, especially the children's space. There was this magical feeling to it that was purely editorial, I would say, way more than technical. That came from our content related background and interest.
+
+[00:08:35 @elena_favilli] We were also lucky enough to find, when we started, a good developer and a friend in Milan when we put together the first issue of "Timbuktu Magazine." He was as excited as we were about the content that we were producing. He was a strong, solid designer who was happy to experiment with the iPad and with iPad apps.
+
+[00:08:56 @elena_favilli] He was also very passionate about the kind of magic content that we were trying to produce and this new approach to children's communication that we were trying to bring into the iPad.
+
+[00:09:07 @elena_favilli] It was something that came together very naturally. We were working out of our kitchen in Milan at the time on weekends and at night. We had full-time jobs. I was working full-time as a journalist. Francesca was working full-time as a theater director and playwright.
+
+[00:09:27 @elena_favilli] We both brought our worlds of creativity and imagination to this project that then became a startup.
+
+[00:09:39 @craigmod] Craig: Magic is a perfect word. You said, "We're trying to inject magic into this." I think that's what it felt like. The iPad came with the promise of magic but so little actual delivery of magic. The work that you and Francesca were producing felt like actual magic, felt like true magic, which was cool.
+
+[00:09:55 @craigmod] You won a bunch of awards. The app did pretty well. How would you categorize the goodness of how...Did the app do well? Did it do better than you expected?
+
+[00:10:04 @elena_favilli] Elena: Oh, yeah. It did better than we expected, definitely. We got a lot of press right after it came out, especially in the US, which was our goal, because we wanted to try to move to the US and see if we could take this project to the next level and maybe bring the company around it.
+
+[00:10:25 @elena_favilli] It had a nice reception in terms of press and design awards, because the design feeling and aspect of it was immediately one of the most praised aspects of our work. But then, it failed to reach that level of economic independence that then gives you the strength that you need to carry it forward. It never became sustainable.
+
+[00:10:52 @elena_favilli] We were winning awards. We were getting nice press coverage, but we were never making enough money to keep up with the costs. At some point, it became clear that it wasn't a thing that we could keep doing for too long.
+
+[00:11:06 @craigmod] Craig: Unfortunately, you can't eat award certificates or use them to pay rent or hire developers or whatever. It's funny. It's like prestige is inversely proportional to commercial success in a lot of ways. The more love you get from the insiders, the more love you get from certain aspects of the press, the less mass successful things are on a commercial scale.
+
+[00:11:27 @craigmod] What wasn't working? What part of the economic model wasn't coming together? You were giving the app away for free but you could buy subscriptions. What was the model you were using and why do you think it didn't work?
+
+[00:11:41 @elena_favilli] Elena: We tried a subscription model. With the app, you could download it for free. You had access to a few free content. Then, we were asking you to pay for a subscription. It could be monthly or annual. We never reached a large enough user base of paying subscribers that could pay for the costs.
+
+[00:12:02 @elena_favilli] The costs of production were very high because we struggled to create this magical experiences that we were talking about before. You need to come up, first of all, with really strong content. Even from a concept perspective, it takes time. It takes time and it takes effort.
+
+[00:12:25 @elena_favilli] Then, you need to translate that concept into great experiences both on the graphic and illustration side, and on the technical and interactive side, because we always tried to create these stories that could be highly interactive for kids to explore and to play with.
+
+[00:12:45 @elena_favilli] It was costly on the production side. We weren't able to charge crazy amounts of money for the subscription.
+
+[00:12:54 @craigmod] Craig: What were you charging?
+
+[00:12:55 @elena_favilli] Elena: I think we were charging nine per month. I don't remember the annual subscription right now, but yeah, it wasn't a big amount. It was pretty much aligned with magazine's subscription. At the time, we were positioning this as a magazine for children.
+
+[00:13:15 @elena_favilli] Most of the content was around news and current events from all across the globe. We were trying to find a more quirky and interesting angle to tell those stories to a kids audience.
+
+[00:13:28 @elena_favilli] Partly, it was the structure of the cost of production and also the intensity of production, the amount of hours and hours of work that we had to put into every single issue. That wasn't really sustainable after a while.
+
+[00:13:46 @elena_favilli] I also think that the magazine, yes, we found our niche of people who were, in their way, raving about this magazine, but then I think we never truly found product market fit, meaning that most of the times, at least for the mass audience and market, it wasn't clear to them what this was.
+
+[00:14:14 @elena_favilli] I remember this user sessions with kids, with parents. Sometimes, parents were very candid. "What is it? How are you supposed to use it? Is this educational? Is this just for fun? Is this teaching them lessons about...?"
+
+[00:14:36 @elena_favilli] In the US especially, I think there's such a strong obsession with results and with goals. If you're not able to immediately categorize something and say, "Oh, this is for after school when my kid is reinforcing his alphabet or math skills. OK, so I'm buying this."
+
+[00:15:00 @elena_favilli] If you don't have that, especially in the US, it's hard for parents to make that decision of, "Yes, I'm buying this subscription to this thing." It was this mysterious object, I think, for most people at the time.
+
+[00:15:20 @craigmod] Craig: Do you think anyone figured it out? Did anyone else who was out there doing magazine things or kids apps, did anyone find product market fit?
+
+[00:15:29 @elena_favilli] Elena: Certainly, not on the magazine or publishing side. I think that the only apps that are working on the publishing side in the iPad are those apps that created some sort of Netflix for children's books. They're more platforms. You pay a subscription that can be monthly or annual. It's mostly for content that is then produced by somebody else.
+
+[00:15:57 @elena_favilli] I don't think that nobody has really figured this out clearly yet. I'm not sure that no one ever will at this point. I don't know. I feel that the app market for children, especially, is kind of messed up right now. I don't see many people experimenting with it anymore.
+
+[00:16:17 @craigmod] Craig: I guess it's a question of is the medium fundamentally flawed in some way? Is the iPad just not the place to do these things?
+
+[00:16:25 @elena_favilli] You guys have made a lot of apps, haven't you?
+
+[00:16:28 @elena_favilli] Elena: Oh, yes. We did 12 or 13 at the end. The iPad, I think it's working when you create apps that are designed around a very specific task or maybe just a few different specific tasks. They need to be highly focused if you want them to work and to have users working on them and playing with them on a constant basis.
+
+[00:16:52 @elena_favilli] In our case, we were instead trying to create this ever-changing editorial experience. When we started, it was actually changing every day. We had a different story every day, which was kind of crazy because it was a lot of work.
+
+[00:17:06 @elena_favilli] Also, it didn't make any sense for the users because, especially with children, they love to read the same story over and over again. We overestimated our ability to capture their attention.
+
+[00:17:19 @elena_favilli] Of course, there are some apps that are doing this in the right way, but I think that they are very specific. You have a great app to learn the alphabet, or you have a great app to learn the states of the US. They are very, very limited in creativity and in scope. It was never something that was appealing to us.
+
+[00:17:40 @craigmod] Craig: Right, you had bigger ambitions than that. Does Timbuktu Labs make apps anymore?
+
+[00:17:44 @elena_favilli] Elena: We don't right now, no.
+
+[00:17:46 @craigmod] Craig: Have you announced that? Have you said anywhere, "Hey, we're not doing updates to the apps. They're out there but they're not being worked on."
+
+[00:17:52 @elena_favilli] Elena: No. We haven't publicly announced any change on that side. The apps that are out there in the iTunes space, you can still download them, and play with them. They're still working, but we're not producing, or releasing any new apps.
+
+[00:18:07 @elena_favilli] We just decided at some point to take a break, and go back to where we started from, and then see what else could we create.
+
+[00:18:20 @craigmod] Craig: It's crazy. There's a lot of this that's happened in the publishing industry. Like your story of 2011, heady days of getting excited about the iPad, going all in on it, doing things like doing daily content updates.
+
+[00:18:34 @craigmod] Huge content updates delivered through these subscription systems, trying to find sustainable models, trying to find new ways for kids to interact and learn. So many people went through that cycle, and then ended up coming out the other side I think in a similar place to where Timbuktu popped out which is, "OK, we're going back to what we know."
+
+[00:18:56 @craigmod] I don't know if that is saying that print media, or traditional media just is a powerful thing, or if it's saying that the iPad is kind of under baked, or the economies under which people are willing to operate on the iPad...
+
+[00:19:11 @craigmod] For example, you were only willing to pay $2 for an app. You're never going to make a sustainable business with a $2 app really. I don't know if that's the problem. How would you categorize Timbuktu today? If somebody said, "Hey, Introduce yourself? What is Timbuktu?"
+
+[00:19:29 @elena_favilli] Elena: I think today, I would call it a digital native brand especially when I think about "Goodnight Stories for Rebel Girls," and the whole movement, and the whole community that has formed around it. I would say that today, we are a digital native brand, and that we have done this starting from a physical object, and a very traditional one such as a children's book.
+
+[00:19:53 @elena_favilli] I think that, yes, we did go back to what we knew, and we went back with an additional layer of knowledge of the digital space, which I think at the end is what made all the difference because we were able to really design, and create this object, this book around a clear, and specific audience this time.
+
+[00:20:19 @elena_favilli] We were able to capture this audience online with a newsletter first, and then with a crowdfunding campaign. For the first time, I feel like we took all the lessons that we had learned along the way in the startup scene, and ecosystem of small iterations, and small tests, and customer research.
+
+[00:20:39 @elena_favilli] We took them with us, and we brought them to this other more traditional space of the book publishing industry where most people, and most companies are not doing this. They still think that you have this big idea that you create it, you publish it, and then they will come.
+
+[00:20:58 @craigmod] Craig: Goodnight Stories had this interesting genesis. You briefly noted it started with a newsletter, which I think most people wouldn't think of doing if they're starting a new book brand. When did you launch the newsletter? Was that the end of 2015 or end of 2016?
+
+[00:21:14 @elena_favilli] Elena: That was at the end of 15, and we used a newsletter for customer research, and also product research. Every week, we were sending out a short story about some extraordinary woman from the past or the present, and sometimes it was just text, sometimes it was a short video, sometimes it was maybe some illustrations with some text.
+
+[00:21:38 @elena_favilli] We were just testing different formats, different stories, and recording how the readers were responding to these stories.
+
+[00:21:46 @craigmod] Craig: When you say recording, were you doing an actual AB testing, and tracking clicks or?
+
+[00:21:51 @elena_favilli] Elena: Yes. We weren't doing AB testing at that point. It was I guess a more superficial level of testing. At the time we were using MailChimp, we were using all the usual KPI and metrics that come within those email service provider.
+
+[00:22:08 @elena_favilli] We were tracking the open rate, click through rate, time spent on them, on the blog reading the story. Then, we were measuring the pace at which the email list was growing week after week.
+
+[00:22:23 @craigmod] Craig: How many people did you start sending it out to? What was the audience?
+
+[00:22:26 @elena_favilli] Elena: I was actually looking at that the other day because I was like, "Oh my God. I really want to see where we started from," because now, the book has been translated into 42 languages, which is crazy. It's just completely...
+
+[00:22:38 @craigmod] Craig: That's insane.
+
+[00:22:40 @elena_favilli] Elena: insane. I was like, "Wait, but where did we start from?" The very first email that we sent was sent to a group of 25 people. That's where we started from, because I remember perfectly that we were like, "OK, we want to try something new. We're not going to use the Timbuktu newsletter."
+
+[00:23:01 @elena_favilli] We're going to start from scratch, and try to build this brand new list specifically interested in this kind of content. Empowering stories for young women."
+
+[00:23:12 @craigmod] Craig: Why did you feel the Timbuktu list wasn't a good starting point?
+
+[00:23:15 @elena_favilli] Elena: Part of it was that it wasn't a really active list anymore, and also we took this as a test. We were like, "OK, if we want this test to be really meaningful, we have to start from zero. We don't want to take with us any of the baggage positive, or negative that we have with Timbuktu." We decided to start completely from scratch for this reason.
+
+[00:23:40 @craigmod] Craig: You started with 25 people. Do you still have a Rebel Girls list now?
+
+[00:23:45 @elena_favilli] Elena: Yeah.
+
+[00:23:47 @craigmod] Craig: Can you say what number it's at now?
+
+[00:23:48 @elena_favilli] Elena: Oh yeah. Sure. We started with 25 people, and then when we launched the crowd funding campaign, the first one, we were at 4,000. This was just after six months after. Now, we are at 300,000 people on our email list. It's exponentially grown.
+
+[00:24:14 @craigmod] Craig: The economics of that. What does it cost you to send out an email now? To 25 people it's free. 300,000. I'm curious about that. I don't think I have ever asked anyone who has so many subscribers. Are you still with MailChimp?
+
+[00:24:27 @elena_favilli] Elena: No. Now, we are with another company called Klaviyo. The cost, yeah, it becomes expensive. On a monthly basis, I think it's $1,400.
+
+[00:24:40 @craigmod] Craig: That's not so bad. Is that for unlimited emails?
+
+[00:24:43 @elena_favilli] Elena: That's for unlimited emails to that user base.
+
+[00:24:47 @craigmod] Craig: Nice. That's not so bad. Wow. That's amazing. What a growth curve though. That's over basically a year and a half. Two years basically. You launched a Kickstarter. It does really well. You get 675,000 or so from the Kickstarter, and then you continue on Indiegogo.
+
+[00:25:07 @elena_favilli] I think it's really ridiculous that you just can't continue on Kickstarter. That you have to jump over to another platform. You jump over into Indiegogo, and you get to 1.287 million or so, which is incredible. Now every year, it feels like the baseline of what a lot of money for a Kickstarter campaign or crowdfunding book campaign is gets reset seven years ago.
+
+[00:25:31 @elena_favilli] It's like if you got $20,000, that was a lot of money for a book on crowdfunding. Then two years ago when you did Goodnight Stories for Rebel Girls, it was the most money any book had raised on crowdfunding.
+
+[00:25:41 @elena_favilli] Elena: That's true.
+
+[00:25:44 @craigmod] Craig: Then getting it to 1.2872 over at Indiegogo, that's a lot of money for any book. Your goal was $40,000. Is that what the...?
+
+[00:25:55 @elena_favilli] Elena: Yeah. That was the initial goal.
+
+[00:26:02 @craigmod] [laughter]
+
+[00:26:02 @elena_favilli] Elena: I know.
+
+[00:26:04 @craigmod] Craig: Talk about where the company was when you decided to launch the Kickstarter campaign? Because you had been doing apps to this point for four, or five years, and they were not proving to be sustainable. Did you feel like the company was in a tough position?
+
+[00:26:23 @elena_favilli] Elena: Oh yes. Absolutely. Honestly, the company was dead at that point. It was just Francesca and me, and we had decided to move from San Francisco to LA, because we wanted to get away from all the craziness of the startup ecosystem where everyone was trying to push us to create a platform for kids' content instead of creating our own content.
+
+[00:26:47 @elena_favilli] We spent one year in LA just really spending time with ourselves, and we didn't know anyone there. We just spent a lot of time doing research, and trying to reconnect to what was important for us.
+
+[00:27:04 @elena_favilli] The company wasn't making money. We were using our own personal money just to survive, and were consulting on the side doing any kind of jobs that you can imagine when you're trying just to keep things going for a little longer before shutting everything completely down.
+
+[00:27:24 @elena_favilli] It became clear for both of us that this passion for gender equality, and female empowerment was our biggest, biggest passion, and focus. We decided to do something around it at some point.
+
+[00:27:42 @elena_favilli] Since we were in children's media, we were like, "OK, let's start from here because it's just the space that we know best. We know that we can create something meaningful." It was really the response to a very personal need, and also to a very personal pain I would say, because as you grow, and as your experiences in the workforce grow, and expand, you begin to realize more and more how more difficult to succeed.
+
+[00:28:11 @elena_favilli] It becomes painful. At some point, we were like, "OK, if we have to keep trying one more time, we really need to try with something that we care about, and something that we care a lot about because there's no way that I'm going to try to launch a new app on iTunes."
+
+[00:28:32 @craigmod] Craig: Also, there's no way you're going to let some random VC be like, "Hey girls, you got to make a platform. If it doesn't hit a billion users, you're worthless," which is the prevailing sentiment when you're up in the Bay area.
+
+[00:28:48 @craigmod] I think the fact that you had to physically extract yourselves from that environment, it makes a lot of sense to me as someone who also has extracted himself from that environment. I think it also speaks to just how...
+
+[00:29:02 @craigmod] God, in some ways, Silicon Valley is so wide eyed, and optimistic, and in other ways, it is so myopic. So tiny. I think it's incredible that you physically extracted yourselves, and then you took some time, and space to reflect which is something that also doesn't happen very often up there.
+
+[00:29:23 @craigmod] It's, "Keep going faster, faster. Make more. You know what? No more users. What? What's the growth rate?" There's no sense of taking a step back, taking a breath. When you're moving towards the Kickstarter campaign, you were in this place of this is the last thing we can try before we're really out of money. Is that what it felt like?
+
+[00:29:42 @elena_favilli] Elena: Oh yeah. Completely. There was a lot of pressure from us, and also a lot of expectations, because we knew that this campaign could become something big. The initial goal was $40,000, but in our mind, we had a secret goal that we didn't even want to share it with each other.
+
+[00:30:02 @elena_favilli] We thought that we could probably reach 300,000 if we were lucky, and if everything was going as we thought it should. Then it immediately exploded the first day. I remember the first morning when we were, again, in our kitchen...We always launch stuff from our kitchen. We're Italian, we have to do that. It's the only way.
+
+[00:30:25 @craigmod] Craig: It's a beautiful place.
+
+[00:30:26 @elena_favilli] Elena: Yeah. I guess in Silicon Valley, everybody launches stuff from their garage, and we launch from our kitchen tables. That's the difference.
+
+[00:30:36 @craigmod] Craig: That's the trick.
+
+[00:30:38 @elena_favilli] Elena: Yes. I remember that we saw these people starting to preorder the book, and buy the book, and donate to the campaign. Within the first few hours, we had passed I think 40 percent of our funding goals. It was immediately clear that the campaign was going to be funded, and that we could go on raising additional funds.
+
+[00:31:04 @elena_favilli] It was I think one of the most exciting moments for us, was that instant realization that things were going to change, and finally, were going to work in our favor.
+
+[00:31:19 @craigmod] Craig: Goodnight Stories for Rebel Girls" is not the first book of this kind. There are other books out there that are about amazing stories about women, and children's books about empowerment, and things like that. Why do you think this book at that moment caught on the way it did?
+
+[00:31:36 @elena_favilli] Elena: I think it's a combination of many things, and I think the title honestly is a big part of it. The title is strong, and it works, and it's exciting for people because everyone wants to be a rebel girl.
+
+[00:31:48 @craigmod] Craig: I want to be a rebel girl.
+
+[00:31:53 @elena_favilli] Elena: Yes. Why not? Right. It really captures their imagination, and they feel that they want to be part of it. Also, I think that we did it in a different way. Most of these books that collect stories about real women, extraordinary women, they're usually quite dry and cold.
+
+[00:32:13 @elena_favilli] They're more like little encyclopedia for kids where they're putting together collections of stories of biographies. Short biographies where the typical tone is, "Oh, this was the first woman to do this, and this was the first woman to do that."
+
+[00:32:32 @elena_favilli] Again, it's a very classical scholastic approach to exposing children to these kind of themes and stories whereas we decided to go with the fairytale twist. We transformed these biographies into fairytales, which I think it's the most engaging aspect of the book, and of the stories themselves.
+
+[00:32:55 @elena_favilli] Because they're not dry biographies anymore. They become this very warm, and imaginative fairy tales that you really want to read out loud before going to sleep. I think this aspect of creating a story that can become part of your bedtime routine is what made the book so successful, because it immediately gave people clear user case people in the app space would say.
+
+[00:33:28 @craigmod] Craig: Right. I was just going to say it's like with the parents who are looking at the app going, "What's the benefit again of this? How do I integrate this into my life?" This book is like the perfect product market fit. You say, "Hey, before you go to bed, read a story."
+
+[00:33:44 @elena_favilli] Elena: The user case was very clear. Yeah.
+
+[00:33:46 @elena_favilli] [laughter]
+
+[00:33:50 @craigmod] Craig: Silicon Valley isn't entirely wrong about finding...Product market fit is important.
+
+[00:33:55 @elena_favilli] Elena: Oh no. Sure. It is. It is important. We're so grateful for all that we learned there, don't get me wrong when I say that we had to get away, but yeah.
+
+[00:34:08 @craigmod] Craig: I think what you're speaking of again is voice. It's like it's the same thing that you, and Francesca have been doing for almost a decade now. It's like taking great voice, and applying it to different mediums.
+
+[00:34:22 @elena_favilli] It's like the iPad had that great voice, but it just so happened that the market there was so weird, and the economics of it were so strange, and the upfront cost of content production was so high it just didn't work.
+
+[00:34:34 @elena_favilli] In the case of a book, you've taken that same joy, that same magic, and that same strength of voice, and you've made this object out of it. How has that been? Was there a community around the apps that you found forming, and how does that compare now to this community that you found come together around these books?
+
+[00:34:54 @elena_favilli] Elena: No. I don't think we were ever able to create a community around the apps. It was always a small community, and it wasn't really engaged on a level that you can say, "Oh yeah. We have a community. We have two million users."
+
+[00:35:11 @elena_favilli] Even if we had two million downloads, even at that time when we reached the two million downloads, we still couldn't say that we had a super engaged community. It's tough. I think it's tough. Creating communities around apps I think it's really difficult even when apps take off.
+
+[00:35:30 @craigmod] Craig: What is it about apps that make that tough?
+
+[00:35:32 @elena_favilli] Elena: I think that other than of course social media apps, I don't think people have the same kind of relationship with small little icons that they have on their phones.
+
+[00:35:44 @craigmod] Craig: You don't hug your icons before you go to bed?
+
+[00:35:48 @elena_favilli] Elena: No, I don't. I think it's quite tough to create a strong sense of community around a single app. Some companies have been able to do that, and when I say this, I think some music apps for example, like Smule, which was part of 500 when were there, there are some apps that have done this, and are doing this in some spaces, but I think it's quite rare.
+
+[00:36:16 @elena_favilli] With a book instead, of course, books are social objects by definition I would say. They have been with us forever, and we are just used to having them around our physical space, our rooms, our bed, our cars. They have this physical presence that it's still really strong.
+
+[00:36:40 @elena_favilli] Especially with people being constantly immersed, and fully immersed in the digital space, I think that physicality of the objects is becoming more, and more important, and especially for something like books that still...
+
+[00:36:56 @elena_favilli] Although of course, we read books on the Kindle, and I do that all the time, but still there's certain books that I prefer in their paper in their paper format that I wouldn't buy on a Kindle. I think this book is one of those.
+
+[00:37:10 @elena_favilli] It's not just a collection of stories, but it's also of this beautiful design object that people like to buy, and to have with them on their table, or on their bedtime table. Yeah, we see pictures all the time of children hugging the book, and taking the book with themselves to bed as if it were a toy, or more than a book.
+
+[00:37:35 @elena_favilli] I think that's something that you can create really only with physical objects, and the community that formed around it is just incredible. I think it's the most incredible aspect about this new adventure.
+
+[00:37:50 @elena_favilli] We see everyday people sharing pictures from every corner of the globe with this book translated now into so many languages. It's just insane for me to see how connected they feel to this object.
+
+[00:38:06 @craigmod] Craig: What are you doing to help foster that connection? Are they all joining your mailing list? Is there an online list that they congregate in? Are you doing events?
+
+[00:38:14 @elena_favilli] Elena: Yes. We're doing a combination of those things, and on social media, we're using a lot Instagram to collect and give space to these stories, to these pictures that come from our users, and from our readers. Then yes, also we use our newsletter as a space for them to come in, and to continue to be part of the conversation with us.
+
+[00:38:40 @elena_favilli] Then we are doing more, and more events in different places. We're doing a lot of events in Europe where the book has done extremely well. We're doing book signing events. We're doing presentations. We're doing sometimes events even in theater just reading the story sometimes with actors, sometimes just Francesca and me.
+
+[00:39:03 @elena_favilli] It's a combination of things, and it's ever changing, and we're constantly learning new ways to interact with them, which is I think one of the most exciting parts of this work now.
+
+[00:39:19 @craigmod] Craig: It's interesting you called a book a social object, because I think one of the promises of the iPad in the digital world was that it was going to make these things that were I think non-social.
+
+[00:39:30 @craigmod] A book is a thing that isn't connected. It's isolated. It's on its own. It's this thing you have an intimate one on one relationship with, and even if people are reading the same book, you don't know they're reading the same book.
+
+[00:39:41 @craigmod] This is the whole thing of shared marginalia, and let's read a book together, and let's do this on the Kindle, on iPad apps or something. Even in Timbuktu, it's like let's all exist in the same space. Let's all gather in the same space, and read this text together, or experience this story together.
+
+[00:40:01 @craigmod] A physical book isn't that, and it's funny that the iPad, and the digital book spaces, the Kindle and iBooks or whatever didn't ever fulfill that promises. What you've done with Rebel Girls is you've created these totems that people can form an intimate relationship with, the kids can take to bed with them in a way that is more I think understandable because it has edges in a way that like an iPad app doesn't, or a digital thing doesn't.
+
+[00:40:28 @craigmod] Then Timbuktu, you and Francesca have just done such a good job at creating connective tissue. The mailing list, that's the social layer in a weird way on top of a book in a way that most publishers don't get. From an outside perspective looking in at what you've built, it's like you have these incredible digital connective tissues.
+
+[00:40:49 @craigmod] Using Kickstarter, when you use Kickstarter, everyone feels like they're part of it in a way that you can never be part of with a big publisher. I think that's probably a lot of the energy that you feel maybe is in part because you didn't go to like Penguin Random House, and put it out through them. You did it on your own.
+
+[00:41:08 @craigmod] Everyone feels like, "Yeah. We're part of this." You have community coming together there. You have community on the mailing list, and then you have all of the follow up stuff that draws its momentum from what is ultimately an isolated physical thing. The book.
+
+[00:41:27 @craigmod] I just think it's interesting. Even though a book itself is not inherently social at all, it's like the most anti-social thing you could do, is I'm going to go in the corner, and I'm just going to be quiet. I'm going to be quiet. I'm not going to talk to anyone.
+
+[00:41:39 @craigmod] Yet, it has the power to transmute that experience in a way that gets people so excited that they're willing to come together, they're willing to gather, they're willing to hold up these ideals which is really exciting. It's really exciting to see you find that fit because I think you've always been moving in that direction.
+
+[00:41:59 @craigmod] Watching Rebel Girls go from a Kickstarter campaign, and watching your update videos, your update videos are like one of my favorite things in the world, because it's like you feel how excited you both were, and surprised. Also relieved.
+
+[00:42:15 @craigmod] Hearing that back story about where you were in that moment reframes those videos in a little way where there's palpable relief like, "We aren't going to have to give up on our ideals." It's a really incredible transition.
+
+[00:42:28 @craigmod] Six or seven years ago, if I said where do you want Timbuktu to be in three years, or four years, you probably would have said something like, "Oh, we want to have this incredible app ecosystem, and have millions of paying customers, and producing all this great multimedia content."
+
+[00:42:43 @craigmod] Today considering where you are right now, and considering the success you've had with these books, what is the ideal five years from now for you?
+
+[00:42:51 @elena_favilli] Elena: In some ways, I think the idea has always been the same. The idea for us, and the dream for us was to build a digital media company, and even if the output now is physical books, that doesn't change the fact that we consider ourselves a digital media brand.
+
+[00:43:12 @elena_favilli] We think, and we've always thought of this book Goodnight Stories for Rebel Girls as this cornerstone of a larger media brand that can connect with this audience of young women, and keep creating meaningful objects for them.
+
+[00:43:30 @elena_favilli] Of course when I say objects, I think mostly about books because books is the core of our expertise. Also of our passion. At the same time, I also think about other digital ventures that could come along the way.
+
+[00:43:47 @elena_favilli] Like this podcast that we're about to launch, which will be called again "Goodnight Stories Rebel Girls." This first season will be 10 episodes each one focusing on a different woman from the past or the present.
+
+[00:44:02 @elena_favilli] We go from Margaret Hamilton to Harriet Topman to Maria Carlos. It's going to be interesting to see how we can tackle this new medium, and this new adaptation of our stories with sound, with music, with a host reading the stories in a slightly longer format. Again, it's an experiment. It's a storytelling experiment. We are storytellers more than anything else.
+
+[00:44:32 @elena_favilli] We love to experiment with different storytelling formats. I think that we will just continue to do this with whatever we think might be relevant. I think podcast, and audio right now is such an interesting space.
+
+[00:44:47 @elena_favilli] Maybe just like the iPad was back in 2011, 2012, it's one of those new emerging spaces where you feel that you can start to work in, and start to experiment different things, and see what works, what doesn't.
+
+[00:45:05 @elena_favilli] You feel that you have the freedom to experiment, and you'll start trying to do something that is quite cutting edge, because it's something new that people are now doing it. Radio of course is not new, but the podcast consumption is new, and the podcast format is new.
+
+[00:45:21 @elena_favilli] I guess that's also what's exciting for us. It's always trying to be one step ahead, or at least try to be, and keep experimenting with every new platform format medium that seems relevant to the storytelling experience.
+
+[00:45:42 @craigmod] Craig: When you think about the podcast, how do you think about it in economic terms? Not to be like coldly business focused or whatever, but for me, one of the questions I ask anyone who's doing either if it's a startup or books or whatever, is that how do you keep it sustainable because ultimately, that sustainability is what enables more magic to exist. You have to keep that in mind.
+
+[00:46:04 @craigmod] When you think about something like this podcast, how does it fit into your overall media strategy for the company?
+
+[00:46:11 @elena_favilli] Elena: For this first season, we're not going to have ads. There's not that piece of monetization. So far, it's just sustained by the sales of our books. The business model there so far is very simple. It's just we can afford to produce it, and to make it because we are selling our books, and we're making enough money to start this new production.
+
+[00:46:39 @elena_favilli] In the future, I don't know. There are I think a bunch of different things that we can do around it. I think that if the podcast becomes successful, and keeps on building an audience, very targeted audience, it can become something very appealing for a sponsor, because of course, we are talking to very specific kind of readers.
+
+[00:47:02 @elena_favilli] It could also become something that we could try to sell with a subscription, because of course, it's recurring episodes, and if people like them, and want to listen to them, that could also be an option.
+
+[00:47:16 @elena_favilli] I don't know. I don't have an answer now. I think it's something that we will need to wait and see, and honestly, that's what's most exciting for me right now. Because we don't know. We are entering this field, and we don't know, and we will find out along the way.
+
+[00:47:35 @craigmod] Craig: That's the nice thing about having a book, is people underestimate the power of being able to sell. How much do you sell Rebel Girls for?
+
+[00:47:43 @elena_favilli] Elena: We sell it for $35 and the reason why we're able to make a lot of money with it given that we're talking about business, and money is that we decided to be completely independent.
+
+[00:47:55 @elena_favilli] Timbuktu, our company is the publisher of the book. As you can imagine after the crowdfunding campaign, we started receiving gigantic offers from all the big publishers in the US.
+
+[00:48:13 @craigmod] Craig: Really? Can you say what the biggest offer you got was?
+
+[00:48:18 @elena_favilli] Elena: Yeah. The biggest offer was one million advance for book one which is something that usually if you're a writer, it really never happens. Almost never happens to you unless you're a super famous rock star or writer.
+
+[00:48:35 @craigmod] Craig: Hold on a second there. You had raised a million basically on your own, and you would have kept that million that you'd raised, and then they would have gotten the rights for a million dollars basically. You would have gotten two million in total. Having been six months earlier wondering if the company can continue to then suddenly having...
+
+[00:48:55 @elena_favilli] Elena: Two million.
+
+[00:48:56 @craigmod] Craig: potential of basically two million in profit on the table, what was the calculus you went through to go, "OK, we don't need that million. We're going to own the whole stack, and this is why"? What was the thinking there?
+
+[00:49:09 @elena_favilli] Elena: Because we're crazy. Because from that very first email.
+
+[00:49:15 @craigmod] Craig: I don't think you're crazy. I think you're really smart.
+
+[00:49:19 @elena_favilli] Elena: We took a big risk of course. This could have gone completely wrong, and we could have ruined it.
+
+[00:49:25 @craigmod] Craig: Fulfillment sucks. Fulfillment and distribution sucks.
+
+[00:49:30 @elena_favilli] Elena: Fulfillment sucks. Fulfillment and distribution are horrible, and it was completely new for us. We didn't know anything about fulfillment, and third party logistics when we started fulfilling the campaign.
+
+[00:49:44 @elena_favilli] It never really crossed our mind to sell the rights for one million. We thought that this could become something bigger, and we thought that we worked so hard, and learned so much over the previous years that we could really finally have this opportunity to take all of that, and try to cave it to the next level.
+
+[00:50:06 @elena_favilli] It was a bet, and it was a risk, but we like risks I guess, and we like challenges. Also, we love the idea of trying to create this independent publishing model that could break new ground, and also disrupt the traditional publishing model where typically you need a big publisher to make a lot of money, and to sell a lot of books.
+
+[00:50:34 @elena_favilli] We were able to get to the "New York Times" best sellers list with no publisher behind us, and with no distribution behind us because we have a direct consumer approach, we are also the distributor our books.
+
+[00:50:49 @elena_favilli] To us, these kind of results, which maybe if you're not an insider of the publishing industry, you don't think about that, but it's one of those things that really gets us excited.
+
+[00:51:01 @craigmod] Craig: Yu're doing the thing that you set out to do when you started, which was to take the promise of all these new mediums, and produce something beautiful and magical and inspiring.
+
+[00:51:14 @craigmod] Just because the end artifact is a physical book which it's an old thing, everything you've done along the way has been new. Everything. This book couldn't have been made 5 years ago or 10 years ago. Everything that you've used to make this book is because you've leveraged contemporary systems, and because you had this digital experience. You weren't afraid of it.
+
+[00:51:41 @craigmod] Going forward, it really feels like you've set the foundation for a kind of freedom that creators like you deserve. I don't know if you feel that as well.
+
+[00:51:51 @elena_favilli] Elena: Mm-hmm.
+
+[00:51:51 @craigmod] Craig: You put in a lot of work honing your voice and understanding who you want to be in the world and what kinds of things you want to put in the world. Through these books, you found that fit and you found that permission from all of these people, all of 42 languages. That's incredible. All these people around the world are giving you permission to do the thing that you've always felt in your heart to do. I think that's pretty amazing.
+
+[00:52:19 @elena_favilli] Elena: Thank you. This is so beautiful, so beautifully said. I agree completely, especially on the freedom piece of it because it is true. We always fight for our independence, our freedom as creators, as producers. That's one of the main reasons why we decided not to sell the rights to any big publishers.
+
+[00:52:45 @elena_favilli] We knew that the moment you do it you lose control. To be full in control of your creativity, most of the times you need the economic control. This was the perfect combination for us, the crowdfunding campaign and everything that's surrounding that. It gave us the perfect opportunity to have both the creative and the economic control, which is something so rare for creators, I believe.
+
+[00:53:16 @elena_favilli] While you have the chance to have it, you should keep it.
+
+[00:53:20 @craigmod] Craig: It's so rare, in part, because all of the things that you're doing most people don't want to do. A lot of people give up control because they don't want to deal with the logistics. They don't want to deal with fulfillment. They don't want to think about production.
+
+[00:53:32 @craigmod] Not only are you comfortable with these messy technical things, which you've proven over the years, but you also have the storytelling chops. People talk about unicorns but I feel like Timbuktu is one of these media unicorns.
+
+[00:53:46 @elena_favilli] Elena: Thank you. That's great to hear. That's the best compliment.
+
+[00:53:50 @craigmod] Craig: An Italian media unicorn sitting in a kitchen.
+
+[00:53:56 @elena_favilli] Elena: Sitting in a kitchen.
+
+[00:53:57 @craigmod] Craig: Lunch and stuff.
+
+[00:53:58 @elena_favilli] Elena: I love this. We need a comic.
+
+[00:54:03 @craigmod] Craig: An illustration.
+
+[00:54:04 @elena_favilli] Elena: Or an illustration, yeah.
+
+[00:54:07 @craigmod] Craig: Thank you so much for taking the time today to talk.
+
+[00:54:08 @elena_favilli] Elena: Thank you. It was my pleasure.
+
+[00:54:11 @craigmod] Craig: Give Francesca a hug for me.
+
+[00:54:12 @elena_favilli] Elena: I will. Bye-bye.
+
+[00:54:14 @craigmod] Craig: Bye-bye.
+
+[00:54:16 @craigmod] Thank you for listening to Episode Four. I'm back in my own studio now, no longer on the mountain. That makes me a little bit sad. It was an incredible walk I just did. When I recorded that intro, I wasn't kidding when I said I just spent a couple days thinking about the people and the institutions that are like a guiding light to me or that are inspiring.
+
+[00:54:41 @craigmod] Elena is definitely one of those people. Listening to this interview again now, weeks later, I feel that more strongly than ever.
+
+[00:54:48 @craigmod] I want to give a big thanks to her for taking the time out of her super busy schedule to get on the phone with me, hop on Skype, and do that call because they were in the middle of launching a bunch of new stuff, including the new podcast, which you should totally go and check out. It's incredible.
+
+[00:55:08 @craigmod] I know that so many people are going to get so much out of what Elena had to say in this podcast that I'm grateful that we had that time to put this together.
+
+[00:55:18 @craigmod] Thank you, thank you, thank you, Elena. Thank you to all of the listeners out there. I've been overwhelmed by the amount of responses I got to some questions about having people help out with this podcast.
+
+[00:55:32 @craigmod] You have these vague senses of the reach of things online, sometimes more vague than others. It's nice to know that there are people out there listening and enjoying this. If you are and want to help out, one of the most tangible things you can do to have a positive effect on this is to, obviously, link to it, or tweet about it, or put it up on your Mastodon or whatever the heck we're using today.
+
+[00:55:58 @craigmod] You can also go and leave a review in the iTunes store. That would be a huge help.
+
+[00:56:03 @craigmod] Thank you in advance to all of you who have left reviews. We will catch you in the next episode. Bye-bye.

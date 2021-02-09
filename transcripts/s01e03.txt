@@ -1,0 +1,1382 @@
+[00:00:00.00 @craigmod] Craig: You're listening to On Margins. I'm Craig Mod and this is episode 003. We made it to three episodes.
+
+[00:00:09.43 @craigmod] I know that's not a lot but I've been moving around a lot and doing a bunch of other projects in the background,
+
+[00:00:15.55 @craigmod] so to get to three feels pretty good even though it's kind of a nothing number. Today we're talking with Kevin Kelly.
+
+[00:00:23.33 @craigmod] Now, man, Kevin is known for many things.
+
+[00:00:26.39 @craigmod] He's the co-founder of Wired Magazine, he worked with Stewart Brand on the Whole Earth catalog,
+
+[00:00:32.05 @craigmod] he's the author of half a dozen books on technology futurism,
+
+[00:00:35.01 @craigmod] you know a few of which have made it him even kind of a superstar in China,
+
+[00:00:39.73 @craigmod] replete with young fans who have Kevin Kelly tattooed on their shoulders. It's kind of crazy.
+
+[00:00:46.44 @craigmod] But I know Kevin most of all for his walking actually, long walks sometimes in the city, sometimes in the countryside.
+
+[00:00:55.37 @craigmod] Kevin walks and he photographs with a quiet deliberation and an endless curiosity and generosity of heart.
+
+[00:01:03.68 @craigmod] And so in this episode, I speak with Kevin not about the future of technology,
+
+[00:01:09.87 @craigmod] not about the dozen books he's written on what technology wants,
+
+[00:01:14.83 @craigmod] but instead about his travels in Asia in the '70s during what you could kind of call a heyday of indie world
+
+[00:01:22.13 @craigmod] exploration.
+
+[00:01:22.49 @kevinkelly] Kevin: Someone like myself who had almost nothing could for very little arrive in these places which really hadn't
+
+[00:01:29.40 @kevinkelly] changed at all. They were completely medieval.
+
+[00:01:33.09 @kevinkelly] Cities like Kathmandu and Nepal, which was a city of, I don't know, maybe half a million,
+
+[00:01:37.49 @kevinkelly] three quarters of a million people without any cars. I mean a city without cars.
+
+[00:01:42.61 @kevinkelly] There were towns in northern Afghanistan that had no electricity, not just a village,
+
+[00:01:47.33 @kevinkelly] I mean a town without electricity so it was running with you know kerosene lamps being lit by a lantern lighter at
+
+[00:01:55.40 @kevinkelly] night and stuff. It was medieval in that sense or at least pre-Industrial.
+
+[00:01:59.29 @craigmod] Craig: Kevin shot thousands of rolls of film over the years and in the late '90s he made a book,
+
+[00:02:06.25 @craigmod] "Asia Grace." We're going to be talking about that today.
+
+[00:02:12.02 @craigmod] Kevin Kelly, thank you so much for making the time to be here today. It is so good to have you here with us.
+
+[00:02:18.63 @kevinkelly] Kevin: Hey, Craig. So great to hear your voice.
+
+[00:02:22.19 @craigmod] Craig: Even though we are separated by the Pacific Ocean, I feel like you're close.
+
+[00:02:26.93 @craigmod] So I just want to jump right in to the book.
+
+[00:02:31.25 @craigmod] You traveled extensively in your youth throughout Asia, and in 2002 many years after all that travel,
+
+[00:02:40.96 @craigmod] you released a book through Taschen of those travels.
+
+[00:02:48.17 @craigmod] I really want to dig into that today, what those travels meant and how you put this book together.
+
+[00:02:53.67 @craigmod] So, when were the bulk of the images taken?When was the bulk of that travel undertaken?
+
+[00:02:59.78 @kevinkelly] Kevin: I would say most of them, and there's maybe four to five hundred images in the book,
+
+[00:03:06.32 @kevinkelly] that most were taken in the '70s, the late '70s.
+
+[00:03:11.30 @kevinkelly] There was a smattering taken in the '80s and another batch taken in the '90s, early '90s.
+
+[00:03:20.13 @kevinkelly] The genesis of the book certainly took place in the '70s.
+
+[00:03:23.39 @craigmod] Craig: And this was when you were traveling alone through Asia for months, for years.
+
+[00:03:28.74 @kevinkelly] Kevin: For years. Yes. I was a kid with a camera, and a kid with a camera was actually pretty unusual back in the '70s.
+
+[00:03:36.68 @kevinkelly] We were just coming out of a time, for instance, in my own family where there might be one camera per family
+
+[00:03:46.47 @kevinkelly] and you had a roll of film, 24 exposures. It might take you a year.
+
+[00:03:53.87 @kevinkelly] You might take 24 images a year because you get the film developed and there'd be a picture from Easter
+
+[00:04:01.64 @kevinkelly] and one from graduation, a couple from graduation, and then two or three from Halloween.
+
+[00:04:07.47 @kevinkelly] So people were taking maybe a couple dozen images a year..
+
+[00:04:11.91 @kevinkelly] When I set out with a camera taking lots of pictures, this was very .. Relatively very very unusual.
+
+[00:04:18.79 @kevinkelly] It was just kind of the beginning of the SLR, the single lens reflex moment
+
+[00:04:23.59 @kevinkelly] when people were just beginning to get into it and to kind of treat this seriously,
+
+[00:04:29.27 @kevinkelly] meaning they were taking a lot of pictures.
+
+[00:04:30.85 @kevinkelly] I was an early photography fan and you know I set off to be a National Geographic photographer and photograph Asia.
+
+[00:04:39.76 @kevinkelly] The only thing I had in my backpack was film basically, which you needed to bring.
+
+[00:04:46.35 @kevinkelly] It was bulky and took a lot of space and was very very very expensive relative to now.
+
+[00:04:52.29 @kevinkelly] One snap of the shutter, one shot was three or four dollars, maybe even more.
+
+[00:04:58.00 @kevinkelly] I was taking two rolls, which is 70 pictures a day.
+
+[00:05:01.82 @kevinkelly] And when I told people that, they were absolutely gobsmacked, astounded, incredulous.
+
+[00:05:08.24 @kevinkelly] They didn't understand how you could take 70 pictures a day.
+
+[00:05:14.99 @kevinkelly] It just seemed crazy because, as I said, they were taking maybe a couple dozen a year.
+
+[00:05:21.37 @kevinkelly] This is a completely different mindset than today's world with ubiquitous camera phones
+
+[00:05:27.64 @kevinkelly] and people take 70 pictures a day without blinking.
+
+[00:05:31.12 @kevinkelly] So I was doing photography at a time where it was just at the beginning of that moment in our culture when,
+
+[00:05:37.36 @kevinkelly] before everybody had a camera and when it still required a lot of kind of technical skill, a little bit of money.
+
+[00:05:43.72 @kevinkelly] I would do a lot of the processing, black and white in a dark room myself to print the images.
+
+[00:05:49.58 @kevinkelly] My travels in Asia where mostly to photograph.
+
+[00:05:53.78 @craigmod] Craig: Right.
+
+[00:05:55.31 @craigmod] And as you were traveling you had this backpack full of film you were sort of mailing boxes of it home as you shot it,
+
+[00:06:01.71 @craigmod] to your parents.
+
+[00:06:02.34 @kevinkelly] Kevin: Right. Because I didn't have enough money to process it.
+
+[00:06:06.37 @kevinkelly] So I barely had enough money to buy the film, and barely enough money to travel and no money to process it.
+
+[00:06:13.37 @kevinkelly] So, it went home, my mom stuck it in the freezer.
+
+[00:06:16.40 @kevinkelly] You know I read that if you froze it would last and so it would stick in the freezer until I would come home
+
+[00:06:24.16 @kevinkelly] and then get a job. And the job was, the job was to pay for money to get it processed.
+
+[00:06:32.53 @kevinkelly] And so each time I got, you know, got some payment I'd send another batch to Rochester basically. Here's the thing.
+
+[00:06:40.06 @kevinkelly] I'm getting to look at these images years after I took them, which is a really really bad way to learn.
+
+[00:06:49.05 @kevinkelly] I mean, it's a very terrible feedback loop because I'm shooting blind basically.
+
+[00:06:56.11 @kevinkelly] I don't have any idea if my exposures are correct, I'm hoping that my focus is correct.
+
+[00:07:01.81 @kevinkelly] You have to really pre-visualize, which was the term that the photographer Ansel Adams talked about.
+
+[00:07:08.95 @kevinkelly] You had to learn to pre-visualize what that was going to look like before you took it.
+
+[00:07:14.98 @kevinkelly] Considering all that could go wrong, the fact that I didn't have an automatic focus or even automatic exposure,
+
+[00:07:19.87 @kevinkelly] everything was done manually, which is another thing, you know I did pretty good.
+
+[00:07:25.77 @kevinkelly] Manually setting exposure and photographing people, there's no second choice or second chance rather.
+
+[00:07:33.72 @kevinkelly] It was a long process and so yes, I'd send the film home. I wouldn't see it until I stopped traveling basically.
+
+[00:07:40.84 @craigmod] Craig: That's crazy. That's so disconnected from where we are and how we shoot today.
+
+[00:07:47.88 @craigmod] What kinds of film were you using and did you have any specific techniques?
+
+[00:07:52.98 @craigmod] Were you, you know, shooting with the Ansel Adams' zone system for example, when you were out there in the field?
+
+[00:07:58.59 @kevinkelly] Kevin: You know I had done the zone system somewhat in my large format black and white, but I was shooting color slide.
+
+[00:08:04.67 @kevinkelly] I had two camera bodies, one had Ektachrome in which was slightly higher speed, the other had Kodachrome,
+
+[00:08:09.83 @kevinkelly] the classic color, which is very very slow. It was Kodachrome 64, 64. What we would call now today an ISO 64.
+
+[00:08:21.56 @kevinkelly] You know I was shooting in natural light.
+
+[00:08:23.32 @kevinkelly] I was squeezing slowly
+
+[00:08:25.67 @kevinkelly] and always just at the edge of having too slow a shutter speed because 64 is nothing in terms of speed
+
+[00:08:33.55 @kevinkelly] and I'm shooting in homes or wherever.
+
+[00:08:35.63 @kevinkelly] The zone system doesn't work really well with slide because you don't have control over the processing.
+
+[00:08:41.53 @kevinkelly] Mostly what I'm trying to do is make sure that I have enough light
+
+[00:08:45.20 @kevinkelly] and make sure that I don't have too much light if I'm shooting outside.
+
+[00:08:48.19 @kevinkelly] So it was, I'm shooting for middle gray, I mean I'm exposing for middle gray basically in terms of the technical thing,
+
+[00:08:55.16 @kevinkelly] just trying to get it to meter to a middle gray
+
+[00:08:58.42 @kevinkelly] and then exposing for that which is what it does automatically.
+
+[00:09:01.75 @kevinkelly] Technically,
+
+[00:09:03.26 @kevinkelly] when you are shooting today with modern cameras you'd have far more control over the whole pathway than
+
+[00:09:10.37 @kevinkelly] when I did with kind of a manual camera with slide film. You have one chance to get it correct and that's about it.
+
+[00:09:19.05 @craigmod] Craig: Right.
+
+[00:09:19.59 @craigmod] Well even just today the dynamic range, I mean you can miss an exposure by you know two, three, four stops
+
+[00:09:25.60 @craigmod] and still save the photo, which is kind of it almost feels like cheating..
+
+[00:09:29.59 @kevinkelly] Kevin: Right. Yeah. In the old days ..
+
+[00:09:31.81 @craigmod] Craig: It's too easy.
+
+[00:09:32.20 @kevinkelly] Kevin: Since we're talking technique, part of what I would do every couple months, is I would buy some black
+
+[00:09:38.27 @kevinkelly] and white film locally, send a roll through my camera,.
+
+[00:09:41.98 @kevinkelly] have it processed just to be sure my camera was working because if it was ..
+
+[00:09:47.22 @kevinkelly] You know it's a mechanical device, mechanical shutters and there's no maintenance needed light.
+
+[00:09:53.66 @kevinkelly] There's no little warning light saying this isn't working, if it stopped working you wouldn't even know it.
+
+[00:09:59.25 @craigmod] Craig: Right, right right. What were you shooting with?Were you on a Leica?Or were you carrying around a Nikon?
+
+[00:10:06.20 @craigmod] Or were you ..
+
+[00:10:06.57 @kevinkelly] Kevin: So, so I've been shooting pretty seriously for 40 something years
+
+[00:10:13.06 @kevinkelly] and I have never used a state-of-the-art camera.
+
+[00:10:14.92 @kevinkelly] I was shooting a Nikkormat which was the amateur version of Nikon, because I couldn't even afford a Nikon.
+
+[00:10:22.79 @craigmod] Craig: Sure.
+
+[00:10:23.24 @kevinkelly] Kevin: So I've never had a professional camera.
+
+[00:10:27.00 @kevinkelly] The lenses were pretty generic, not very fast lenses because I couldn't afford it either.
+
+[00:10:34.13 @kevinkelly] You know, I paid for all my travels myself.
+
+[00:10:37.75 @kevinkelly] I was a kid without a career, doing hourly wages, saving up money
+
+[00:10:43.58 @kevinkelly] and so cameras were relatively expensive at that time.
+
+[00:10:48.24 @kevinkelly] Even something like a Nikon was just way out of my league, I just couldn't afford it.
+
+[00:10:53.43 @craigmod] Craig: Right.
+
+[00:10:54.19 @craigmod] Well, you know and what's kind of cool to think about is that back then,
+
+[00:10:58.92 @craigmod] they were just light-type boxes for the most part. It's not like the pros had a more light-type box than the amateurs.
+
+[00:11:07.73 @craigmod] Film was the censor of that day.
+
+[00:11:11.85 @craigmod] If you wanted to shoot the same film, have the same censor that the pros had you could get it.
+
+[00:11:17.97 @craigmod] You just got that [XPan 00:11:20] or you got that Kodachrome.
+
+[00:11:21.91 @craigmod] You were shooting on the same level that the pros were, you know to a certain degree.
+
+[00:11:26.17 @kevinkelly] Kevin: Yeah. Yeah. They had a little faster lenses.
+
+[00:11:30.25 @kevinkelly] Very soon they had auto advance so they could take a couple pictures in a rapid succession and things like that.
+
+[00:11:39.84 @kevinkelly] But yeah, you're right. It was a far more equitable difference between you know an amateur and a professional.
+
+[00:11:50.34 @kevinkelly] I wasn't hurt that much.
+
+[00:11:51.70 @kevinkelly] But the other way of saying that is, is I would have died to have a camera,
+
+[00:11:56.18 @kevinkelly] the cheapest camera that you can buy today would have been just completely insane back then.
+
+[00:12:02.84 @kevinkelly] So I shoot today with a point and shoot, I use point and shoots.
+
+[00:12:07.13 @kevinkelly] First of all, for the kind of work that I do with people, they're silent,
+
+[00:12:10.71 @kevinkelly] which is a like huge huge huge thing because I'm not disturbing people, maybe they don't even know I'm shooting.
+
+[00:12:17.20 @kevinkelly] It's fast.
+
+[00:12:18.90 @kevinkelly] The sensors in these things are just amazing and they're cheap because I'm not carrying film around
+
+[00:12:25.77 @kevinkelly] and I can take as many pictures as I want.
+
+[00:12:28.42 @kevinkelly] The clarity of the digital is so crisp and clear, and the colors are so vibrant. They really do, they don't fade.
+
+[00:12:35.89 @kevinkelly] That's another issue that I've had with the film was, I think if it's a little hot
+
+[00:12:40.78 @kevinkelly] or even a lot of hot the film can start to be affected, and over time definitely affected.
+
+[00:12:46.74 @kevinkelly] Even when the Kodachrome was fresh it did not capture the colors as vividly as I think the digital sensors,
+
+[00:12:54.94 @kevinkelly] and that's my opinion. In every way, digital photography today is miles superior to film.
+
+[00:13:02.76 @kevinkelly] And if you want to make a film look, I can add a filter and get that film look on a digital file,
+
+[00:13:08.98 @kevinkelly] but you can't go the other way around. You can't have film and make it look like digital.
+
+[00:13:12.29 @kevinkelly] So anyway, I lugged you know two camera bodies, five lenses, 500 rolls of film in my backpack.
+
+[00:13:21.14 @kevinkelly] That was what photography was. It was very laborious I would say.
+
+[00:13:26.83 @craigmod] Craig: And then like you said too, you're not learning in the moment, right,
+
+[00:13:30.80 @craigmod] because it's like okay I can write down the F-stops for each of the slide numbers if I wanted to,
+
+[00:13:36.19 @craigmod] and then like go back to that and reference it when I get the stuff developed.
+
+[00:13:40.81 @craigmod] But if you're getting it developed years later, it's not a very tight feedback loop. Yeah.
+
+[00:13:45.90 @kevinkelly] Kevin: The story really is one of hardship and difficulty.
+
+[00:13:53.09 @kevinkelly] I was there doing that for eight years or so, for the first time around,
+
+[00:13:58.45 @kevinkelly] over the period of eight years of coming back to work in between to earn money to keep going.
+
+[00:14:02.99 @kevinkelly] So it wasn't a single trip, I was having to earn money in between and live of course extremely cheaply.
+
+[00:14:10.21 @kevinkelly] But, the one other thing I would say about that general time in my life
+
+[00:14:15.92 @kevinkelly] and in the world of photography was it was an incredibly special, exceptional,
+
+[00:14:22.41 @kevinkelly] never to be repeated event in the history of this planet which was in the end, I would say, by the end of the '60s
+
+[00:14:30.66 @kevinkelly] and maybe until the '80s.
+
+[00:14:32.15 @kevinkelly] Through large parts of the world,
+
+[00:14:34.34 @kevinkelly] somebody with very little money like myself could enter into areas of the world that had not changed since the medieval
+
+[00:14:42.73 @kevinkelly] era.
+
+[00:14:44.25 @kevinkelly] Previous to that time, if you wanted to mount an expedition to go into Tibet or you know into Afghanistan or somewhere,
+
+[00:14:52.38 @kevinkelly] you needed to have some means. You needed to be someone with money and connection.
+
+[00:14:56.19 @kevinkelly] No ordinary person could just sort of venture on because there was no support, there was no maybe even getting visas,
+
+[00:15:04.40 @kevinkelly] you needed permission, you needed all kinds of things.
+
+[00:15:07.30 @kevinkelly] But then, the world began to change in the late '60s and early '70s.
+
+[00:15:11.92 @kevinkelly] Someone like myself who had almost nothing could for very little arrive in these places which really hadn't changed at
+
+[00:15:19.03 @kevinkelly] all. And they were completely medieval.
+
+[00:15:21.66 @kevinkelly] Cities like Kathmandu and Nepal, which was a city of, I don't know ,maybe half a million,
+
+[00:15:27.61 @kevinkelly] three quarters of a million people without any cars. I mean a city without cars.
+
+[00:15:32.47 @kevinkelly] There were towns in northern Afghanistan that had no electricity, not just a village,
+
+[00:15:37.17 @kevinkelly] I mean a town without electricity so it was running with you know kerosene lamps being lit by a lantern lighter at
+
+[00:15:44.63 @kevinkelly] night and stuff. It was medieval in that sense or at least pre-Industrial.
+
+[00:15:49.50 @kevinkelly] And then shortly after that, the world began to change very rapidly and of course anybody could visit anywhere,
+
+[00:15:56.14 @kevinkelly] but it had been transformed. But there was a decade or two where it had not yet transformed and it was accessible.
+
+[00:16:05.17 @kevinkelly] I was traveling during that time and so I got to see, I got to enter into this time machine and see an era,
+
+[00:16:14.75 @kevinkelly] see a time when people really were living in a way that we would find very difficult to believe now,
+
+[00:16:21.82 @kevinkelly] not just materially in terms of living without electricity or plumbing,
+
+[00:16:26.52 @kevinkelly] but actually their mindsets were completely embedded in that medieval perspective, pre-Industrial perspective.
+
+[00:16:36.74 @kevinkelly] They thought like that, they lived that way fully in terms of their culture and their traditions.
+
+[00:16:42.21 @kevinkelly] And so,
+
+[00:16:42.96 @kevinkelly] I in some ways became really aware of the reality of progress because I had the experience of having lived in these
+
+[00:16:51.33 @kevinkelly] countries and seeing with my own eyes them progress 200 years worth of progress in my lifetime,
+
+[00:16:59.12 @kevinkelly] and so I know that progress is real.
+
+[00:17:01.46 @kevinkelly] There was this time when travel permitted someone to travel in time, not just in space.
+
+[00:17:09.41 @craigmod] Craig: Right, right, right.
+
+[00:17:11.80 @craigmod] Do you think you, when you started traveling in the '70s did you immediately pick up on that?
+
+[00:17:16.19 @craigmod] Or did you realize this years later or decades later?
+
+[00:17:19.60 @kevinkelly] Kevin: My first trip was to Japan of all places. Or Taiwan first and then Japan.
+
+[00:17:25.32 @kevinkelly] I got this sense in Taiwan, but Taiwan was already somewhat leaving that era.
+
+[00:17:30.92 @kevinkelly] During that same trip of Taiwan and Japan, I went to the Philippines where I had an inclination.
+
+[00:17:36.39 @kevinkelly] But it was really on my second trip to Burma, Bangladesh, India and then the sub-continent,
+
+[00:17:43.20 @kevinkelly] when I had the full immersion in there and I realized.
+
+[00:17:45.99 @kevinkelly] So the answer is, no it was not evident, I didn't know that before I went out and it was really only my second trip
+
+[00:17:53.67 @kevinkelly] when I understood this.
+
+[00:17:55.76 @kevinkelly] And I think while I was very appreciative and really wanted to capture it,
+
+[00:18:00.94 @kevinkelly] I don't think I had an inclination of how fast it would change, because it seemed as if you know,
+
+[00:18:07.68 @kevinkelly] it just seemed impossible that the change would come to these places at any speed.
+
+[00:18:12.64 @kevinkelly] If you had tried to bet me, say in 1970,
+
+[00:18:16.05 @kevinkelly] that within 30 years the street sweepers of India would be carrying cellphones,
+
+[00:18:20.78 @kevinkelly] mini super computers I'd say there's no way. That's just never going to happen.
+
+[00:18:28.03 @kevinkelly] I think I was surprised by the speed at which things were transformed.
+
+[00:18:34.43 @craigmod] Craig: Right.
+
+[00:18:35.74 @craigmod] And what's so cool about it too, is like as you travel those countries, especially southeast Asia,
+
+[00:18:40.43 @craigmod] it's like everywhere on display or just people using tools right,
+
+[00:18:44.14 @craigmod] people using technology in kind of like funky interesting, creative ways.
+
+[00:18:48.08 @kevinkelly] Kevin: It was all transparent, all out in the open. The sense of privacy is very very much different from the west.
+
+[00:18:54.48 @kevinkelly] So I would boldly wander on to people's fields, in to people's homes, barns, whatever it was,
+
+[00:19:00.10 @kevinkelly] looking to see what was going on.
+
+[00:19:03.67 @kevinkelly] You could see how things were done and you could see the new coming in as well.So that was the other lesson,
+
+[00:19:12.62 @kevinkelly] was this education in how things happened, how the world works because everything was on the street basically
+
+[00:19:20.87 @kevinkelly] or at least open in kind of a garage way where you could just see how things were done.
+
+[00:19:26.47 @kevinkelly] So to kind of tie in a little bit about this travel and the book was, I was on a self-assignment.
+
+[00:19:32.14 @kevinkelly] By my second trip I kind of knew what I was doing,
+
+[00:19:34.06 @kevinkelly] which was to document the stuff because I knew that it wasn't going to be there forever. I could see that.
+
+[00:19:39.54 @kevinkelly] I didn't realize it was going to disappear so fast but I could tell it was going to disappear.
+
+[00:19:43.01 @kevinkelly] So I started to document it in part, not of any sense of nostalgia of trying to prevent it from happening,
+
+[00:19:48.66 @kevinkelly] but just because there was a certain beauty to it. I always imagined it as a book.
+
+[00:19:56.10 @kevinkelly] Again, this was a different time when to do a book of your photographs,
+
+[00:20:01.92 @kevinkelly] there was you know maybe five nationally famous photographers who could sell enough books,
+
+[00:20:08.80 @kevinkelly] who were famous enough to justify a photo book.
+
+[00:20:12.27 @kevinkelly] And so, the possibility of me who had you know, I was an absolute nobody, of having a book of my own was just a dream.
+
+[00:20:20.83 @kevinkelly] Right?That was just like well some day.
+
+[00:20:24.06 @kevinkelly] I came back, I got a job in publishing of all things, and the images while I still added to them every year,
+
+[00:20:31.64 @kevinkelly] were still sitting there waiting for something.
+
+[00:20:34.00 @kevinkelly] Gradually, I would say at about the days of Wired in the '90s,
+
+[00:20:38.51 @kevinkelly] I realized that the tools for making a book were now accessible to me.
+
+[00:20:45.38 @kevinkelly] I didn't have to wait to get permission basically.
+
+[00:20:48.39 @kevinkelly] So that I could do it myself, that I could prepare a book you know with my own labor.
+
+[00:20:54.22 @kevinkelly] Again, the thing about a photo book isn't just that you can type some words and put out photos,
+
+[00:21:00.63 @kevinkelly] had this elaborate process of the reproductions, of making the half tones, of having to tweak
+
+[00:21:08.71 @kevinkelly] and optimize the color separations, they were called.
+
+[00:21:12.09 @kevinkelly] It was a very very expensive process that I mean literally was like thousands of dollars per image in the past.
+
+[00:21:20.13 @kevinkelly] That was the cost of preparing an image for printing, was thousands of dollars per image.
+
+[00:21:27.28 @kevinkelly] And so, so that cost, and that's not even talking about say the designer and the topographers and everything.
+
+[00:21:34.16 @kevinkelly] So, all of a sudden, the new tools of self-publishing made that within reach..
+
+[00:21:40.42 @craigmod] Craig: When you say the new tools, you mean things like Quark or .. Photoshop?
+
+[00:21:44.52 @kevinkelly] Kevin: Yeah. Photoshop and Quark were basically the originals.
+
+[00:21:49.27 @kevinkelly] I saw that from Wired, you know Wired days where Wired was very early to adopt these tools to produce a color magazine.
+
+[00:22:00.42 @kevinkelly] We were outside, because we were just a startup, we were outside the whole publishing, printing business industry,
+
+[00:22:07.15 @kevinkelly] which still had a lot of old-fashioned quality first demands that we were ignoring and still getting great results.
+
+[00:22:15.69 @kevinkelly] So, I saw with my own eyes that Wired could print state-of-the-art photography using Quark and Photoshop.
+
+[00:22:23.06 @craigmod] Craig: Right. And a light went off, Bing!
+
+[00:22:25.95 @kevinkelly] Kevin: Bing! It's like okay I could do this book.
+
+[00:22:29.39 @kevinkelly] And the way I'll do it is I will do the book, I will do all the work, I will do all the photo separations,
+
+[00:22:34.39 @kevinkelly] I will do all the preparation, the layout, the design and I will print it out and I will prepare everything
+
+[00:22:41.04 @kevinkelly] and all they have to do is print it, like we do with the magazine, going to the printer. That was the solution.
+
+[00:22:47.63 @kevinkelly] And so it was because when I submitted my book to Taschen, I was basically a photographic nobody,
+
+[00:22:55.75 @kevinkelly] I had very little published, I had a couple pieces in Life, I had a couple pieces in some magazines here and there,
+
+[00:23:02.51 @kevinkelly] but I didn't really have a reputation as a photographer.
+
+[00:23:07.26 @kevinkelly] I didn't have a huge portfolio and I certainly didn't have a name.
+
+[00:23:12.64 @kevinkelly] But what I did have, was a completed book that was ready to be printed, that looked gorgeous.
+
+[00:23:20.24 @kevinkelly] So it was very hard to say no to.
+
+[00:23:22.31 @craigmod] Craig: I like that you presented them with this option that would have just been stupid to turn down.
+
+[00:23:28.17 @craigmod] You say everything is done, here's the book.
+
+[00:23:29.97 @kevinkelly] Kevin: Everything I done, it didn't need any translation because Taschen's a German publisher.
+
+[00:23:34.22 @kevinkelly] It didn't need translations, it didn't need really anything.
+
+[00:23:37.86 @kevinkelly] It didn't need proofing, it was just really ready to be printed.
+
+[00:23:41.83 @craigmod] Craig: And how did you put it together?
+
+[00:23:43.44 @craigmod] Did you put it together in your library, in your house in Pacifica or were you using Wired offices?Or ..
+
+[00:23:48.88 @kevinkelly] Kevin: No I actually had a little shed in the backyard, had my studio there.
+
+[00:23:53.68 @kevinkelly] It was literally, I don't know, 10 feet by 10 feet. I mean it was really tiny.
+
+[00:23:58.72 @kevinkelly] It had no heat, which was an issue during the winter. I had a Mac Plus, no a Fat Mac.
+
+[00:24:08.57 @craigmod] Craig: A Fat Mac. Was that a clone or?
+
+[00:24:11.39 @kevinkelly] Kevin: Yeah with like a 10 meg, I had a 10 meg disc. I was very very ..
+
+[00:24:17.53 @kevinkelly] but You know I had to save to these floppies and things.,
+
+[00:24:22.15 @kevinkelly] You know doing a whole book on this and I had my slides scanned at a scanner that 
+
+[00:24:30.35 @kevinkelly] weren't high res because I couldn't afford it they were called for position only.
+
+[00:24:34.65 @kevinkelly] They were basically low res versions that were done cheaply for a couple dollars a piece
+
+[00:24:41.07 @kevinkelly] and they were meant just for position only,
+
+[00:24:43.76 @kevinkelly] but I also knew that for about the size that I would be publishing in the book that they were probably going to be
+
+[00:24:51.30 @kevinkelly] sufficient. I didn't need the super high res, which today would not be super high res.
+
+[00:24:57.03 @kevinkelly] It would be kind of like you know the ordinary thing. I hated Quark the entire time we were using it at Wired..
+
+[00:25:04.05 @kevinkelly] I made the very early jump to InDesign when the first version of InDesign ..
+
+[00:25:08.40 @kevinkelly] Just because, well InDesign was just a better interface and I wasn't master of Quark.
+
+[00:25:14.46 @kevinkelly] I wasn't losing all the knowledge
+
+[00:25:16.96 @kevinkelly] that Quark people hated to lose even though InDesign was better because I was starting fresh.
+
+[00:25:22.14 @craigmod] Craig: InDesign was just, it was more visual.
+
+[00:25:24.12 @craigmod] Like it was actually representative of what you were going to get in a way that Quark wasn't.
+
+[00:25:28.83 @craigmod] I was at the very tail end of Quark's kind of reign and I used it for one semester and then switched over to InDesign.
+
+[00:25:36.60 @kevinkelly] Kevin: Right.
+
+[00:25:37.25 @craigmod] Craig: What I love about this whole story and your adventures here,
+
+[00:25:42.78 @craigmod] is that it's just kind of a set of hacks upon hacks upon hacks.
+
+[00:25:47.46 @craigmod] You know in the 70s when you were traveling, like you said,
+
+[00:25:50.40 @craigmod] it was this kind of golden age of you don't need a lot of cash in a way that you would have a hundred years before,
+
+[00:25:57.03 @craigmod] 50 years before, 30 years before,
+
+[00:25:59.03 @craigmod] would have cost hundreds of thousands of dollars of equivalent cash to go on these adventures.
+
+[00:26:03.67 @craigmod] Then once you arrived, the cost of day to day wasn't that high. Like you said, film was the biggest expense.
+
+[00:26:09.75 @craigmod] And then being at Wired and realizing oh there's this publishing set of hacks I can tap into as well.
+
+[00:26:14.81 @kevinkelly] Kevin: Yeah it'd be the equivalent of like you know taking your Canon and then making a movie that appears on Netflix.
+
+[00:26:20.26 @kevinkelly] You know, getting a Netflix original that you shot with your Canon. You know?
+
+[00:26:25.64 @kevinkelly] Somebody's going to do that if they haven't already and you don't need a million dollars to do these things.
+
+[00:26:33.34 @kevinkelly] And there's always going to be these hacks that you can kind of work around because you know a lot of what these
+
+[00:26:37.87 @kevinkelly] professional tools and the professional qualities give you are insurance.
+
+[00:26:42.71 @kevinkelly] So, you can achieve similar results if you are willing to have to redo things
+
+[00:26:49.73 @kevinkelly] or to accept a certain cut that a professional wouldn't or accept a shortcut or something less than
+
+[00:26:56.07 @kevinkelly] perfection.
+
+[00:26:57.37 @kevinkelly] But people are a little bit more forgiving than professionals think
+
+[00:27:04.82 @kevinkelly] and so professionals are often you know trying to please themselves which is perfectly reasonable.
+
+[00:27:10.23 @kevinkelly] But things that look handmade often have a certain allure to themselves too and then that's another thing.
+
+[00:27:15.98 @craigmod] Craig: One my favorite movies, you know the last 20 years is Primer. Have you seen that?
+
+[00:27:20.51 @kevinkelly] Kevin: No I haven't.
+
+[00:27:21.67 @craigmod] Craig: Primer is, it's this incredible sci-fi movie about time travel.
+
+[00:27:26.38 @craigmod] It all takes place in a garage basically in Texas and the whole movie, it was scored, it was shot and it was written
+
+[00:27:34.12 @craigmod] and the main actor, it's all the same person. And it's from-
+
+[00:27:37.92 @kevinkelly] Kevin: And I think we're going to see more of that. I think we're just at the beginning of that.
+
+[00:27:40.70 @kevinkelly] I think that tools of, and I think people will go into VR and start to film in other worlds that people,
+
+[00:27:47.18 @kevinkelly] in worlds that they haven't made that are available to them in some way.
+
+[00:27:50.60 @kevinkelly] So I think the era of the amateur film maker, we haven't yet entered into that space but we will
+
+[00:27:58.10 @kevinkelly] and it'll be really almost as easy to make a film than it is to make a photo book say now.
+
+[00:28:03.32 @craigmod] Craig: Well and when you were doing "Asia Grace," that came out in 2002, you were putting together in '99, 2000, 2001,
+
+[00:28:12.02 @craigmod] around there.
+
+[00:28:12.78 @craigmod] So I mean obviously back then there was no Kickstarter, there was no Patreon, there was no real,
+
+[00:28:18.01 @craigmod] I mean there was sort of print on demand but not really for a photo book like that.
+
+[00:28:21.54 @craigmod] And so your option was,
+
+[00:28:23.46 @craigmod] okay I spend a summer kind of putting this thing together using the hack of low-res cheaper images
+
+[00:28:29.46 @craigmod] and get it all designed using InDesign, send it to Taschen, say hey the book is done, you guys want to publish it?
+
+[00:28:36.79 @craigmod] They said yes and they put it out. That's one process.
+
+[00:28:40.19 @craigmod] Like if you had all the data today and from tomorrow you're like alright I'm going to make this book,
+
+[00:28:45.15 @craigmod] how would you do it today versus how you did it 16 years ago?
+
+[00:28:46.91 @kevinkelly] Kevin: Actually so I am doing it, I am doing it today.
+
+[00:28:50.70 @kevinkelly] I'm doing a second Asia book and my first choice is to go back to Taschen
+
+[00:28:55.62 @kevinkelly] and I'm doing it very similar where I'm doing the entire thing..
+
+[00:28:58.58 @kevinkelly] But this time actually this book going to be even bigger, I mean it'll be an insanely huge ..
+
+[00:29:03.93 @kevinkelly] So I'm going kind of a little bit like I'll make something that is a beautiful artifact that it is a very large,
+
+[00:29:12.24 @kevinkelly] huge experience, heavy, maybe a little unwieldy but
+
+[00:29:18.02 @kevinkelly] when you open up the pages you have a billboard that you're looking at. You're looking into a huge window.
+
+[00:29:26.79 @kevinkelly] In between have done a couple of Kickstarter books, also very high production values, lots of color, lots of paper
+
+[00:29:35.02 @kevinkelly] and stuff.
+
+[00:29:36.10 @kevinkelly] But I did that model of a Kickstarter
+
+[00:29:38.87 @kevinkelly] and so "Asia Grace" I'm going through this process of okay what does it want to be for this book?
+
+[00:29:45.49 @kevinkelly] I'm going to go back to Taschen in part because while I could Kickstart it, Taschen is an art book empire
+
+[00:29:54.65 @kevinkelly] and they will get the book into a lot of places beyond my circle of friends.
+
+[00:30:01.08 @kevinkelly] I can still point those fans to you know Amazon or wherever and so they still have it.
+
+[00:30:07.50 @kevinkelly] I won't have the control over some aspects of the distribution, but Taschen will get it far wider than I could.
+
+[00:30:16.26 @kevinkelly] Since I am trying to maximize the reach, it's not a book for everybody
+
+[00:30:21.77 @kevinkelly] but the real trick these days is to find those true fans.
+
+[00:30:28.75 @kevinkelly] By my calculation,
+
+[00:30:30.33 @kevinkelly] whatever you are interested in the world there's going to be at least one in a million people who it would appeal to
+
+[00:30:36.00 @kevinkelly] and if there's one in a million people, that means there's going to be at least a thousand of them in the world.
+
+[00:30:42.79 @kevinkelly] Finding these thousand true fans or ten thousand fans, is the real art these days.
+
+[00:30:47.48 @kevinkelly] you cultivate them, you grow them.
+
+[00:30:49.52 @kevinkelly] But they're still in my mind because I'm not a full-time, I don't do this full-time, this is not my full time-thing,
+
+[00:30:55.84 @kevinkelly] I feel there's still ten thousand people out there that I haven't yet connected with that Taschen would help me connect
+
+[00:31:03.60 @kevinkelly] with.
+
+[00:31:03.76 @craigmod] Craig: Yeah.
+
+[00:31:04.29 @craigmod] Well I think that gets underestimated
+
+[00:31:08.08 @craigmod] or that gets overlooked a lot is that yeah I mean these big publishers do have this incredible reach
+
+[00:31:12.62 @craigmod] and these incredible networks and especially when you're talking about art books for example,
+
+[00:31:17.05 @craigmod] there's a lot of art book stores out there that you are not going to be able to get it in on your own as a Kickstarter
+
+[00:31:22.39 @craigmod] person. That's interesting.
+
+[00:31:24.87 @craigmod] I mean, well the thing, I was re-reading your thousand true fan essays, the new one and the old one, last night.
+
+[00:31:34.12 @craigmod] I think what's so powerful about them is that they're just mathematics. Like that's what makes them so exciting.
+
+[00:31:39.75 @craigmod] You read it and you get energized by it because you're like yeah it's just math.
+
+[00:31:44.49 @craigmod] I can inspire one person a day to kind of follow me and you know come on board.
+
+[00:31:48.71 @craigmod] In three years I could have a thousand of them and you know I can start putting things out.
+
+[00:31:53.64 @craigmod] With the ecosystem today, I mean it feels like the big ones are Kickstarter, GoFundMe and Patreon,
+
+[00:31:59.44 @craigmod] and Indiegogo I guess. Those are like the four main ones.
+
+[00:32:04.35 @craigmod] What's fascinating is you referenced an older Kickstarter in your original post that was called like FundIt
+
+[00:32:12.33 @craigmod] or something like that.
+
+[00:32:14.65 @craigmod] It's funny that Kickstarter is the one that took off because I think that this idea of patronage
+
+[00:32:19.23 @craigmod] and microfunding had been around for a while, but now I think actually Patreon is the most exciting out of all of them.
+
+[00:32:26.10 @craigmod] There's something about having people say I'm opting in not to get some physical object from you all the time,
+
+[00:32:33.33 @craigmod] but because I support the work that you're doing.
+
+[00:32:35.41 @craigmod] And that when you put out something ephemeral, and I think this is the real twist,
+
+[00:32:39.85 @craigmod] is that you get a lot of these going back to video and independent video production,
+
+[00:32:44.81 @craigmod] YouTube channels today are so phenomenally fascinating, you know, the primitive technology guy,
+
+[00:32:51.20 @craigmod] the every frame a painting.
+
+[00:32:52.78 @craigmod] To have those Patreon fans say look maybe you put out a video once a month, maybe it's once every three months,
+
+[00:32:58.23 @craigmod] maybe it's once a year, doesn't matter to me, but when a video comes out don't even ask me,
+
+[00:33:02.30 @craigmod] I'm going to give you 5 bucks. I think that's an incredible system.
+
+[00:33:06.78 @kevinkelly] Kevin: So my first, after traveling in Asia I came back and I started a mail order travel business,
+
+[00:33:12.08 @kevinkelly] a mail order travel book business,
+
+[00:33:14.30 @kevinkelly] where I was selling budget travel guides to things I had encountered on my travels that nobody else knew about.
+
+[00:33:19.11 @kevinkelly] Things that were very very rare at that time.
+
+[00:33:22.35 @kevinkelly] There was a publisher in Australia called Lonely Planets and Maureen and Tony Wheeler were the people behind it.
+
+[00:33:32.86 @kevinkelly] I was promoting these unknown books that I had encountered.
+
+[00:33:36.47 @kevinkelly] He had one book called "Europe through the Back Door." I was selling these things and doing a magazine about walking.
+
+[00:33:44.90 @kevinkelly] But I sold those to work for a magazine called the Whole Earth review, the Whole Earth catalog.
+
+[00:33:49.91 @kevinkelly] And what's interesting about that is that unlike almost any other magazine in America, we carried no ads
+
+[00:33:56.20 @kevinkelly] and it was entirely subscriber supported. We didn't have Patreon but we would have if it had been available.
+
+[00:34:03.66 @kevinkelly] But the power of being supported directly by your fans on a regular basis is a really incredibly, it's potent.
+
+[00:34:12.76 @craigmod] Craig: It's freeing.
+
+[00:34:14.24 @kevinkelly] Kevin: It's freeing, right. You have a bunch of people who are saying we're paying ahead.
+
+[00:34:21.01 @kevinkelly] We're going to pay ahead, amaze us for the next 12 months. Okay.
+
+[00:34:25.92 @kevinkelly] You have a second customer, which is the advertisers and they take over.
+
+[00:34:31.54 @kevinkelly] Basically those second customers take over and they take over in many ways.
+
+[00:34:35.48 @kevinkelly] And here's a little bit of inside stuff from the magazines, and I only objected to this, which was that
+
+[00:34:39.95 @kevinkelly] when you have a magazine that you're only going to subscribers,
+
+[00:34:43.99 @kevinkelly] you can do amazing things with the cover because the covers are all designed for magazines on the people who don't
+
+[00:34:51.15 @kevinkelly] subscribe. They're trying to win over people who are not your fans..
+
+[00:34:56.50 @kevinkelly] And so all the people who are your fans, they're not getting .. You're ignoring them.
+
+[00:35:02.72 @kevinkelly] That's just one of the ways in which things are warped by having the advertising based.
+
+[00:35:08.93 @kevinkelly] That's one of the reasons why, I mean I've been doing Cool Tools as a blog.
+
+[00:35:13.22 @kevinkelly] 98%, 95% of our revenue is not from ads unlike most other sites, it's Amazon affiliate,
+
+[00:35:21.04 @kevinkelly] which has its own aspects to it and problems
+
+[00:35:25.30 @kevinkelly] but it's very freeing because we don't have the customers of the advertisers to have to listen to.
+
+[00:35:32.46 @kevinkelly] I think if you can escape from that and Patreon and Kickstarter
+
+[00:35:36.45 @kevinkelly] and all these things are ways to ride the power of your fans directly.
+
+[00:35:45.48 @kevinkelly] I think as you say, it's really liberating when you can do that.
+
+[00:35:49.10 @kevinkelly] When you go into a publisher or studio or label then you don't have that direct power.
+
+[00:35:55.51 @kevinkelly] Again, you have a second customer so to speak, which you're kind of having to please them as well.
+
+[00:36:02.06 @kevinkelly] Doing something yourself directly with your customers, there's really no other medicine like it.
+
+[00:36:07.07 @craigmod] Craig: Right.
+
+[00:36:07.77 @craigmod] Well and what's so insidious about the advertising stuff online, is that like you said about the covers of magazines,
+
+[00:36:14.10 @craigmod] online every single page is the cover of the magazine. Every single page is the entry point and so-
+
+[00:36:19.58 @kevinkelly] Kevin: Exactly. So articles are being, it has the same clickbait as covers used to.
+
+[00:36:24.90 @craigmod] Craig: Right, right.
+
+[00:36:26.12 @craigmod] Everything has to be a cover now and you're trying to get people's attention, you'll do anything to get that attention.
+
+[00:36:32.04 @craigmod] It's, yeah, it's really sad.
+
+[00:36:33.75 @kevinkelly] Kevin: And it works against the people who are already subscribers, who are already fans.
+
+[00:36:37.94 @craigmod] Craig: Right.
+
+[00:36:39.20 @craigmod] And you know the thing about platforms like Patreon and Kickstarter too though is that's great,
+
+[00:36:45.21 @craigmod] is that it normalizes the idea of paying for things. Right?
+
+[00:36:48.82 @craigmod] It's like 15 years ago doing a micropayment to someone online was kind of tough.
+
+[00:36:52.83 @craigmod] I mean I guess you could PayPal, but you know whatever it wasn't automatic and you know it was kind of sketchy
+
+[00:36:58.36 @craigmod] and you really didn't know how much money was being collected.
+
+[00:37:01.51 @craigmod] But now, we've had about eight solid years of paying creators online and it's just become normal.
+
+[00:37:09.55 @craigmod] That's really exciting.
+
+[00:37:10.78 @kevinkelly] Kevin: Yeah it is.
+
+[00:37:12.45 @kevinkelly] So I've done books, well I just had a New York Times bestseller in my last book,
+
+[00:37:17.56 @kevinkelly] "The Inevitable" which came out on paperback.
+
+[00:37:19.42 @craigmod] Craig: Congrats.
+
+[00:37:19.85 @kevinkelly] Kevin: That was a mainline, standard, mainstream publisher.
+
+[00:37:26.23 @kevinkelly] I forget what it's called now, Penguin, RandomHouse, Viking, it's one big thing.
+
+[00:37:34.18 @kevinkelly] I used to be with Penguin and Viking, you know it's something else now but it's basically the same publisher.
+
+[00:37:39.92 @kevinkelly] But at the same time I just did a book called "Cool Tools" that was self-published.
+
+[00:37:44.92 @kevinkelly] Now it wasn't, we didn't do a Kickstarter because we have this blog, which has been going on for 14, 15 years
+
+[00:37:50.95 @kevinkelly] and so there was kind of a fan base there.
+
+[00:37:54.68 @kevinkelly] But it was self-published in the sense that I did all the work, hired all the work,
+
+[00:38:00.07 @kevinkelly] I sent it to Hong Kong to be printed, it was sent back and we sold it on Amazon. Again, here's another tool.
+
+[00:38:06.43 @kevinkelly] So the Amazon marketplace is another of these democratic, easy, low barrier access,
+
+[00:38:14.70 @kevinkelly] because you have a global market available to you for basically nothing. So that book did very well.
+
+[00:38:22.60 @kevinkelly] I mean I made more money from "Cool Tools" than I would have going to any publisher.
+
+[00:38:30.13 @kevinkelly] It's interesting because the reason why I self-published that originally was for speed.
+
+[00:38:36.87 @kevinkelly] So I came out and I wanted to have this book out for Christmas that year. I was just finishing it in September.
+
+[00:38:44.61 @kevinkelly] If I had gone to a New York publisher and said, even in the Spring, if I had said,
+
+[00:38:50.16 @kevinkelly] "I have a book I want it in Christmas," They'll say, "You mean Christmas next year right?
+
+[00:38:54.96 @kevinkelly] Two years from now." "No, no this coming Christmas.
+
+[00:38:58.51 @kevinkelly] The one that's only six months away." And they would say, "That's literally impossible." Self-publishing,
+
+[00:39:02.90 @kevinkelly] it wasn't impossible.
+
+[00:39:03.90 @kevinkelly] So I could finish it in September and have it printed in Hong Kong and come back in time to be there for Christmas.
+
+[00:39:11.37 @kevinkelly] So originally it was speed that was a choice,
+
+[00:39:15.58 @kevinkelly] because I would have gone with a publisher because it has a better reach
+
+[00:39:19.19 @kevinkelly] but they were talking about like you know a year and a half away. It's like that's crazy.
+
+[00:39:22.84 @craigmod] Craig: Right. Well the caveat is American publisher, right?
+
+[00:39:26.68 @kevinkelly] If it's a Chinese publisher, maybe they're a little bit faster.
+
+[00:39:29.37 @kevinkelly] Kevin: It is.
+
+[00:39:30.24 @kevinkelly] In fact a Chinese published my latest book,
+
+[00:39:33.18 @kevinkelly] they published it before the English published it because of the same thing.
+
+[00:39:37.12 @kevinkelly] They could translate it and get it into the bookstores within six months instead of a year and a half.
+
+[00:39:42.32 @craigmod] Craig: Which is amazing, translate and publish it and get it out there.
+
+[00:39:45.61 @kevinkelly] Kevin: Exactly. Right, right. I think that's something to keep in mind.
+
+[00:39:51.76 @kevinkelly] Time is a factor as well as expense, in that when you're thinking of these different options about making books
+
+[00:39:59.03 @kevinkelly] or publications, speed is one of the huge factors. How long will this take?
+
+[00:40:03.19 @kevinkelly] If I go slow what do I get for going slow, etc. So for me, that's a big element in these things.
+
+[00:40:10.36 @craigmod] Craig: Well and Asia Grace 2 is sort of, there's no reason to rush with it.
+
+[00:40:14.54 @craigmod] I mean you sent me that presentation with that had, you know of your recent photos.
+
+[00:40:20.79 @craigmod] You have 230 images in there and you frame it as, it's a time machine.
+
+[00:40:26.25 @craigmod] You've taken a time machine, you're in southeast Asia.
+
+[00:40:29.92 @craigmod] You know looking through the images what's astounding about is it's this incredible ethnographic
+
+[00:40:34.23 @craigmod] and aesthetic peek into this kind of, like you say, it's a world that's rapidly being lost.
+
+[00:40:41.56 @craigmod] And you know there's no rush to get that out, the images are done, they're kind of frozen and they're in place.
+
+[00:40:47.84 @craigmod] But you said earlier something about there was kind of a beauty of being witness to these sort of moments that you knew
+
+[00:40:54.98 @craigmod] were fleeting. What do you think is, why is that compelling?Why does that feel beautiful?
+
+[00:40:59.61 @kevinkelly] Kevin: Yeah. So like, I've spent a lot of my own money and a lot of time traveling in Asia.
+
+[00:41:06.95 @kevinkelly] I'm trying to, the second Asia book, trying to cover all the Asian countries between Turkey and Japan,
+
+[00:41:11.41 @kevinkelly] which is all the Asian countries. In a certain sense, there's no reason for me to do this.
+
+[00:41:16.20 @kevinkelly] There's no grand world saving reasons, there's no economic reason.
+
+[00:41:22.57 @kevinkelly] I've now concluded recently, that this is a compulsion.
+
+[00:41:27.34 @kevinkelly] This is absolute art at its basis that I can't help but do this.
+
+[00:41:32.35 @kevinkelly] It just pleases me, it may not even please others as much as it pleases me.
+
+[00:41:37.20 @kevinkelly] Like you got to watch this little show, well I'll tell you when I watch it I am just happy.
+
+[00:41:45.09 @kevinkelly] It's all because it pleases me and it's really why I'm doing it. Yes, this stuff is disappearing.
+
+[00:41:51.93 @kevinkelly] I have no nostalgia for it.
+
+[00:41:54.73 @kevinkelly] It's a lifestyle that pleasing to me to visit but I would never want to live in what's disappearing.
+
+[00:42:00.94 @kevinkelly] It's harsh, it's unequivocal,
+
+[00:42:04.51 @kevinkelly] I mean there's so many things wrong with this as a place that you'd have to live your life,
+
+[00:42:09.80 @kevinkelly] so that I'm not really sorry to see it go.
+
+[00:42:12.98 @kevinkelly] But there is a beauty to it that I see in it that has to do with beauty of being naked. Okay?
+
+[00:42:21.30 @kevinkelly] And what it's naked of, is naked of all the recent .. Okay here it is.
+
+[00:42:25.28 @kevinkelly] You mentioned this video of the primitive technology guy, a guy in Australia or New Zealand who is making things using,
+
+[00:42:34.66 @kevinkelly] basically he's using stone tools to make these amazing things.
+
+[00:42:38.46 @kevinkelly] There's a beauty in that, in that it's naked in a sense that he's using nothing but what's found
+
+[00:42:45.12 @kevinkelly] and a lot of what I'm photographing has that same kind of beauty of like being done with the most elemental things
+
+[00:42:51.69 @kevinkelly] and yet huge variety and a gracefulness with these very very primitive things.
+
+[00:42:59.20 @kevinkelly] And so it's a similar kind of beauty of like how much can you do with the simplest of things, wood, fiber,
+
+[00:43:07.68 @kevinkelly] you know ground stone.
+
+[00:43:09.54 @kevinkelly] You can make amazing things with this small amount
+
+[00:43:13.31 @kevinkelly] and kind of what I'm photographing is the very rich cultures that were built around the most elementary little things
+
+[00:43:21.43 @kevinkelly] as tools.
+
+[00:43:22.13 @kevinkelly] It's like primitive technology, no he's not starting a revolution, there's nobody going back to live like that. Right?
+
+[00:43:29.79 @kevinkelly] I mean there's just a kind of a beauty that you could make a stove
+
+[00:43:35.94 @kevinkelly] and make tiles for your roof just with mud in your backyard.
+
+[00:43:41.12 @kevinkelly] That's the kind of beauty that I'm kind of exploring with these images,
+
+[00:43:45.49 @kevinkelly] it's like where they're making not just a shed in your backyard but you're making temples,
+
+[00:43:49.63 @kevinkelly] you're making entire cities that are built by hand with the same kind of mud, the same technology.
+
+[00:43:56.48 @kevinkelly] That's sort of what I'm celebrating is this. I just find it, like the primitive technology, I just find it beautiful.
+
+[00:44:04.16 @craigmod] Craig: Right.
+
+[00:44:05.11 @kevinkelly] Well of the 230 images you showed me yesterday, I think only four or five of them don't have people in them.
+
+[00:44:12.31 @kevinkelly] Kevin: Right. For me, the ideal photograph in my books is a scene that could only have been photographed in that place.
+
+[00:44:19.46 @kevinkelly] So it's a scene that has people in a costume, in an architecture,
+
+[00:44:24.85 @kevinkelly] doing something that could only have been done right there.
+
+[00:44:28.70 @kevinkelly] You couldn't fake it in a studio, you couldn't make it somewhere else,
+
+[00:44:32.54 @kevinkelly] it had to have happened in a very very particular place.
+
+[00:44:36.54 @kevinkelly] The entire scene and all the, like in a fractal way,
+
+[00:44:40.17 @kevinkelly] all the things we reflect the fact that this had to have been taken in Tajikistan up in the mountains because of the
+
+[00:44:48.54 @kevinkelly] clothing, the architecture, the animals and it could have been nowhere else.
+
+[00:44:53.18 @kevinkelly] People are part of that and you'll also notice that most of the people were kind of in what I would call costume,.
+
+[00:44:57.97 @kevinkelly] they were in native things and so it's reflecting the fact that ..
+
+[00:45:01.89 @kevinkelly] and You also couldn't have taken it at a different time, you couldn't have taken it now.
+
+[00:45:05.70 @kevinkelly] No, this could only have been taken at that one place.
+
+[00:45:08.95 @kevinkelly] So this is very very distinctive by the fractal nature of the things and people, are something that's hard to fake,
+
+[00:45:17.91 @kevinkelly] right?So you can't really fake that very well.
+
+[00:45:20.88 @kevinkelly] One of the things that I've noticed about costumes where people get it wrong, say in movies,
+
+[00:45:25.32 @kevinkelly] is that even in the most ancient time when people were wearing clothes, every person dressed differently..
+
+[00:45:33.42 @kevinkelly] There was no uniform. There's never been a uniform. Like, if I were to go to ..
+
+[00:45:40.40 @kevinkelly] Even 200 years ago in a random Afghan village, there'd be one guy with a vest, one guy would have a long robe,
+
+[00:45:46.10 @kevinkelly] one guy would have like an overcoat, one guy would have short sleeves, one guy would have stripes, one guy would have ...
+
+[00:45:51.63 @kevinkelly] It's like there's no uniform.
+
+[00:45:53.03 @kevinkelly] They have certain things, a certain kind of a fashion grammar, but they're not wearing the same thing.
+
+[00:46:00.54 @kevinkelly] That kind of veracity, that kind of detail would be missing if somebody tried to fake an image these days,
+
+[00:46:08.64 @kevinkelly] that you don't see in the images that I take.
+
+[00:46:10.34 @craigmod] Craig: Well and looking at your images too, I mean there's like a true dustiness to them too right?
+
+[00:46:20.35 @craigmod] You can't fake the atmospheres either. It feels so cool.
+
+[00:46:24.74 @craigmod] Well when I was looking at them, I was thinking of Wim Wender's book,
+
+[00:46:28.41 @craigmod] "Written in the West," which was this photo book that he put together when he was scouting out his Paris, Texas movie.
+
+[00:46:36.17 @craigmod] His book only has one person in it in the whole thing and it's otherwise just these kind of shots of storefronts
+
+[00:46:43.66 @craigmod] or you know bits and pieces of these cities.
+
+[00:46:47.19 @craigmod] He wrote about that, that for him, the act of photographing was seeing something
+
+[00:46:51.34 @craigmod] and recording it as if it were the last possible chance to do so, even for the most mundane moments.
+
+[00:46:57.00 @kevinkelly] Kevin: Right. Another reason I had people was, I've decided there's kind of like a hierarchy of loss.
+
+[00:47:03.34 @kevinkelly] There's an order in which the traditional things disappear. The first thing to disappear is actually costume.
+
+[00:47:11.24 @kevinkelly] Then the second thing to disappear will often be architecture and then, food, and the last to go is language.
+
+[00:47:21.42 @kevinkelly] And so, because costumes are first to go,
+
+[00:47:24.98 @kevinkelly] I took a lot of pictures of people with costumes because I could go back later
+
+[00:47:30.38 @kevinkelly] and the architecture will still be there. If you take the people out, it'll look very similar.
+
+[00:47:37.19 @kevinkelly] But once the people are in there, then you realize that it has changed.
+
+[00:47:40.88 @kevinkelly] So people are another way of kind of grounding it in this very rich time.
+
+[00:47:46.32 @craigmod] Craig: Right.
+
+[00:47:47.31 @craigmod] And you think the costumes going first is just sort of like a diminishing return on time required to produce that sort
+
+[00:47:53.49 @craigmod] of stuff?
+
+[00:47:53.96 @kevinkelly] Kevin: I don't know. I don't know.
+
+[00:47:56.38 @kevinkelly] I've been working on this other theory that we maybe headed towards a global convergence in certain things like
+
+[00:48:04.04 @kevinkelly] clothing, apartments, curriculum, media, where I was talking to Jan Chipchase
+
+[00:48:11.90 @kevinkelly] about trying to design a global survey.
+
+[00:48:15.24 @kevinkelly] My little task would be to have millennial aged kids around the world draw their ideal apartment,
+
+[00:48:24.97 @kevinkelly] their ideal living space or even maybe their ideal life.
+
+[00:48:29.20 @kevinkelly] I'm willing to kind of bet that a lot of them look very similar.
+
+[00:48:33.43 @craigmod] Craig: What do you think the qualities are?
+
+[00:48:35.62 @kevinkelly] Kevin: Well I don't know. That would be the thing, is like you know what are they going to include?
+
+[00:48:40.90 @kevinkelly] What would be in the room?
+
+[00:48:43.46 @kevinkelly] You know the way you kind of draw, kids draw a little house, you know the roof and the little chimney.
+
+[00:48:49.19 @kevinkelly] and there's a little .. You know maybe the room has a little picture on the wall and it maybe it has a refrigerator.
+
+[00:48:53.75 @kevinkelly] You know I don't know. That's what I'm interested to see whether there's going to be cultural or regional differences.
+
+[00:49:00.75 @kevinkelly] But it just struck me that if you take a picture of a random person on a street today,
+
+[00:49:05.78 @kevinkelly] it's really hard to tell where you are. Do you know about geogussr.com?
+
+[00:49:08.29 @craigmod] Craig: No what's Geoguessr?
+
+[00:49:11.17 @kevinkelly] Kevin: Geoguessr.com. It gives you a random place on Google maps and you have to identify where it is..
+
+[00:49:18.24 @kevinkelly] It puts you on a street and you get points for how close you are to the actual .. It's really hard to tell in a city.
+
+[00:49:26.67 @kevinkelly] It's easier to tell out in the country.
+
+[00:49:29.67 @kevinkelly] But in a city, in the urban areas, which are becoming more and more, people dress very similar of most of the world.
+
+[00:49:36.17 @kevinkelly] The young people I'm talking about. Part of what my photography is about is celebrating those differences that aren't ...
+
+[00:49:43.90 @kevinkelly] My new book is going to be called "The Vanishing Asia." These are things that are vanishing.
+
+[00:49:50.37 @kevinkelly] Again, I'm not nostalgic about them, I understand why they're vanishing.
+
+[00:49:54.32 @kevinkelly] I'd choose to vanish when I have a chance, but there is a beauty to those things that are vanishing.
+
+[00:50:03.40 @kevinkelly] Doing traditional dress, maybe it's expensive,
+
+[00:50:07.33 @kevinkelly] I don't know why people have decided to wear T-shirts all over the world.
+
+[00:50:13.67 @kevinkelly] Maybe because they're cheap, maybe because they're comfortable. I don't know.
+
+[00:50:16.73 @craigmod] Craig: Well I think you know, your point about creativity and I think your point about raw materials,
+
+[00:50:23.20 @craigmod] is really at the heart of it right?
+
+[00:50:24.54 @craigmod] I mean, you're witnessing this moment where people weren't connected but they all had the same raw materials.
+
+[00:50:34.53 @craigmod] They all had to make the same kinds of things, like you needed a house to live in,
+
+[00:50:38.33 @craigmod] you needed a shirt to put on to protect you from the sun or whatever,
+
+[00:50:41.73 @craigmod] but everyone chose to do it in their own unique creative ways.
+
+[00:50:45.77 @kevinkelly] Kevin: And that was a lot to do with they didn't all have exactly the same materials, they had different weathers
+
+[00:50:51.22 @kevinkelly] and climates, and so, they would use mud but you know based on how often it rained, what kind of rain, how hot or dry,
+
+[00:51:00.38 @kevinkelly] they would make different architecture.
+
+[00:51:02.33 @kevinkelly] The clothes were often partly influenced by the width of their looms,
+
+[00:51:08.16 @kevinkelly] what kind of materials they had to weave from which would make different kind of clothes, the climates,
+
+[00:51:16.75 @kevinkelly] whether it cold or not.
+
+[00:51:20.01 @kevinkelly] There was a similar set or pool of different elements to choose from but I think what happens,
+
+[00:51:25.90 @kevinkelly] technology in some ways you know that's the whole point of technology, it buffers us from those localities.
+
+[00:51:32.86 @kevinkelly] That's why we live in a place that gets hot in the summer and cold in winter, we don't want to be hot in the summer
+
+[00:51:38.73 @kevinkelly] and cold in winter so we use technology to make this room temperature.
+
+[00:51:43.51 @kevinkelly] And if you have something at room temperature, why not make it a square box that's dry?
+
+[00:51:48.15 @kevinkelly] Because a square box really works at room temperature. You know if you can air condition, yeah a square box.
+
+[00:51:56.43 @kevinkelly] It doesn't work if you don't have air conditioning.
+
+[00:51:57.87 @craigmod] Craig: Right, right right.
+
+[00:51:59.81 @craigmod] I was hiking with a friend in December at the end of last year and he turned to me and he said,
+
+[00:52:06.47 @craigmod] "God you know with all this technology you think it would be easier to stay warm." You know, he was cold.
+
+[00:52:10.80 @craigmod] And I just went, are you crazy?
+
+[00:52:13.37 @craigmod] We are able to walk anywhere in the world with like a few layers on essentially and our sweat is wicked away and
+
+[00:52:22.82 @craigmod] when we get inside you know it's not arduous to take everything off. We aren't in like space suits.
+
+[00:52:27.66 @craigmod] The fabrics and the technology that we have to sort of swaddle ourselves to go out into the world is so advanced today.
+
+[00:52:36.60 @craigmod] You're complaining because your cheeks are cold.
+
+[00:52:40.08 @craigmod] It's not only does technology buffer us, but it also it causes us to acclimate in a way that we forget how easy
+
+[00:52:47.55 @craigmod] and comfortable things really are.
+
+[00:52:49.22 @kevinkelly] Kevin: Yeah. We go camping and stuff to be hot and cold and sweaty and wet.
+
+[00:52:54.66 @kevinkelly] That's the entire purpose, it's basically to remind ourselves of what we have.
+
+[00:53:01.33 @kevinkelly] I think people who go camping
+
+[00:53:02.79 @kevinkelly] or hiking a lot probably make that complaint less because they understand what they're getting,
+
+[00:53:07.49 @kevinkelly] they understand the subsidy that we get from technology.
+
+[00:53:10.20 @craigmod] Craig: Right.
+
+[00:53:11.34 @craigmod] Well and so in your book "Vanishing Asia," you know that costume, that kind of architecture,
+
+[00:53:16.85 @craigmod] in a way it's sort of a really nuanced like data visualization of that environment, of those people.
+
+[00:53:21.94 @kevinkelly] Kevin: Yes. Right. Yeah.
+
+[00:53:24.01 @kevinkelly] It was a very holistic approach and it came at great ingenuity of, I mean again going back to this video,
+
+[00:53:33.03 @kevinkelly] that primitive technology guy who has just a stone tool,
+
+[00:53:37.52 @kevinkelly] that you could produce such amazing things with very very small set of tools
+
+[00:53:44.11 @kevinkelly] and using just natural muscle power is really amazing.
+
+[00:53:50.66 @kevinkelly] There's a huge variety that came out of that, again depending on the circumstances.
+
+[00:53:57.05 @kevinkelly] Another thing I realized about costumes and looking at historical stuff,
+
+[00:54:00.98 @kevinkelly] is there was fashion even like a thousand years ago.
+
+[00:54:05.54 @kevinkelly] Meaning that, they changed, the costumes changed over time not like centuries but like decades.
+
+[00:54:13.23 @kevinkelly] People would be wearing something and then the next decade they wouldn't be
+
+[00:54:17.93 @kevinkelly] and they'd be pointing to the people who were a decade behind.
+
+[00:54:23.39 @kevinkelly] All these traditional costumes, and we think of traditional costumes, were in tremendous flux.
+
+[00:54:29.28 @kevinkelly] They aren't static at all.
+
+[00:54:32.14 @kevinkelly] And what is traditional is just really traditional for some time period, whether it's in the 1700s or the 1500s
+
+[00:54:38.49 @kevinkelly] or the 1000s. That was another kind of a shock is that people had fashion even back then.
+
+[00:54:45.02 @craigmod] Craig: Right.
+
+[00:54:45.83 @craigmod] Well I mean maybe that's part of what is so beautiful about bearing witness to that,
+
+[00:54:49.48 @craigmod] is like you know it's this weirdly fundamental human thing to care about aesthetics, right?
+
+[00:54:56.89 @craigmod] There's function to it but once the function has been settled, we go deep into the aesthetic realm for whatever reason.
+
+[00:55:04.67 @kevinkelly] Kevin: Right.
+
+[00:55:05.68 @kevinkelly] We have aesthetics in books and other things, in photography, all the arts have styles,
+
+[00:55:11.90 @kevinkelly] which you can kind of often date things because it's very hard to escape that fashion.
+
+[00:55:18.95 @craigmod] Craig: Right. When is "Vanishing Asia" set to launch?
+
+[00:55:22.65 @kevinkelly] Kevin: It's not set to launch right now, meaning that it's still even too early to have a date. I'm wrestling ..
+
+[00:55:29.65 @kevinkelly] I've been doing some designs.
+
+[00:55:31.56 @kevinkelly] The other cool thing that has advanced in terms of tools that are available,
+
+[00:55:38.66 @kevinkelly] when I submitted my work to the first Asia book I gave an inkjet print out which did not have a true correspondence
+
+[00:55:46.83 @kevinkelly] with what was going to be printed.
+
+[00:55:49.76 @kevinkelly] These days, the color space and the color management systems have become so sophisticated,
+
+[00:55:57.32 @kevinkelly] even again for the lay person for you and me, that I had an offer of the tech guy to National Geographic,
+
+[00:56:06.19 @kevinkelly] to do some proofs for me at National Geographic of some of my test pages, which I had also proofed at FedEx
+
+[00:56:15.89 @kevinkelly] or Kinko's and they were exactly the same.
+
+[00:56:18.25 @craigmod] Craig: Oh man.
+
+[00:56:21.20 @kevinkelly] Kevin: So yeah. Right. Exactly.
+
+[00:56:24.50 @kevinkelly] So you take it down to you know, and have them do their best quality thing
+
+[00:56:28.61 @kevinkelly] and that's exactly what's going to be printed..
+
+[00:56:31.94 @craigmod] Craig: I think that just says more about the state of National Geographic than ...
+
+[00:56:35.51 @kevinkelly] Kevin: No. Well yeah maybe, maybe it does. No, that's another tool that has moved in where you ..
+
+[00:56:44.86 @kevinkelly] I know this from doing "Cool Tools" and "Silver Cord," other books that were printed in Hong Kong.
+
+[00:56:49.10 @kevinkelly] We can now get a pretty good idea of how to pre-visualize what it will actually look like when it's been printed.
+
+[00:56:54.13 @kevinkelly] Also, the printing quality has continued to increase to be very very consistent, to match what your proofs look like.
+
+[00:57:02.22 @kevinkelly] I'm only mentioning that because that's the stage I'm in, I'm just in terms of, I'm designing the pages,
+
+[00:57:07.15 @kevinkelly] the design of the pages, proofing, making the workflow, getting the color correction
+
+[00:57:13.77 @kevinkelly] and I have at least a year's worth of work to design these pages.
+
+[00:57:18.75 @craigmod] Craig: Wow. How many photos in total are you culling from?
+
+[00:57:22.20 @kevinkelly] Kevin: There'll probably be close to ten thousand images in the book.
+
+[00:57:25.34 @craigmod] Craig: Oh my God. In the book?
+
+[00:57:26.60 @kevinkelly] Kevin: In the book.
+
+[00:57:27.73 @craigmod] Craig: Oh my God.
+
+[00:57:28.62 @kevinkelly] Kevin: I've already color corrected, processed probably about 9500 of them.
+
+[00:57:35.28 @craigmod] Craig: Oh man.
+
+[00:57:36.38 @kevinkelly] Kevin: I have, whatever, maybe I have 10% to do better or to tweak or whatever. So right now it's placing.
+
+[00:57:44.41 @kevinkelly] Each page will have a lot of images on it. Each page will look different than every other page.
+
+[00:57:51.32 @kevinkelly] There'll be like about 800 pages or something?
+
+[00:57:53.93 @craigmod] Craig: Oh my God.
+
+[00:57:54.52 @kevinkelly] Kevin: Every page will be different. There'll also have captions for every image, so there's a lot of writing. Yeah.
+
+[00:58:00.94 @kevinkelly] It's a ways away. And why am I doing this?Because I have to.
+
+[00:58:04.98 @craigmod] Craig: Right.
+
+[00:58:05.89 @kevinkelly] Kevin: There's no reason, there's no logical reason to it.
+
+[00:58:09.92 @kevinkelly] If Taschen doesn't want to do it, then I'll probably go to Kickstarter.
+
+[00:58:13.26 @kevinkelly] If Kickstarter doesn't it, I'll print out two copies, one for myself and one for my family.
+
+[00:58:20.95 @kevinkelly] You know I'm going to do it no matter what because I have to do it.
+
+[00:58:23.41 @craigmod] Craig: Well that's the only way you can get through 10,000 photo edits.
+
+[00:58:26.91 @kevinkelly] Kevin: Yes. Because it doesn't make any sense any other way.
+
+[00:58:31.71 @craigmod] Craig: Right, right. Well I think that's a good note to end on, a note of obsessive creative need and artistic desire.
+
+[00:58:43.21 @craigmod] But thank you so much Kevin for making time to talk today. It's been a real pleasure.
+
+[00:58:46.60 @kevinkelly] Kevin: Hey, yeah. It was really good. I love talking about photography and books and with you, Craig, about anything.
+
+[00:58:53.14 @kevinkelly] You know it was a real delight. Let's do it again.
+
+[00:58:56.59 @craigmod] Craig: Kevin and I recorded that back in July, a few months before this episode aired.
+
+[00:59:02.59 @craigmod] It just took me a while to get through it all because, I don't know, I wanted to do justice to what was there.
+
+[00:59:07.78 @craigmod] It's just me putting this thing together in my closet literally. I'm sitting in my closet right now.
+
+[00:59:13.60 @craigmod] It's sponsored by air and by pizza, which enters my body plus coffee and allows me to produce this thing.
+
+[00:59:22.01 @craigmod] You know, I'm kind of learning all this as I go along and sort of roping my friends into being on this thing.
+
+[00:59:31.57 @craigmod] If you want to help out supporting this podcast, if you think it's interesting, if you're enjoying it,
+
+[00:59:37.21 @craigmod] one of the biggest things you can do is just go to iTunes and rate it for me.
+
+[00:59:41.78 @craigmod] Just go in there and if you can write a comment, write a review, that would be huge.
+
+[00:59:47.42 @craigmod] I know it's the worst program in the world.
+
+[00:59:49.18 @craigmod] I know it's so painful to go in there and rate something, or comment on something, but it would mean a lot.
+
+[00:59:57.16 @craigmod] And thank you to everyone who has reached out to me.
+
+[01:00:00.23 @craigmod] I've gotten a lot of letters, I've gotten a lot of DMs and messages and all sorts of random vectors of thank you,
+
+[01:00:06.75 @craigmod] which are much appreciated because podcasting kind of feels like you're yelling into the abyss a little bit.
+
+[01:00:13.50 @craigmod] The metrics are pretty weird. All the tools feel like I'm doing web development in 1996, but it's kind of interesting.
+
+[01:00:22.34 @craigmod] I think the show is getting better and so all of your encouragement means a lot.
+
+[01:00:26.93 @craigmod] Every little bit and bob, thank you so much. We will catch you next time. See ya.
+

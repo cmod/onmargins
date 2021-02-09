@@ -1,0 +1,1302 @@
+[00:00:00.42 @craigmod] You're listening to On Margins. I'm Craig Mod and this is episode 002.
+
+[00:00:07.37 @craigmod] Something has happened in the last few years and this is going to sound really obvious when I say it.
+
+[00:00:14.45 @craigmod] But, nevertheless, a transformative change for independent creatives around the world.
+
+[00:00:20.08 @craigmod] People like myself and many of my friends, has been underway. And this change is the normalization of paying for stuff.
+
+[00:00:29.24 @craigmod] See, I told you it was gonna sound ridiculous.
+
+[00:00:33.44 @craigmod] And I'm not even talking about micro payments like the 99 cent apps around the world. But I'm talking about big bucks.
+
+[00:00:41.07 @craigmod] $30, $40, $100 payments for books or behind the scenes looks at films or music albums.
+
+[00:00:49.03 @craigmod] We are truly in the era of being able to leverage and build off of what Kevin Kelley calls the thousand true fans.
+
+[00:00:57.33 @craigmod] Thanks to the work of crowdfunding and patronage platforms,
+
+[00:01:01.28 @craigmod] this act of giving money to an independent producer has gone from esoteric and quite frankly really tough 10 years ago,
+
+[00:01:10.25 @craigmod] to downright banal. Today, I'm talking with good friend, old buddy, partner in writing retreats.
+
+[00:01:19.29 @craigmod] The designer, illustrator, visualist, and author, Frank Camaro.
+
+[00:01:25.56 @craigmod] Frank was one of the first creatives to really capitalize on the rise of crowdfunding way back in 2011 with his seminal
+
+[00:01:33.16 @craigmod] design book, The Shape of Design. We're talking today about how Kickstarter and similar platforms have changed.
+
+[00:01:40.72 @craigmod] What we'd like to see added to them
+
+[00:01:42.41 @craigmod] and why we feel like there's never been a better time to be a creative person than today. We hope you'll join us.
+
+[00:01:53.13 @craigmod] We are talking today about books on Kickstarter.
+
+[00:01:57.75 @craigmod] And Frank you did a book on Kickstarter back in 2011 called The Shape of Design.
+
+[00:02:05.15 @frankchimero] True.
+
+[00:02:05.72 @craigmod] That was a pretty incredible project for a number of reasons.
+
+[00:02:09.6 @craigmod] Not the least of which you managed to pull in $112,000, this is back in 2011, with 2,109 backers which, at the time,
+
+[00:02:20.68 @craigmod] was incredible. Even today $100,000 for a book is incredible, but at the time it was really incredible.
+
+[00:02:27.49 @craigmod] What prompted you, first of all, to do the Kickstarter and why that book, then?
+
+[00:02:33.96 @frankchimero] Well, I had been looking at Kickstarter for about a year.
+
+[00:02:37.97 @frankchimero] Came across the service because of you and your book, Art Space Tokyo, our mutual friend Robinson,
+
+[00:02:43.89 @frankchimero] who also used Kickstarter for a book that he wanted to produce.
+
+[00:02:48.33 @frankchimero] What was interesting is that I felt at least in the community that I had access to.
+
+[00:02:53.13 @frankchimero] Sort of the designs community, the web community.
+
+[00:02:56.58 @frankchimero] Everybody knew about Kickstarter, and had maybe backed one maybe two projects.
+
+[00:03:01.82 @frankchimero] But it didn't necessarily feel like at that sort of like critical, cultural inflection point,
+
+[00:03:07.38 @frankchimero] anyone from our community had actually used it for anything. So, that's what got me interested in doing it.
+
+[00:03:12.71 @frankchimero] The other thing was, I had just given this talk at a conference in Belfast, Northern Ireland, called Build,
+
+[00:03:19.92 @frankchimero] and I named that talk The Shape of Design.
+
+[00:03:22.37 @frankchimero] And basically it was just talking about design from a very high level about the format the work takes,
+
+[00:03:28.57 @frankchimero] the influence of clients, what client relationships look like, what design does when it's out in the world,
+
+[00:03:33.89 @frankchimero] all that kind of stuff.
+
+[00:03:35.3 @frankchimero] Based off of my experience teaching and the response to that talk was so warm that I was like, well,
+
+[00:03:41.68 @frankchimero] let's turn it into a book.
+
+[00:03:43.34 @frankchimero] Thinking that a 40-minute talk could translate into maybe 140 page book, something like that, if you go through
+
+[00:03:51.09 @frankchimero] and illustrate it. And so that was the original inspiration behind it was I got this thing.
+
+[00:03:57.39 @frankchimero] I'd like to put a little bit more meat on the bones. I think it makes sense to live in a book format.
+
+[00:04:03.93 @frankchimero] So let's go ahead and do it.
+
+[00:04:05.2 @frankchimero] Doubly so because I was writing more and I wanted to take on a new bigger challenge from a writing perspective,
+
+[00:04:12.29 @frankchimero] and I had worked before in designing books, so I knew how to handle the production.
+
+[00:04:17.3 @frankchimero] So I walk into it with the goal of, I don't remember exactly what it was, it was like 22,000 or something like that.
+
+[00:04:25.14 @frankchimero] Thinking that I'll probably sell 300- 400 books and I would just order a pizza and me
+
+[00:04:31.06 @frankchimero] and a bunch of friends would sit in my apartment and stuff envelopes and that would be like the new experience for me.
+
+[00:04:37.64 @frankchimero] It would be like writing the book
+
+[00:04:38.87 @frankchimero] and then doing a little bit of the production of it was something that I had already had experience doing.
+
+[00:04:44.79 @frankchimero] So it didn't necessarily seem too intimidating to make a first book off of a talk that you've already written.
+
+[00:04:51.15 @frankchimero] Going into a process of producing that you've already done a few times in your career.
+
+[00:04:55.12 @craigmod] Right, so you kind of understand the parameters of what you were getting into in terms of production at least?
+
+[00:05:00.3 @frankchimero] Yeah exactly
+
+[00:05:01.37 @frankchimero] and I had had some experience with pretty much all of the facets of running a Kickstarter project because I had sold
+
+[00:05:09.76 @frankchimero] art prints through my website and done order fulfillment through that.
+
+[00:05:13.08 @frankchimero] I designed books before and I just naively thought that writing a book would just sort of be like writing an essay.
+
+[00:05:20.1 @frankchimero] You just do it 10 or 12 times. It's not quite that simple. But [LAUGH]yeah, once I got into it.
+
+[00:05:29.47 @craigmod] When you say it wasn't quite that simple, what did you find to be not so simple about it?
+
+[00:05:34.9 @frankchimero] The segues and just sort of scoping the ideas, so that they're paced
+
+[00:05:41.75 @frankchimero] and ordered in a particular fashion where everything builds on top of one another.
+
+[00:05:46.9 @frankchimero] It took a lot of time to find the form of the book, honestly.
+
+[00:05:51.24 @frankchimero] Because whenever I just sat down was like step one is just transcribing the talk,
+
+[00:05:55.48 @frankchimero] every word that I say in this video I'm going to type that word to use as a starting point.
+
+[00:06:00.54 @frankchimero] And I typeset it like I had this size that I kinda thought I might want the book and it was 27 pages,
+
+[00:06:08.16 @craigmod] That can be great, but that can be amazing, right? Did you feel that there was just wasn't enough stuff?
+
+[00:06:14.12 @frankchimero] Yeah, I had a thought in my head about what a book was, right?
+
+[00:06:17.93 @frankchimero] A lot of stuff on my cutting room that didn't make it into the talk, because I had 40 minutes, right?
+
+[00:06:23.48 @frankchimero] And there was a few videos in the talk and some other things.
+
+[00:06:26.62 @frankchimero] So I was trying to figure out ways to integrate that into it, as well.
+
+[00:06:31.05 @frankchimero] I was just kinda very anxious to take the pose of a writer to just sort of step into this
+
+[00:06:36.04 @frankchimero] and say this will be a very writerly book. And I don't think that I would go down that path necessarily at this point.
+
+[00:06:43.63 @frankchimero] I would probably just sort of say I'm a designer
+
+[00:06:45.66 @frankchimero] and a writer so it's going to look like there's a person who cares a lot about images
+
+[00:06:50.54 @frankchimero] and can make images working on this book in addition to somebody who writes.
+
+[00:06:54.14 @craigmod] I had a very intimate kind of relationship with the making of this book.
+
+[00:06:59.4 @craigmod] You were sending me drafts of it when I was in California.
+
+[00:07:03.95 @craigmod] And some of the things that I loved about the earlier versions kind of fell away.
+
+[00:07:10.37 @craigmod] When you tighten things up, when you take prose and you polish sometimes, you lose that funny folksy weird blogginess.
+
+[00:07:20.21 @craigmod] Blogginess is all about unpolished pros kind of un-type pros in some ways.
+
+[00:07:26.47 @craigmod] It’s what we love when we read great bloggers connecting to this kind of intimate buddy tone.
+
+[00:07:32.47 @craigmod] I remember one of the early drafts that you sent me I think I was like on the first page.
+
+[00:07:36.79 @craigmod] I remember I got cut out of the final edition.
+
+[00:07:39.95 @frankchimero] [LAUGH]
+
+[00:07:40.35 @craigmod] I was very sad about that. That tone too is like in and of itself really wonderful.
+
+[00:07:46.84 @craigmod] Openness and vulnerability that some of the earlier drafts had was really kind of special.
+
+[00:07:53.28 @craigmod] I thought that was very cool.
+
+[00:07:54.36 @frankchimero] So some of those early drafts they took on Contrapuntal structure, right? So sort of like Grapes of Wrath.
+
+[00:08:01.98 @craigmod] What does that mean?
+
+[00:08:02.55 @frankchimero] It kind of means where you've got two different kinds of chapters.
+
+[00:08:06.28 @frankchimero] It's like you've got two different stories going, or two different themes throughout the book.
+
+[00:08:11.81 @frankchimero] So, let's say all your odd chapters are just sort of like random stories that stand on their own.
+
+[00:08:18.23 @frankchimero] Which was what the first draft of the book was. It would be like a folktale or a small experience that I had.
+
+[00:08:25.22 @frankchimero] And then all the even numbered chapters would maybe be more theory-based,
+
+[00:08:29.36 @frankchimero] or more directly related to the topic at hand, which is design. So the early drafts were like that.
+
+[00:08:37.46 @frankchimero] And as I sort of lived with it longer, I became more interested in trying to integrate those two things.
+
+[00:08:43.96 @frankchimero] Whereas very early on I was quite satisfied with just sort of saying, here's the thing,
+
+[00:08:48.13 @frankchimero] and then letting it stand on its own and then jumping into something fundamentally different.
+
+[00:08:52.03 @frankchimero] And then sorta trusting that the reader would be able to make the connections between those two things.
+
+[00:08:57.25 @frankchimero] And sometimes it worked and it was really satisfying for people, and other times I swung big and missed.
+
+[00:09:03.59 @frankchimero] So I think, to a large extent, integrating those things and cutting out some of the folksiness and really polishing it,
+
+[00:09:09.91 @frankchimero] I think it was a hugely educational experience for me.
+
+[00:09:13.36 @frankchimero] So what it actually did was, I was working with my editor on this book, Mandy Brown.
+
+[00:09:18.17 @frankchimero] What happened was some of the really rough and probably ultimately embarrassing and regrettable stuff got edited out.
+
+[00:09:27.82 @frankchimero] And it might have also shaved off a little bit of the spunk as well.
+
+[00:09:33.76 @frankchimero] I think in the long-term, it probably makes it a little bit of a more valuable and readable book,
+
+[00:09:39.91 @frankchimero] but it definitely makes it less chatty.
+
+[00:09:41.86 @frankchimero] And that's something that I kinda think about continually as I'm sitting down to write now.
+
+[00:09:47.29 @frankchimero] Is trying to dial in that tone, because there is a tone.
+
+[00:09:53.02 @frankchimero] There is a austerity to the tone of the book which I think probably speaks to more than likely just the experience of a
+
+[00:10:00.46 @frankchimero] first time writer for something of that length.
+
+[00:10:03.89 @frankchimero] We think that books are these big monolithic presences in our lives, right?
+
+[00:10:08.81 @frankchimero] Like you never get to write your first book more than once.
+
+[00:10:12.1 @frankchimero] But, you think it's gonna be the shadow over you, but it isn't.
+
+[00:10:15.79 @frankchimero] You just have to talk about it until the next one is done. And then you get to talk about the next one.
+
+[00:10:21.00 @craigmod] Right.
+
+[00:10:21.48 @frankchimero] Yeah, you kind of lose the, not necessarily the ambition.
+
+[00:10:25.9 @frankchimero] But more of the assumptions that you think that a book needs to be, you can sort of deflate it a little bit
+
+[00:10:31.66 @frankchimero] and make it more approachable.
+
+[00:10:33.21 @craigmod] Yeah, well and for you, how much is visual a core part of the writing process,
+
+[00:10:38.5 @craigmod] when you're working on one of your visual essays online. Do you start with the words?
+
+[00:10:42.87 @craigmod] Do you start with a set of images? Do you start with just an idea and some words and some images?
+
+[00:10:48.39 @craigmod] Is there a process there, or is it a big soup of chaos that then evolves into something coherent and scrawling?
+
+[00:10:55.86 @frankchimero] It's a big soup. So for me, there's the wall. I have almost like this murder wall-
+
+[00:11:04.65 @craigmod] [LAUGH]
+
+[00:11:05.27 @frankchimero] [LAUGH]In my apartment.
+
+[00:11:06.31 @frankchimero] With like photos, or like little pronouncive quotes or things, just sort of stuck up on the wall.
+
+[00:11:12.5 @frankchimero] And I'm trying to arrange things in groups.
+
+[00:11:14.7 @craigmod] How big is that wall?
+
+[00:11:16.57 @frankchimero] It's not too big. It's probably, gosh, about the side of a chalkboard.
+
+[00:11:21.26 @craigmod] Okay.
+
+[00:11:21.94 @frankchimero] Just like a normal chalkboard that you would wheel into a room. So,
+
+[00:11:24.48 @craigmod] And is it like corkboard that you have pins stuck into it? Or, what's the situation there?
+
+[00:11:28.94 @frankchimero] No it's just literally the wall in my apartment.
+
+[00:11:31.36 @craigmod] [LAUGH]Okay.
+
+[00:11:32.01 @frankchimero] [LAUGH]And then I buy blue painter tape, and I've got a bunch of index cards.
+
+[00:11:37.44 @frankchimero] And just stray print outs from my crappy little inkjet printer, and I just sort of go to town on it.
+
+[00:11:43.83 @frankchimero] And sometimes it's up on the wall, other times I like spread it out on the floor on a table
+
+[00:11:47.57 @frankchimero] and I'm just trying to sort out these notecards.
+
+[00:11:50.3 @frankchimero] Because I have this loosely, blurry idea on my head and I'm trying to find the patterns
+
+[00:11:56.92 @frankchimero] and all of these things that I've been collecting that seem like they're related somehow.
+
+[00:12:00.24 @frankchimero] So, the meaning emerges out of that.
+
+[00:12:02.92 @frankchimero] So, after that, I actually, maybe write a little bit in just like a text editor but I actually go into Keynote.
+
+[00:12:10.08 @frankchimero] Because what it allows me to do is to get all the images and the quotes arranged in a specific order.
+
+[00:12:15.7 @frankchimero] And also, I can nest them, I can sort of create a little hierarchy.
+
+[00:12:19.17 @frankchimero] So, it becomes almost like a visual outline for me instead of a text outline that you would do in Google Docs or Word
+
+[00:12:26.11 @frankchimero] or something like that.
+
+[00:12:28.21 @frankchimero] And that works really well for me, because I can just sort of push things around and type up a quote
+
+[00:12:33.55 @frankchimero] or I can do a speaker commentary. There's presenter notes inside of Keynotes so I can just write a full paragraph.
+
+[00:12:41.74 @frankchimero] And then once I have a form there that I think works really well, then I sit down
+
+[00:12:45.05 @frankchimero] and I actually write out the thing in whole.
+
+[00:12:48.49 @frankchimero] And sometimes that turns into the presentation at the conference, or the event, or the lecture, whatever I'm doing.
+
+[00:12:56.18 @frankchimero] And then that also gets turned into the website.
+
+[00:12:58.63 @craigmod] Keynote really does kind of turn things into objects in a way that text editors don't.
+
+[00:13:04.26 @craigmod] That sort of invite you to move things around in a way that, even in like Google Docs for example can click
+
+[00:13:11.98 @craigmod] and drag on images. But I hate doing it, [LAUGH]like it doesn't feel good to do it.
+
+[00:13:16.22 @craigmod] Keynote I'm constantly shuffling stuff. The nesting works so well with tabs and shift tabs to unnest stuff.
+
+[00:13:23.23 @craigmod] Apple really nailed something about tactility in Keynote.
+
+[00:13:26.89 @craigmod] To me it feels the closest to like having a wall on the computer,
+
+[00:13:30.07 @craigmod] in the same way you can move notecards around on a blackboard or whatever.
+
+[00:13:33.68 @craigmod] And so when you have the Keynote kind of outline set, what software do you write in?
+
+[00:13:38.58 @frankchimero] It doesn't matter. Sometimes it's TextEdit. Sometimes like I'm in Sublime Text. Something that I write code in.
+
+[00:13:46.86 @frankchimero] Sometimes I just sit down and right just need a monoless font.
+
+[00:13:52.14 @frankchimero] And then I pasted over in Pages or something like that to do a quick grammar check
+
+[00:13:56.95 @frankchimero] or to make sure that I didn't misspell a word.
+
+[00:14:00.07 @craigmod] Right, well I was just asking cuz I was wondering, are you bringing the images in while you're writing as well,
+
+[00:14:04.63 @craigmod] are they stuck into the document? Or if you're using Sublime Text I guess you can't do that.
+
+[00:14:09.22 @frankchimero] No, I can't, I can't do that so. Yeah, it's sort of interesting. Because I have the Keynote.
+
+[00:14:15.00 @frankchimero] I understand how the text kind of fits into the presentation. So I think all writers read their work out loud.
+
+[00:14:22.78 @frankchimero] So for me, a lot of times after I write the two, three paragraphs that I need for this particular idea on the slide,
+
+[00:14:28.99 @frankchimero] I'll just paste it into the presenter notes.
+
+[00:14:31.83 @frankchimero] And then launch the Keynote presentation in Presenter mode, and sort of read it out loud that way.
+
+[00:14:39.37 @frankchimero] So I think that that's maybe one of the reasons why these visual essays that I've done have such a probably different
+
+[00:14:46.91 @frankchimero] tone than what I had in the book.
+
+[00:14:50.02 @craigmod] Right.
+
+[00:14:50.32 @frankchimero] Right?
+
+[00:14:50.53 @frankchimero] Cuz I'm working with different ingredients and different tools and I wrote most of the book
+
+[00:14:57.68 @frankchimero] and I wrote it in Pages because we wanted to be able to track edits and things like that.
+
+[00:15:03.3 @frankchimero] And it yielded a certain outcome. It was actually a lot easier to write words then to try to get images into it.
+
+[00:15:09.61 @frankchimero] And if I step into Keynote or if I just keep things off the computer as long as possible and write things out by hand
+
+[00:15:17.09 @frankchimero] or shift things around on the wall.
+
+[00:15:19.98 @frankchimero] It's a lot easier for me to switch between images and words, because if you're holding a pencil you can draw a cat
+
+[00:15:25.98 @frankchimero] or write the word cat just as easily with either one.
+
+[00:15:29.9 @frankchimero] And if I have Keynote open, I can pull in a photo of a cat really easily,
+
+[00:15:34.35 @frankchimero] and just as easily as making a slide that says the word cat.
+
+[00:15:38.02 @frankchimero] And you can't do that, necessarily, in something like Word or Pages or like a plain text editor.
+
+[00:15:44.4 @craigmod] I think sometimes people get too obsessed with finding one piece of software that Allows you to do everything.
+
+[00:15:50.6 @craigmod] And it's nice to hear that you have this kind of messy process that involves so many different moving parts.
+
+[00:15:56.69 @frankchimero] Yeah, I mean it's nice.
+
+[00:15:58.67 @frankchimero] The other good thing about, I guess, having so many of the reference points
+
+[00:16:02.32 @frankchimero] or ideas about the thing that you're working on around you in the physical space is that you just sort of get to sit in
+
+[00:16:07.6 @frankchimero] it. And it's very difficult to reproduce that inside of a digital environment as well.
+
+[00:16:17.15 @craigmod] It is. It's so hard to come close, in any way, to replicating what you get with a wall.
+
+[00:16:25.05 @craigmod] And I felt that, I was doing a residency in Virginia in November, December last year.
+
+[00:16:30.04 @craigmod] And one of the features of my studio was this giant wall.
+
+[00:16:34.04 @craigmod] It was a 20 foot long wall that I could just use the whole thing and 30 feet high. It was just this huge wall.
+
+[00:16:40.77 @craigmod] And when I came back to Japan, I realized immediately I need a wall [LAUGH]in my life.
+
+[00:16:47.15 @craigmod] And all the apartments I had lived in before were too austere to have a wall at that size.
+
+[00:16:53.97 @craigmod] And so when I was working on big projects, I'd have to go to friend's design studios and kind of borrow their floors
+
+[00:16:58.86 @craigmod] and stuff.
+
+[00:16:59.58 @craigmod] But having that wall and having a thing covered in ideas that you are forced to walk past
+
+[00:17:05.85 @craigmod] or confront every day is so powerful.
+
+[00:17:07.58 @frankchimero] Yeah, I don't feel like I'm actually working in an interesting
+
+[00:17:12.38 @frankchimero] or a good direction unless I look like a crazy character in a David Finch film.
+
+[00:17:16.85 @craigmod] [LAUGH]Right.
+
+[00:17:19.41 @frankchimero] Everybody who works in a David Finch film, they just have their work spread all around them.
+
+[00:17:23.55 @frankchimero] And they look absolutely manic because the film camera can't pick it up because you can't see it.
+
+[00:17:29.05 @frankchimero] And that's the same problem with the computer.
+
+[00:17:30.86 @frankchimero] It's like well, if I'm kinda pacing around my studio, or I'm at my apartment, and I've got this stuff up,
+
+[00:17:35.83 @frankchimero] I can see it whether I want to look at it or not. I don't need to have the will to pull it up. It's just there.
+
+[00:17:42.12 @craigmod] Well and it's not only just there, but it's also inviting you to remix it in a way that digital stuff.
+
+[00:17:48.43 @craigmod] That feels like there's a weird friction because you can't see the macro view of a lot of things at the same time.
+
+[00:17:53.58 @craigmod] You can't see all of your slides and keynotes simultaneously.
+
+[00:17:56.42 @craigmod] So moving a bunch of slides from the top to the bottom is actually ,it's kind of onerous, right? It's a big deal.
+
+[00:18:02.86 @craigmod] Whereas, if you've got your board, you can make a mess in a way that you understand how the mess has been made.
+
+[00:18:09.81 @craigmod] That I think invites you to make more of a mess
+
+[00:18:12.11 @craigmod] and it's in making that mess that you come up with your most interesting connections and ideas.
+
+[00:18:15.71 @frankchimero] Yeah absolutely 100% agree with that.
+
+[00:18:18.39 @craigmod] Getting back to Kickstarter book stuff, you said that Robin was kind of an inspiration for the shape of design.
+
+[00:18:26.4 @craigmod] And I was going back through the last few years, really the last eight years I guess of books on Kickstarter.
+
+[00:18:32.71 @craigmod] And I was shocked to see that Robin's was so early and so long ago now.
+
+[00:18:39.99 @craigmod] It's August 2009 that he launched his Robin writes a book campaign.
+
+[00:18:45.9 @frankchimero] That was eight years ago, yeah.
+
+[00:18:48.38 @craigmod] And what I love about it is it's like Robin writes a book. He does a little Kickstarter eight years ago.
+
+[00:18:55.09 @craigmod] This is when Kickstarter was in its total infancy. You had to email Kickstarter.
+
+[00:19:00.61 @craigmod] And send a proposal in, which was editing a text file and beg to be allowed to put a campaign up on the site.
+
+[00:19:08.42 @craigmod] And they would bless you and allow you to put the thing up there.
+
+[00:19:12.46 @craigmod] And even with all of the weird friction between wanting to do it and doing it, Robin put this thing up there.
+
+[00:19:17.95 @craigmod] And no one really knew what Kickstarter was then,
+
+[00:19:20.52 @craigmod] but he managed to get 570 people to pledge $14,000 for Robin to write a book.
+
+[00:19:29.25 @robinsloan] I'm writing a book. I'm writing a book. I'm writing a book. I'm writing a book. I'm writing a book.
+
+[00:19:33.94 @robinsloan] [MUSIC]So I've had a few really great experiences when it comes to books and publishing this year.
+
+[00:19:43.56 @robinsloan] First of all, there were the short stories that I published for the Kindle and for the web that got just a really warm,
+
+[00:19:48.76 @robinsloan] encouraging response.
+
+[00:19:50.21 @robinsloan] And then, of course, there was new liberal arts,
+
+[00:19:52.26 @robinsloan] the collaborative project that I did with a bunch of other people over at Snarkmarket.
+
+[00:19:56.59 @robinsloan] And both of these were so much fun and just so gratifying that I've figured it was time to take the next step.
+
+[00:20:03.54 @robinsloan] And I think that's to write a book, a short book, because I think that's reasonable for me to write
+
+[00:20:09.14 @robinsloan] and also reasonable for you to read.
+
+[00:20:11.04 @robinsloan] I have this nightmare of finishing some 500 page tome that even my parents can't get through.
+
+[00:20:17.09 @craigmod] Well, it's incredible to think that, that was eight years ago.
+
+[00:20:20.14 @frankchimero] [LAUGH]
+
+[00:20:20.87 @craigmod] Right, and it's so endearing, but it's also interesting to see that drums as music for Kickstarter videos is a thing
+
+[00:20:30.8 @craigmod] and it's been a thing for eight years. [LAUGH]
+
+[00:20:33.68 @frankchimero] [LAUGH]
+
+[00:20:35.27 @craigmod] I remember seeing this video and just going, and I had never met Rob and I met Robin maybe a year
+
+[00:20:41.19 @craigmod] and a half after we put this thing up.
+
+[00:20:42.8 @craigmod] And I remember seeing this and am just being like who is this dude, and like wow men,
+
+[00:20:48.12 @craigmod] what guts it takes to put this thing out there.
+
+[00:20:51.68 @frankchimero] Yeah, absolutely. But that video is completely Robin, right?
+
+[00:20:55.53 @craigmod] [LAUGH]
+
+[00:20:56.11 @frankchimero] Just enormously cheerful, very smart and funny, and completely one of the most affable people that you'll ever meet.
+
+[00:21:04.56 @frankchimero] And I think the charming thing about it is that he's not really even talking to people that he doesn't know. Right?.
+
+[00:21:12.26 @frankchimero] So he doesn't even introduce himself [LAUGH]He's just like here's a guy
+
+[00:21:18.4 @frankchimero] and he sort of pops up from the bottom of the frame. And he says I'm making a book.
+
+[00:21:22.53 @frankchimero] And that's kind of enough for the people who already knew about Robin,
+
+[00:21:28.77 @frankchimero] and like the couple of things that he mentions in the video.
+
+[00:21:32.37 @frankchimero] Yeah, Kickstarter is a lot different now, because people are trying to also speak to people that they don't know.
+
+[00:21:38.94 @frankchimero] But it's nice that the core of it, the heart of it, has pretty much always been there.
+
+[00:21:44.22 @craigmod] It's just so gutsy. Right? I mean this is 2009. No one's really done a book on this thing before.
+
+[00:21:52.18 @craigmod] And to just go, I'm gonna write a book guys. And it wasn't even done.
+
+[00:21:57.65 @craigmod] Yeah, I mean, that's
+
+[00:21:59.58 @craigmod] He was in the middle of writing it. It's the ultimate gutsiness.
+
+[00:22:02.84 @craigmod] Now, and then I love the, kind of the looking back at the history of Robin now. It's like okay, he does this in 2009.
+
+[00:22:10.27 @craigmod] And then he has an international bestseller come out a few years later. [LAUGH]
+
+[00:22:14.15 @frankchimero] Yeah exactly, exactly.
+
+[00:22:15.99 @frankchimero] The book that follows me around, that I always kinda smile whenever I see it at a bookstore in an airport
+
+[00:22:22.13 @frankchimero] or on the font table at the Indie book shop. Yeah, it's amazing.
+
+[00:22:27.55 @frankchimero] And then I think later on this year a second novel is coming.
+
+[00:22:30.7 @frankchimero] Well, a second published novel by a big name publisher, so.
+
+[00:22:36.61 @craigmod] Sourdough. It's coming out-
+
+[00:22:38.17 @frankchimero] Sourdough from FSG, yeah.
+
+[00:22:39.78 @craigmod] I've read it. It is so much fun. It is just pure Robin fun.
+
+[00:22:45.3 @craigmod] And he's also the most San Francisco positive writer working today.
+
+[00:22:51.01 @craigmod] It feels that to me, I don't read much about San Francisco outside of tech news, and it's always dollar,
+
+[00:22:57.96 @craigmod] really kind of grim. And then I want to go to the San Francisco and Robin's books.
+
+[00:23:04.42 @craigmod] I feel like Robin was secretly a consultant on Big Hero Six or Big Hero Five, what was the name of that movie?
+
+[00:23:11.16 @frankchimero] Yeah, that sounds right. I didn't see it.
+
+[00:23:13.49 @craigmod] Big Hero something, where it's like San Francisco and Tokyo melded together. In the most awesome possible way.
+
+[00:23:19.83 @craigmod] Just looking back at this project, it was just a shock to see that it was eight years ago,
+
+[00:23:24.56 @craigmod] and that it did as well as it did. And actually the number of people is really impressive.
+
+[00:23:28.64 @craigmod] 570 people is a lot of people to get to pledge to something.
+
+[00:23:32.82 @craigmod] And then after Robin, in my mind it'd come a lot later, but actually it was just like a month later.
+
+[00:23:40.27 @craigmod] Scott Thomas launched the Designing Obama book. Which then, at that time, raised $84,000, which was just unthinkable.
+
+[00:23:49.78 @frankchimero] Right, [LAUGH]I mean, it was just-
+
+[00:23:52.26 @craigmod] Astronomical, right?
+
+[00:23:53.52 @craigmod] What, you could get $80,000 for an indie book prepublished on Kickstarter from a bunch of people you don't know?
+
+[00:24:01.66 @craigmod] 1,312 backers for that one, that was, I feel like that was the first design book to come out of Kickstarter.
+
+[00:24:11.19 @frankchimero] Yeah, I have work in Designing Obama, that's why I got a copy of it.
+
+[00:24:17.14 @craigmod] There you go.
+
+[00:24:18.16 @frankchimero] Yeah, so I actually didn't back it. [LAUGH]I should have, but I got a copy because I had a couple of posters in there.
+
+[00:24:26.69 @craigmod] Yeah, that was huge,
+
+[00:24:28.24 @craigmod] because I think people didn't really quite understand like the range of possibilities with crowdfunding at that point.
+
+[00:24:36.57 @frankchimero] To actually have a dollar sign associated with it actually made it more impressive.
+
+[00:24:41.75 @frankchimero] So it was just sort of playing on the Obama gravy train, and just sort of like every,
+
+[00:24:47.43 @frankchimero] we're just gonna ride this cloud and this rainbow into infinity of pure bliss.
+
+[00:24:53.23 @craigmod] [LAUGH]
+
+[00:24:54.45 @frankchimero] Publishing is different, we can make these amazing giant books filled with graphic design and posters,.
+
+[00:25:00.64 @frankchimero] and raising $80,000, and whee [LAUGH]
+
+[00:25:04.91 @craigmod] Yeah, and I think around that time, literally if I just saw the word Obama,
+
+[00:25:09.97 @craigmod] I started shooting money out of my pockets at it.
+
+[00:25:14.01 @frankchimero] [LAUGH]
+
+[00:25:15.02 @craigmod] But this is an incredible book, and it's sad that money legitimizes stuff.
+
+[00:25:20.72 @craigmod] But it felt like this really legitimized Kickstarter, the platform, as a place to do serious, big books.
+
+[00:25:28.02 @craigmod] I mean, this is a book that Taschen could have put out, but Scott Thomas decided, I'm gonna do this on my own,
+
+[00:25:35.33 @craigmod] I guess in the spirit of the campaign, in a certain way.
+
+[00:25:37.79 @craigmod] This is around the time that I applied to be able to do Art Space Tokyo on the platform.
+
+[00:25:43.48 @craigmod] So, between applying it and actually launching Artspace Tokyo, we took about eight months.
+
+[00:25:48.8 @craigmod] We applied, we got accepted, and then we didn't launch for eight months.
+
+[00:25:53.64 @craigmod] We were just trying to get everything ready for that, prepared for that, but this was
+
+[00:25:57.63 @craigmod] when Kickstarter really hit my radar.
+
+[00:26:00.71 @craigmod] After having done indie books on my own as a co-publisher for six or seven years, and going, my God.
+
+[00:26:08.81 @craigmod] This makes so much more sense than hoping your distribution channel is going to sell these books that year,
+
+[00:26:16.06 @craigmod] kind of producing on a prayer here. And it just felt like it made a lot of sense economically.
+
+[00:26:21.93 @craigmod] It made a lot of sense in terms of the ecosystem, in a way that no other funding platform had done before.
+
+[00:26:30.42 @frankchimero] Yeah, and before this, it was difficult because you were putting a lot of money at risk..
+
+[00:26:36.44 @craigmod] That's what I mean [LAUGH]
+
+[00:26:38.34 @frankchimero] Even to get the presses started, it's one of those things where, if you want to let's say, what was this?
+
+[00:26:47.08 @frankchimero] This was 2008, was that the year?
+
+[00:26:49.78 @craigmod] 2009.
+
+[00:26:50.38 @frankchimero] 2009, if you wanted to say make a film, or a short film, you could go recruit friends, ask for favors,
+
+[00:26:59.6 @frankchimero] shoot it on a DSLR.
+
+[00:27:02.11 @frankchimero] And the cost of production will be pretty much zero because at that point you can find different places to distribute
+
+[00:27:09.72 @frankchimero] that video,
+
+[00:27:10.76 @craigmod] But you had YouTube, right?
+
+[00:27:12.35 @frankchimero] Yeah, you could stick it on YouTube, and it can vary, you could put it on video and it could get featured.
+
+[00:27:20.06 @frankchimero] But with indie books, one of the issues was, if you wanted it to take a physical form,
+
+[00:27:24.88 @frankchimero] like people expect a book to do most of the time.
+
+[00:27:28.46 @frankchimero] It was pretty expensive at that time to actually get the presses started.
+
+[00:27:32.58 @frankchimero] You needed at least several thousand dollars to get going.
+
+[00:27:36.52 @frankchimero] And if you wanted to produce something that seemed to be a special artifact, like, say, a big art book about Obama.
+
+[00:27:43.23 @frankchimero] Or a very-well constructed and considered precious smaller book, like Artspace Tokyo.
+
+[00:27:50.71 @frankchimero] That takes coin, and it's really risky to put your own money out for something like that.
+
+[00:27:57.01 @frankchimero] Especially when the audience is so speculative.
+
+[00:27:59.11 @craigmod] Well, especially considering, for a lot of books to reach a really big audience in the bookstore universe,
+
+[00:28:06.13 @craigmod] you had to be out on the front table.
+
+[00:28:08.77 @craigmod] If you weren't on that front table, you basically didn't exist, and that also costs money.
+
+[00:28:13.85 @craigmod] And to get on the table, you had to have a relationship with Barnes and Noble.
+
+[00:28:16.76 @craigmod] And that required being part of a big publishing network or having a big distributor.
+
+[00:28:20.68 @craigmod] The Perseus sales rep had to go in there and fight for you,
+
+[00:28:24.6 @craigmod] so you had to convince the Perseus sales reps that you were worthwhile.
+
+[00:28:27.38 @craigmod] There were so many hurdles between producing the book you wanted to produce.
+
+[00:28:31.39 @craigmod] And then getting it to the people you thought might like it, and doing it in a mildly efficient way.
+
+[00:28:37.58 @craigmod] And the amount of costs required to be put up front for that to happen,
+
+[00:28:41.19 @craigmod] and then not even knowing if anyone's gonna buy it in the end.
+
+[00:28:43.97 @frankchimero] Yeah, exactly, doing all of that
+
+[00:28:46.67 @frankchimero] and still not being sure if there's an audience that are interested in this thing you may have just spent years of your
+
+[00:28:52.71 @frankchimero] life working on.
+
+[00:28:53.56 @craigmod] Right, and possibly $100,000, depending on how many you made, or how big it was, or how complicated it was,
+
+[00:29:01.94 @craigmod] and how much promotion you bought from the bookstores. I mean, the amount of money up front could be bananas.
+
+[00:29:08.72 @craigmod] Whereas on Kickstarter,
+
+[00:29:10.68 @craigmod] Designing Obama as kind of this first example of doing a risky book in a way that there is no risk,
+
+[00:29:18.21 @craigmod] a risk-free risky book. And then 2011 you do your book, you raise $100,000.
+
+[00:29:23.76 @craigmod] And then last year, in 2016, I think one of the most amazing things to come out of Kickstarter.
+
+[00:29:31.09 @craigmod] Which was the confluence of normalization of the platform, normalization of crowdfunding.
+
+[00:29:36.35 @craigmod] This idea of crowdfunding as being a thing that, yeah, you just kinda do those GoFundMe campaigns
+
+[00:29:41.58 @craigmod] and there's Indiegogo campaigns, and you kinda see it all over the place.
+
+[00:29:45.01 @craigmod] That all coming together, plus the production of books being easier to do, and distribution through Amazon
+
+[00:29:51.06 @craigmod] and all those other channels being easier to access.
+
+[00:29:53.04 @craigmod] Coming together as Good Night Stories for Rebel Girls by Francesca and Elena over at Timbuktu Labs,
+
+[00:29:59.75 @craigmod] that was incredible to see that happen.
+
+[00:30:01.85 @craigmod] This kind of thing that rode a tidal wave of promotion to a million dollars in sales on crowdfunding, [LAUGH]
+
+[00:30:11.16 @craigmod] it was just incredible to see that..
+
+[00:30:13.04 @frankchimero] That total is flabbergasting [LAUGH]
+
+[00:30:17.35 @craigmod] It's unbelievable, I mean, they raised $675,000 in the Kickstarter campaign, and then transitioned to Indiegogo,
+
+[00:30:24.09 @craigmod] where they went over a million.
+
+[00:30:26.4 @craigmod] And they announced last month, they've now sold over 500,000 copies around the world, which is just a bonkers number.
+
+[00:30:34.65 @frankchimero] Yeah, that would totally obliterate anything on the New York Times' bestseller list.
+
+[00:30:39.66 @craigmod] I don't think it would have sold as well had it not been crowdfunded.
+
+[00:30:44.51 @craigmod] There's something that happens between the buyers and the sellers.
+
+[00:30:48.35 @craigmod] There's an intimacy that happens here that makes you wanna get out and fight for the thing.
+
+[00:30:54.09 @craigmod] In a way that just like hearing hey, Random House is publishing this progressive book of bedtime stories for girls.
+
+[00:31:00.48 @craigmod] You kinda hear that and you go, yeah, that's kinda cool, but seeing Elena and Francesca,
+
+[00:31:04.23 @craigmod] and I think this is where the power of a good Kickstarter video comes in.
+
+[00:31:08.83 @craigmod] Seeing them fight for this book, stand in front of you, and go, we think this should exist in this world,
+
+[00:31:14.65 @craigmod] and doing so in this really beautifully unpolished way.
+
+[00:31:18.32 @craigmod] The launch videos for this book are quite raw, but they're so endearing.
+
+[00:31:23.24 @craigmod] Seeing that makes you want to get out there and scream and buy 15 copies of it.
+
+[00:31:26.35 @craigmod] And buy it for everyone you know who has a daughter,
+
+[00:31:28.76 @craigmod] and send links to everyone you know who might be interested in this thing, buy it for libraries.
+
+[00:31:33.99 @craigmod] And there's an activation that happens on crowdfunding that I don't think it'd happen in big publishing,
+
+[00:31:39.99 @craigmod] which is really fascinating.
+
+[00:31:41.58 @frankchimero] Yeah, it feels like you're making a choice for yourself. Right?
+
+[00:31:46.16 @frankchimero] By participating in helping this thing to exist, you love it more.
+
+[00:31:51.54 @craigmod] Yeah.
+
+[00:31:52.46 @frankchimero] Like no matter what it is, you now have a bond to that thing.
+
+[00:31:57.02 @frankchimero] And it's just impossible to have a personal story attached to any kind of product that you buy in a normal,
+
+[00:32:05.96 @frankchimero] commercial fashion. And that's kind of a really interesting experience that I've had backing Kickstarter campaigns.
+
+[00:32:11.89 @frankchimero] Because by the time this thing actually shows up,
+
+[00:32:14.43 @frankchimero] hopefully that person has been sort of trickling news about working on the thing.
+
+[00:32:19.38 @frankchimero] Or one of the cool things about backing publishing projects on Kickstarter is the excited press check backer update.
+
+[00:32:27.57 @craigmod] Right.
+
+[00:32:28.11 @frankchimero] That's probably one of my favorite modes of writing.
+
+[00:32:30.74 @frankchimero] Because, one honestly the people who are there are tired, but so excited to actually go make this thing real.
+
+[00:32:36.92 @craigmod] Right.
+
+[00:32:37.77 @frankchimero] The other is sometimes those people have no experience being on press.
+
+[00:32:43.48 @frankchimero] So maybe there's this set of really helpful people who work at the print house helping them actually make their book a
+
+[00:32:49.79 @frankchimero] reality.
+
+[00:32:50.93 @frankchimero] And then the third is that I like it a lot, too,
+
+[00:32:53.03 @frankchimero] because it sort of exposes the process of producing a book at probably its most interesting point.
+
+[00:32:59.54 @frankchimero] Where you're putting ink on paper
+
+[00:33:01.29 @frankchimero] and it's kind of being flown through this machine at a million miles an hour to make a few thousand of whatever you're
+
+[00:33:05.87 @frankchimero] doing.
+
+[00:33:06.21 @craigmod] Yeah.
+
+[00:33:06.89 @frankchimero] So, just having pictures of things like that, that kind of work, floating around the Internet,
+
+[00:33:13.21 @frankchimero] possibly being shown to people who would never want to look at that.
+
+[00:33:16.28 @frankchimero] Unless it was attached to this object and the story
+
+[00:33:19.78 @frankchimero] and sort of this little mini-movement that they're participating in.
+
+[00:33:23.79 @frankchimero] That's really exciting to me, as a person who sometimes designs books, and works as a designer all the time.
+
+[00:33:30.77 @craigmod] Do you think there's anything Kickstarter can do to crank up the intimacy?
+
+[00:33:33.67 @craigmod] Are there features that are being left on the floor now that you think if this existed,
+
+[00:33:38.44 @craigmod] or if this was part of the follow-up, it would allow even more connection or conversation between the backers
+
+[00:33:43.99 @craigmod] and the producers?
+
+[00:33:45.2 @frankchimero] I think that there's a whole experience once the project's finished.
+
+[00:33:48.79 @frankchimero] Being able to maintain the relationship once the project is through, I think is pretty important.
+
+[00:33:54.62 @frankchimero] And it feels a little awkward to, whenever somebody launches something new, whether it's through Kickstarter or not,
+
+[00:34:00.56 @frankchimero] to get a message from that person that's tethered to the project that you backed.
+
+[00:34:05.89 @frankchimero] So there's that,
+
+[00:34:07.03 @frankchimero] I think there's also the possibility of building out tools to help people share the campaigns once they're over.
+
+[00:34:14.16 @frankchimero] It's those people are interested in continuing to sell the thing that they've got funded.
+
+[00:34:19.35 @frankchimero] And I think that that's particularly important with publishing.
+
+[00:34:24.12 @craigmod] Right.
+
+[00:34:25.02 @frankchimero] Because if I've raised this money and now I'm gonna go write this book,
+
+[00:34:29.13 @frankchimero] and I've got a pretty good hunch that it's gonna take me four to six months to write this book.
+
+[00:34:34.44 @frankchimero] And I've secured the money that I need to do the print run that I need to fulfill the orders of my backers.
+
+[00:34:40.74 @frankchimero] Then why wouldn't I just keep on selling it, right?
+
+[00:34:43.58 @frankchimero] Because the cost of adding another few hundred to the print run and pre-selling those,
+
+[00:34:48.8 @frankchimero] and getting a little bit more cash in the bank, there's no reason not to do that.
+
+[00:34:53.46 @frankchimero] Because at that point the risk is pretty much gone.
+
+[00:34:56.62 @craigmod] Yeah. Well, and also books begin once they're done. Like that's when-
+
+[00:35:00.69 @frankchimero] Exactly.
+
+[00:35:01.35 @craigmod] That's when the real conversation starts. And it feels like Kickstarter's over-optimized for beginning the thing.
+
+[00:35:08.45 @craigmod] And then once the thing is real or once the campaign is done, it feels like all the tools suddenly disappear,
+
+[00:35:15.02 @craigmod] they drop off.
+
+[00:35:15.81 @craigmod] For me with doing Koya Bound last year it was just so weird to have Indiegogo reach out and contact me and say,
+
+[00:35:22.41 @craigmod] hey we've cloned your Kickstarter project.
+
+[00:35:25.03 @craigmod] And the second your Kickstarter ends, we will put it up live for you, and you can just keep selling over here.
+
+[00:35:32.09 @craigmod] We did that, because that was the easiest way to just keep selling the book, to keep going.
+
+[00:35:36.99 @craigmod] And it just felt in some ways like we were cheating on Kickstarter.
+
+[00:35:41.24 @craigmod] [LAUGH]It was like I wanna keep giving Kickstarter my money, their cut of these sales, but, yeah,
+
+[00:35:48.49 @craigmod] it felt really unfortunate.
+
+[00:35:49.41 @craigmod] And then that bifurcates where the conversation can happen and where information's being consolidated.
+
+[00:35:54.77 @craigmod] And where background information's being consolidated.
+
+[00:35:56.92 @craigmod] And it just feels like that would be nice if it was all under the same hood.
+
+[00:36:01.35 @frankchimero] And there's one more thing, so like there is sort of key two points, there is like two points that are very critical,
+
+[00:36:06.99 @frankchimero] the first is, whenever the thing gets funded, right?
+
+[00:36:09.28 @frankchimero] Whenever the campaign ends, if it's successful, that's what we're talking about right now.
+
+[00:36:13.56 @frankchimero] There is another one which is when the thing ships.
+
+[00:36:17.01 @craigmod] Yeah.
+
+[00:36:17.42 @frankchimero] Right, so if it's, like I don't know, if you spent 8 bucks to get a cooler, or whatever that ridiculous cooler was was on Kickstarter.
+
+[00:36:26.9 @frankchimero] Your experience after that is like, okay, cool, I got this cooler.
+
+[00:36:29.17 @craigmod] [LAUGH]
+
+[00:36:30.04 @frankchimero] But in publishing, everybody who backs it gets the same book at around the same time,
+
+[00:36:37.42 @frankchimero] and that is like a de facto book club.
+
+[00:36:39.73 @craigmod] Yeah.
+
+[00:36:40.21 @frankchimero] Right? So why is there so little around the experience of enjoying the things that you've backed together?
+
+[00:36:47.46 @frankchimero] If you'll enjoy the experience of backing it together,
+
+[00:36:50.58 @frankchimero] is there the possibility of producing ways to allow people to enjoy that thing together?
+
+[00:36:55.83 @craigmod] I suppose this is an argument for doing a book-specific Kickstarter.
+
+[00:36:59.89 @craigmod] Like a startup that is just focused on helping people make books.
+
+[00:37:03.46 @craigmod] Although, I think the market cap for that is probably too low to get funding,
+
+[00:37:07.92 @craigmod] and you're gonna be competing with Kickstarter.
+
+[00:37:10.23 @craigmod] But it'd be great if Kickstarter had maybe three or four different post-funded modes.
+
+[00:37:16.51 @craigmod] So you have something post-book, something post-tech product, something post-industrial design.
+
+[00:37:23.76 @craigmod] And the follow-up and the tools for the follow-up were different for each of those different spaces.
+
+[00:37:28.87 @craigmod] And, in the case of a book, like you said, it should be book club time.
+
+[00:37:32.49 @craigmod] There should be kind of like a forum space for people to be able to talk about what was in the book,
+
+[00:37:37.44 @craigmod] the topics of the book.
+
+[00:37:38.77 @craigmod] Allow the author to communicate with those people, and sort of begin this conversation, which is what,
+
+[00:37:44.95 @craigmod] in the best case scenario, a book is great at doing, right? Starting a conversation.
+
+[00:37:49.31 @frankchimero] Yeah, it's weird because physical books, they are these enormously social things that exist in space.
+
+[00:37:57.96 @frankchimero] Like a good bookstore is, it's a social space.
+
+[00:38:03.13 @craigmod] Totally.
+
+[00:38:04.07 @frankchimero] It's like you can walk in there and buy the books.
+
+[00:38:06.66 @frankchimero] But the point of the bookstore is to chat up the people behind the counter, and see what they're reading.
+
+[00:38:13.03 @frankchimero] And maybe mention this thing that you were reading that you enjoyed,
+
+[00:38:15.73 @frankchimero] to see if they have anything else that might be worth your time or just to sort of like stumble in.
+
+[00:38:21.51 @frankchimero] The book store a couple blocks from me,
+
+[00:38:24.92 @frankchimero] they have like a children's book reading every day on Saturday morning like around 10 or 10:30, something like that.
+
+[00:38:31.65 @frankchimero] So, it's like a communal space, and there's readings and those kinds of things.
+
+[00:38:36.12 @frankchimero] And you can do that in physical space, but I feel like that's maybe something that has been pretty lackluster online.
+
+[00:38:43.3 @craigmod] Yeah.
+
+[00:38:43.89 @frankchimero] Goodreads doesn't feel like a community, it feels like Yelp.
+
+[00:38:47.96 @craigmod] [LAUGH]Does it? I don't know what it feels like. I mean it's like-
+
+[00:38:50.71 @frankchimero] It's like a lot of very angry people complaining about books.
+
+[00:38:54.33 @craigmod] It's a place I don't want to spend time for whatever reason.
+
+[00:38:56.94 @frankchimero] Yeah.
+
+[00:38:57.8 @craigmod] It doesn't feel like a nourishing, positive place to spend time online.
+
+[00:39:01.6 @frankchimero] Yeah and I think that there's actually,
+
+[00:39:04.4 @frankchimero] there must be a way to get people together through the Internet to enjoy books together, right?
+
+[00:39:12.06 @craigmod] Well and I think that's why your point about Kickstarter providing the space is so powerful,
+
+[00:39:15.89 @craigmod] because everyone has opted in. Everyone wants this book to succeed if they've backed it.
+
+[00:39:21.66 @craigmod] Everyone is there, operating from a positive point of view.
+
+[00:39:25.03 @craigmod] And to be able to capitalize on that to have great conversations feels like a huge opportunity.
+
+[00:39:30.66 @frankchimero] Yeah,
+
+[00:39:30.94 @frankchimero] and I think another thing that it does is it very easily creates value for the people who are putting on the project.
+
+[00:39:38.22 @craigmod] Yeah.
+
+[00:39:38.51 @frankchimero] With no work from them. So what you can then do is if you want, you can then raise your pledge levels a little bit.
+
+[00:39:45.27 @frankchimero] Tack on a few more dollars because one of the perks is that Now you can participate in the book club.
+
+[00:39:50.15 @craigmod] Right.
+
+[00:39:50.45 @frankchimero] Because you were one of the original backers.
+
+[00:39:52.8 @craigmod] Right.
+
+[00:39:53.01 @frankchimero] You can have like this cool space for you to talk about the book.
+
+[00:39:57.84 @frankchimero] And we'll do like a little AMA with the author or something like that.
+
+[00:40:03.64 @craigmod] Yeah.
+
+[00:40:03.81 @frankchimero] Two or three weeks after the book ships.
+
+[00:40:05.73 @frankchimero] So that as you have questions about the text or whatever we can just sort of hang out
+
+[00:40:10.85 @frankchimero] and chat about with things we're finding interesting about. What we're all enjoying together.
+
+[00:40:15.84 @craigmod] Yeah, if it feels like there's a lot of opportunity there. Closing loops for projects can be difficult.
+
+[00:40:24.36 @craigmod] And I think kickstarters optimize around, focus on just getting the money to make the thing real in the world.
+
+[00:40:29.24 @craigmod] But I think that's great, but Kickstarter has been around for eight or nine years now.
+
+[00:40:34.25 @frankchimero] Mm-hm.
+
+[00:40:34.72 @craigmod] And that it doesn't feel like it has evolved beyond that initial focus for better for worse.
+
+[00:40:42.24 @craigmod] And so then you end up with Indiegogo or you end up with backer kit.
+
+[00:40:46.31 @craigmod] Or you end up with these other spinoffs,
+
+[00:40:48.27 @craigmod] picking up the baton once the thing is done in a way that feels overly complicated.
+
+[00:40:52.97 @craigmod] It would just be nice to keep it all in the same place. [CROSSTALK]
+
+[00:40:56.36 @frankchimero] Yeah, yeah. Exactly.
+
+[00:40:57.08 @craigmod] In a positive way.
+
+[00:40:57.68 @frankchimero] Exactly, exactly. And that happens with a lot of online platforms.
+
+[00:41:01.36 @frankchimero] They eventually figure out that a way both this thing and people are using it.
+
+[00:41:05.36 @frankchimero] And one of the main ways that we can add values to the people on our platform to make their lives easier.
+
+[00:41:12.28 @frankchimero] And for our company to make a bit more money is to actually step into seller services
+
+[00:41:17.8 @frankchimero] or building out features help the people who are actually succeeding using the thing that we made.
+
+[00:41:24.05 @frankchimero] So this is people like Etsy or Shopify making shipping features and postings a lot easier for people,
+
+[00:41:30.76 @frankchimero] or inventory management or whatever.
+
+[00:41:32.62 @frankchimero] Right. And yeah, it seems kind of crazy that Kickstarter hasn't gone too far down that road yet.
+
+[00:41:39.12 @craigmod] Yeah, I mean I realize it's really complicated obviously, and focus is good.
+
+[00:41:44.44 @craigmod] But it's kind of at the point now where we're ready for those features on the platform.
+
+[00:41:48.73 @craigmod] And we kind of you know we understand the core of what's there now and it wouldn't confuse us.
+
+[00:41:53.69 @craigmod] And I think it would just bring more positivity and benefit to the community.
+
+[00:41:57.42 @craigmod] But what's fascinating about now as a time for doing these things is just how totally normalized doing books on
+
+[00:42:05.08 @craigmod] Kickstarter is. And how normalized it is to get $100,000 [LAUGH]for a book now. Designers in books is such a cool,
+
+[00:42:11.83 @frankchimero] Mm-hm.
+
+[00:42:12.92 @craigmod] Group done two books in the last year. Which have both raised over $100,000.
+
+[00:42:17.11 @craigmod] One of the books, The Bolted Book Facsimile, an exact copy of Depero Futurista $250,000.
+
+[00:42:22.61 @craigmod] That's pretty amazing for this kind of reproduction of an old design classic.
+
+[00:42:29.36 @craigmod] And then just a few months ago, earlier in 2017 Jan Chipchase, the field study handbook raising over $300,000.
+
+[00:42:38.39 @craigmod] It's so amazing that all of these systems of crowd funding becoming normalized,
+
+[00:42:44.77 @craigmod] people being willing to put in big amounts of money.
+
+[00:42:47.51 @craigmod] Trusting that they're gonna get the thing that's being presented to them.
+
+[00:42:52.46 @craigmod] People understanding how to frame projects now in way that maybe we didn't know how to do it six years ago.
+
+[00:43:00.23 @craigmod] And also understanding what point in the process to launch the project, right.
+
+[00:43:04.16 @frankchimero] Right.
+
+[00:43:04.42 @craigmod] So like Jan launching when the thing was totally done.
+
+[00:43:08.66 @craigmod] And just saying, look as soon as this campaign ends you're gonna have a book in two weeks, that's pretty powerful.
+
+[00:43:14.31 @craigmod] But all of these systems and distribution systems and Amazon fulfillment becoming more
+
+[00:43:18.84 @craigmod] and more of an easily accessible thing.
+
+[00:43:20.42 @craigmod] It's just like everything is in place now for people to produce great books,
+
+[00:43:26.59 @craigmod] beautiful books without having to go through the rigmarole of hoping that a publisher takes them on.
+
+[00:43:33.53 @craigmod] And waiting years for the thing to get produced.
+
+[00:43:36.45 @craigmod] Yeah, and it feels like maybe right now we're at sort of another inflection point.
+
+[00:43:41.74 @frankchimero] Mm-hm.
+
+[00:43:41.97 @craigmod] Because crowdfunding is so normalized.
+
+[00:43:43.65 @frankchimero] Yeah.
+
+[00:43:44.54 @frankchimero] I was kind of, we had on the calendar that the two of us were gonna talk. And I got interested in Patreon.
+
+[00:43:50.94 @craigmod] Great.
+
+[00:43:51.43 @frankchimero] So I was like clicking around Patreon, right?
+
+[00:43:53.81 @frankchimero] And they have models on Patreon where you just send people money that you're supporting every single month
+
+[00:44:00.75 @frankchimero] and they don't necessarily have to do anything.
+
+[00:44:02.41 @craigmod] Right.
+
+[00:44:03.5 @frankchimero] Which is kind of amazing.
+
+[00:44:05.12 @craigmod] [LAUGH]
+
+[00:44:05.65 @frankchimero] Because it becomes so normalized that you're just sort of like,
+
+[00:44:08.24 @frankchimero] I'm just gonna send this person who makes things that I like $3 a month.
+
+[00:44:12.5 @craigmod] Yeah.
+
+[00:44:13.03 @frankchimero] And they do have things where it's like you pay them every time that they ship something,
+
+[00:44:18.28 @craigmod] Yeah.
+
+[00:44:18.56 @frankchimero] Like they release a new video or there's a new comic strip or something like that.
+
+[00:44:22.9 @frankchimero] But I think it just speaks to how normalized this whole mode of support and then commerce has become that.
+
+[00:44:29.13 @frankchimero] Essentially the transaction in that case it's almost like a retroactive thank you.
+
+[00:44:36.35 @craigmod] Yup.
+
+[00:44:36.44 @frankchimero] Or it's just sort of like an investment in a person.
+
+[00:44:39.46 @frankchimero] And it's completely removed from the idea of producing a particular project, or artifact, or anything.
+
+[00:44:46.76 @craigmod] The specificity of output becomes irrelevant.
+
+[00:44:49.34 @frankchimero] Right, exactly, exactly. It's like they're gonna do something interesting.
+
+[00:44:53.58 @frankchimero] Or I think that it sort of common knowledge that there's high possibility of a Kickstarter campaign turning into a
+
+[00:44:59.45 @frankchimero] burden.
+
+[00:44:59.98 @craigmod] Right.
+
+[00:45:00.7 @frankchimero] For a lot of people at this points.
+
+[00:45:02.34 @frankchimero] So now what's sort of happening is people are taking on strategies to try to avoid that, right.
+
+[00:45:07.31 @frankchimero] So like Jan essentially doing everything before starting a Kickstarter campaign.
+
+[00:45:11.35 @frankchimero] We're possibly producing these modes of being able to offer support.
+
+[00:45:16.06 @frankchimero] And just sort of completely dissolving the connection between a product and the financial backing is interesting.
+
+[00:45:23.93 @frankchimero] Not everybody can do that, and not everybody is willing to do that, but it's interesting that it exists.
+
+[00:45:29.13 @frankchimero] And that there's enough people on both sides of that equation who find that acceptable.
+
+[00:45:34.3 @craigmod] Yeah.
+
+[00:45:34.55 @frankchimero] It's really cool.
+
+[00:45:35.99 @craigmod] Yeah, it is kind of amazing. And the Patrion model is fascinating for me.
+
+[00:45:40.61 @craigmod] Because, I think it also speaks to the fact that we've normalized the acknowledgment that making stuff requires money.
+
+[00:45:48.75 @craigmod] It requires time, it requires support.
+
+[00:45:51.6 @craigmod] I think we've seen this in newspaper pledges because of political stuff, so people subscribing to a New York Times
+
+[00:45:57.21 @craigmod] or Washington to post for whatever.
+
+[00:45:58.65 @craigmod] But also just more generally,
+
+[00:46:00.67 @craigmod] people subscribing to the New Yorker because they wanna see the New Yorker continue to make New Yorker stuff forever.
+
+[00:46:06.63 @craigmod] And then scaling that down to the individual producer like the guy who does Every Frame A Painting.
+
+[00:46:12.04 @craigmod] Every time the Every Frame a Painting Guy,
+
+[00:46:14.41 @frankchimero] Tony.
+
+[00:46:15.09 @craigmod] Every time Tony puts out a video he gets $8,000.
+
+[00:46:20.98 @frankchimero] Yeah and he hasn't done one for, I was looking through my user subscriptions.
+
+[00:46:25.65 @craigmod] Yeah.
+
+[00:46:25.93 @frankchimero] Because I wanted to watch like a new Every Frame a Painting.
+
+[00:46:29.05 @craigmod] Yeah.
+
+[00:46:29.26 @frankchimero] And I've got like a couple of other subscriptions on YouTube that are sort of in that similar genre.
+
+[00:46:34.66 @frankchimero] I know he is, I think it's been at least six or seven months since he's put one out.
+
+[00:46:37.99 @craigmod] Yeah.
+
+[00:46:38.44 @frankchimero] But that's fine.
+
+[00:46:39.37 @craigmod] Right.
+
+[00:46:39.85 @frankchimero] He's doing other stuff. I think, I feel like, I subscribe to FilmStruck.
+
+[00:46:45.88 @frankchimero] It's like a streaming service from Turner Classic Movies and The Criterion Collection.
+
+[00:46:50.19 @frankchimero] And they have bonus features in a lot of the films that they have, and there's one I swear it's him.
+
+[00:46:55.93 @craigmod] [LAUGH]
+
+[00:46:56.97 @frankchimero] I don't know if it's him but I swear it's him. Like the editing looks a lot like what he would do.
+
+[00:47:02.63 @craigmod] Right.
+
+[00:47:03.13 @frankchimero] And the voice sounds very similar.
+
+[00:47:05.55 @craigmod] Mm-hm.
+
+[00:47:05.71 @frankchimero] I swear it's him. I think he's moonlighting man. [LAUGH]
+
+[00:47:08.48 @craigmod] Pretty yeah, he's cheating on us. I'm a Patrion backer.
+
+[00:47:11.61 @frankchimero] Yeah.
+
+[00:47:12.21 @craigmod] Come on Tony we're waiting for you.
+
+[00:47:13.53 @craigmod] No, but being able to reliably get $8,000 every time you produce something that takes an incredible amount of time
+
+[00:47:20.09 @craigmod] and effort, that's an amazing situation for a creative person to be in. 
+
+[00:47:25.62 @craigmod] That ten years ago was impossible to imagine, because the normalization of supporting someone [LAUGH]it's like,
+
+[00:47:32.21 @craigmod] intellectually.
+
+[00:47:33.09 @craigmod] I think this is the important point, intellectually we've always understood that it takes money to make stuff.
+
+[00:47:41.6 @craigmod] But what's happened from these systems and from Kickstarter and GoFundMe
+
+[00:47:45.66 @craigmod] and Indiegogo is that they've normalized the experience.
+
+[00:47:49.47 @craigmod] So it's no longer just this intellectual activity of thinking I need to give money to things for things to exist.
+
+[00:47:55.02 @craigmod] It's doing it once, doing it twice, doing it three times, doing it ten times.
+
+[00:47:59.45 @craigmod] That becoming embedded in your psyche as, yeah, it is required to give money to make a great thing in the world.
+
+[00:48:06.61 @craigmod] And then Patreon kinda coming along and saying,
+
+[00:48:08.6 @craigmod] hey let's generalize that for people who are doing a whole bunch of different kinds of creative activities which may
+
+[00:48:15.07 @craigmod] or may not result in an object that you can buy. And,
+
+[00:48:19.1 @frankchimero] Mm-hm, yeah.
+
+[00:48:19.42 @craigmod] It's, it's really exiting, I think it's really exiting, really inspiring time to be making this stuff,
+
+[00:48:23.8 @craigmod] right now especially books.
+
+[00:48:26.29 @frankchimero] Especially books because movies are cool, but books are the best.
+
+[00:48:31.99 @craigmod] [LAUGH]Books you could be an introvert hermit and make them. Movies require collaboration most of the time.
+
+[00:48:37.81 @craigmod] You have to talk to human being. Which is not, always at the top of list of things people wanna do.
+
+[00:48:44.66 @frankchimero] Unless it's a podcast.
+
+[00:48:45.99 @craigmod] Unless, yeah [LAUGH]it is two introverts talking about book stuff on a podcast.
+
+[00:48:51.58 @craigmod] Well, thank you Frank for taking that time, it was great to share and hope to see you soon in New York city.
+
+[00:48:56.89 @frankchimero] Of course, come see me. We'll buy some books and see some movies.
+
+[00:49:00.6 @craigmod] And eat some pizza.
+
+[00:49:01.74 @craigmod] Pizza. [MUSIC]
+
+[00:49:12.42 @craigmod] Today we're talking with Frank Chimero. [MUSIC]
+
+[00:49:21.01 @craigmod] Whose middle name rhymes with Ford Escalade.
+
+[00:49:25.81 @craigmod] No I just wanted to use the dramatic piano. Hi, Frank..
+
+[00:49:31.87 @frankchimero] Really? [LAUGH]Hi, Craig [LAUGH]
+
+[00:49:34.94 @craigmod] [LAUGH]
+
+[00:49:38.48 @frankchimero] Please put that in, like maybe just do that as a bumper at the end or something.
+
+[00:49:43.74 @craigmod] [MUSIC] We're done.
+

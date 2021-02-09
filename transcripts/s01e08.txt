@@ -1,0 +1,527 @@
+[00:00:01 @Craig] You're listening to "On Margins." I'm Craig Mod, and this is episode eight. I want to begin today just by thanking you all for being here and tuning in. On Margins is supported by the membership of people like you to the Explorers Club on craigmod.com.
+
+[00:00:18 @Craig] If you enjoy this monthly podcast and want to send a very strong signal to me that you want more of it, please consider joining the Explorers Club. It goes a long way. More at craigmod.com/membership. Today, I'm speaking with the designer, letterer, and now author, Jessica Hische.
+
+[00:00:36 @Craig] You've almost certainly seen Jessica's work. She refreshed logos for MailChimp, Southern Living, Eventbrite. She did a logo for the incredible "California Sunday Magazine." She did titles for Wes Anderson's "Moonlight Kingdom." She designed covers for books like Dave Eggers' "The Circle" and "Hologram for the King," and for Elizabeth Gilbert's, "Committed" among many, many more books.
+
+[00:01:02 @Craig] She teaches, she writes, she gives workshops. She is a very busy human being. Amidst all this, this chaos of production, client work, public speaking, and baby-making, she wrote, designed, and lettered a beautiful children's book that came out in 2018.
+
+[00:01:20 @Craig] Today, we talk about how that book came to be, her creative processes, and how to cold email someone you admire and maybe even get a response. Here we go. Good morning, Jessica.
+
+[00:01:32 @Jessica] Good morning, Craig.
+
+[00:01:34 @Craig] Or good afternoon, whatever it may be over there at this moment.
+
+[00:01:37 @Jessica] Afternoon right now. It's three o'clock.
+
+[00:01:39 @Craig] You are in the studio.
+
+[00:01:41 @Jessica] I'm in the studio, my beautiful, well-lit, nice but loud on the outside studio, right now.
+
+[00:01:48 @Craig] This is in San Francisco or Oakland?
+
+[00:01:50 @Jessica] In San Francisco. My studio will eventually be in Oakland but that route is about a year away.
+
+[00:01:55 @Craig] Is this the studio you've had for a decade now?
+
+[00:01:58 @Jessica] Yeah, it's been seven years, a long time.
+
+[00:02:01 @Craig] Holy moly. This is the studio after Studiomates in Brooklyn.
+
+[00:02:06 @Jessica] Sort of. The Studiomates in Brooklyn, I was in for about a year. After that, I was back in my beloved Pencil Factory in Greenpoint. I moved to San Francisco from The Pencil Factory, and then hung on to that studio for way too long, like an extra three years.
+
+[00:02:23 @Craig] [laughter]
+
+[00:02:24 @Craig] As we do. I remember the first time we met was at a Studiomates holiday party, I think.
+
+[00:02:30 @Jessica] Yes, most likely. I feel like I've met the entire Internet during that Studiomates time.
+
+[00:02:35 @Craig] [laughter]
+
+[00:02:36 @Jessica] I have looked back at photos, and I have met founders of companies in San Francisco that I thought I met in San Francisco, but I actually met them in Brooklyn a long time ago. [laughs]
+
+[00:02:47 @Craig] I feel like Swiss Miss is the Dalai Lama of connectors. She's like the...
+
+[00:02:52 @Craig] [crosstalk]
+
+[00:02:52 @Jessica] She is the most super-connector of all the super-connectors.
+
+[00:02:55 @Craig] It's pretty bonkers, but yeah, I think we met there a trillion years ago. I think this was before you were "New York Times" best-selling author.
+
+[00:03:04 @Jessica] That's a very recent turn of affairs.
+
+[00:03:09 @Jessica] Thanks for the immediate plug though, on the forecast.
+
+[00:03:14 @Jessica] Now, everyone will listen.
+
+[00:03:16 @Craig] [laughs] Right. You weren't important, now you are. That was a time when you were a little more humble, I have to say.
+
+[00:03:23 @Jessica] I don't know about that. I think that I was probably my least humble time because I was like 24 and thought that everything that I made was awesome, but not trying to say it's more awesome than you. It's just awesome in its own right, right? [laughs]
+
+[00:03:37 @Craig] Right. Now you're like, "Now, I've been vetted by the world, and I've been put up on the list."
+
+[00:03:43 @Jessica] I sold some books for one week. It was great.
+
+[00:03:44 @Craig] Indisputable. [laughs] Was it just for one week on the list or?
+
+[00:03:48 @Jessica] So far. Who knows? The holidays are upon us. Also, I haven't had any major celebrities come out and say they me yet, so fingers crossed, Michelle Obama gets a copy of that book.
+
+[00:03:58 @Craig] She is a listener. She's actually the only listener. I only do this podcast for Michelle Obama.
+
+
+
+[00:04:03 @Jessica] I would hand-deliver this podcast to her, however that means, like on a Sony Walkman, I would bring it to her...
+
+[00:04:12 @Craig] [laughs] On a MiniDisc.
+
+[00:04:13 @Jessica] if I knew that she would listen to it. [laughs]
+
+[00:04:16 @Craig] We met like a trillion years ago at Studiomates randomly, and then we stayed in touch and we've had lots of coffees, and dinners, and things like that. I remember like, I don't know, six years ago, maybe seven years ago, in San Francisco. I think we were having dinner at a Japanese vegan restaurant on Valencia, possibly.
+
+[00:04:37 @Jessica] Likely. I love that place. I am a huge soup fan and I take people to soup if they allow me to.
+
+[00:04:44 @Craig] High likelihood that we were eating soup that night. You were like, "Hey, you know publishing stuff, Mr. publishing person. I have a book that I'm working on," and I think you showed me...I may be hallucinating this.
+
+
+
+[00:04:59 @Craig] I may have just like dreamed this, but I'm pretty sure you showed me spreads from "Tomorrow I'll be Brave," like six years ago at that dinner.
+
+[00:05:07 @Jessica] I don't think it would have been that long ago because that is before I had children. I definitely started this book when I had a child, but very soon after having her. She is north of three and a half now, and I started when she was like nine months old.
+
+[00:05:24 @Jessica] We have had many dinners, so it could have been a dinner after this fact. I did show it to you when it was very, very early stage, though. I do remember that.
+
+[00:05:31 @Craig] Maybe to was a giga ohm or something like that. I just remember seeing the twinklings of the genesis of this thing that was like, "What should I do? Where's it going to go? How's going to...?"
+
+[00:05:40 @Jessica] I think I saw you right after. For every project that I ever do, I have this insane creative flameout of me working for four or five days without stopping, then generating a third of the project, and then just not working on it after that. Needing to get as many people to tell me it's great as possible. [laughs]
+
+[00:06:02 @Jessica] You saw me right after that first crazy push where I was like, "I think I'm going to do this." I needed a bunch of people to tell me that it was worth doing, probably.
+
+[00:06:12 @Craig] A very standard sort of thing. You're like, "I have this intuition about this thing that I want to make." You touch it, and then you're like, "Ah, I'm so afraid of it now. Let me step back until I get permission to go and make it real."
+
+[00:06:24 @craig] Let's walk through, because I think it's really interesting that you ended up at Penguin Random House with this book. If you don't mind, let's talk through a little bit of that process.
+
+[00:06:33 @Jessica] Sure. I can walk you through the super early stuff. I had released a book about my work called "In Progress," and I went through Chronicle for that. It wasn't this bee in my bonnet, like I have to make this thing.
+
+[00:06:46 @Jessica] They had approached me about making a book about my work. Then I was hesitant about putting it together at all, because I felt like I didn't want to put together a monograph of my stuff, because I was so young.
+
+[00:06:57 @Jessica] It felt presumptuous and all those things. Then ultimately, I ended up being really happy and proud of where it ended up. Through seeing my process through that, and seeing how a bunch of other friends have dealt with publishing, I was dead set on self-publishing after that, whatever project I would do after that.
+
+[00:07:16 @Jessica] Just knowing that publishers lean on you really hard to promote the books, and publishing is definitely not a get rich quick scheme of an industry. I really thought, "Oh, my god. I love this new concept for this book. I'm really hot on it, and I feel like it could be a really big thing."
+
+[00:07:35 @Jessica] I want to just do it all myself and figure it out a way to put it into the world myself, because I know it's just my people that are going to want it, anyway. I was working on it. Right when I had shown you, I had done a few of the initial spreads and was still really excited about it, but was having a hard time moving forward.
+
+[00:07:54 @Jessica] I cannot work on anything without deadlines or people getting mad at me. What ended up happening was I tried to keep myself accountable by actually showing it as a number of conferences as a, "Hey, check out this secret project I'm working on."
+
+[00:08:07 @Jessica] That didn't quite work well enough to keep me on it, when you start getting other client work coming in, and have other stuff that's tugging at your calendar. I got approached when I showed it at Icon, which is the illustration conference they have every other year in different locations by an art director from Penguin.
+
+[00:08:26 @Jessica] Who was like, "Hey, if you actually ever do want to work with a publisher, I'd love to look at this, so let me know." I back burnered it. It was over a year before I reached out to any publishers. I was pregnant with my son.
+
+[00:08:42 @Jessica] This would have been, man, a good year after I started it. I hadn't done any major updates to the project in that year. I was just like, "Oh, my god. I'm about the stare down the barrel of another baby, and I need to get someone to push this out of me before it's too late."
+
+[00:09:02 @Jessica] I totally lied to a ton of publishers in New York and told them that I was going to be in New York for some unforeseen other reason. I just used it as an excuse to set up meetings. I have a lot of contacts at different publishers, just because I've done so much book cover work.
+
+[00:09:17 @Jessica] I just reached out to the art departments of every publisher that I've ever worked with to be like, "Hey, I'm going to be passing through town. I am working on this kids' book. Here's the manuscript. Here's three finalized spreads. Here's some sketch ideas for the rest of it.
+
+[00:09:31 @Jessica] Would you be able to put me in touch with your children's department? I would love to be able to show this in-person and talk about it?" I just got such a great reception from people. I set up four meetings on my own before I even started working with a literary agent to set up additional meetings.
+
+[00:09:47 @Jessica] I basically went from  to 60 in terms of meeting with publishers, and had seven or eight meetings lined up in a three-day period to meet with different publishers about it.
+
+[00:09:58 @Craig] Nice. That's the way to do it. Like you said, you've spent your whole career building up these contacts. It's amazing that you were able to turn those into real meetings.
+
+[00:10:07 @Jessica] That's the thing, I've been really conservative using a lot of those contacts, because I have a very low tolerance for icky social stuff. I tend to be way more conservative than I need to about utilizing contacts, putting people in touch with people, and that kind of thing.
+
+[00:10:28 @Jessica] Just because it rubs me the wrong way when I feel like someone's using me for someone that I know, or it's a little too transparent about how transactional their thing is. In general, I have lots of abilities to make connections about projects, chips to cash in, and stuff, but I haven't really done it that much.
+
+[00:10:47 @Jessica] It wasn't until this project that I actually started doing it, because it felt important enough. It didn't feel like I was doing it for anyone other than myself and that the project itself was worthwhile to actually push myself to do those things that are a little uncomfortable.
+
+[00:11:02 @Jessica] When you're doing something for a client, you're not like, "Let me reach out to every important person that I know and suck the life out of them for this client project that's not actually self-authored by me." [laughs]
+
+[00:11:14 @Craig] People respect the conservative -- not even conservative -- the delicate, the thoughtful use of contacts. I get some pretty weird pings. I've definitely bent over a little bit in weird ways to introduce people to someone or someone else.
+
+[00:11:29 @craig] Then they don't follow up on the intro. [laughs] It's the worst thing you can do.
+
+[00:11:34 @Jessica] I hate the "Will you intro me to" so much. It chills me to the bone. It's such a San Francisco thing. It's not really a thing in New York. Nobody intros people to people in New York. You just ask for someone's contact information, and then you blindly contact them and say, "I got your email from blah-blah-blah." [laughs]
+
+[00:11:56 @Craig] My trick when I was 27 or whatever, and I was like, "I don't know anyone in New York" was I had made a book. I had done "Art Space Tokyo." I was like, "All right, I'm just going to mail this to all the people I want to meet."
+
+[00:12:10 @craig] I mailed it to Khoi Vinh and any designer I could think of that I was like, "I totally want to meet this person." Guess what? That's a pretty good way to set up meetings, if you mail people a beautiful thing and go, "Hey, I made this, and I'd love to just talk with you."
+
+[00:12:23 @craig] I definitely bristle a little bit sometimes at the intro request, but sometimes they can be really good. If the person wanting the intro is incredible, that's always nice to connect two great people.
+
+[00:12:35 @Jessica] Oh, yeah, that's a whole other thing. Connecting two great people is a no-brainer. It's like the stranger contacting you being like, "Hey, I know that you know this person, and I'm having a charity drive for my thing, but you don't know me." I'm just like, "Ugh."
+
+[00:12:50 @Jessica] Then I have to send the preemptive one to them, being like, "Hey, man, I don't know this person, but I'm trying to be nice. They're doing a charity thing. I don't know. Use your best judgment. The end." [laughs] You know?
+
+[00:13:03 @Craig] Which is horrible, because it's already a red flag, and you're basically offloading the pain of rejecting this other person to the person they're trying to connect with.
+
+[00:13:10 @Jessica] I know. Then I feel bad about that. I was literally just complaining today about how my one email inbox has 400 emails in it, and the oldest one is from December 5th. I'm just like, "Oh, God." I don't want to ever contribute to that for someone else. [laughs]
+
+[00:13:25 @Craig] Wait, December 5th from this year or last year?
+
+[00:13:28 @Jessica] From this year.
+
+[00:13:30 @Craig] Oh, my. You're good. You're on top off stuff. I've got emails from 2015 I still feel like I need to respond to.
+
+[00:13:37 @Jessica] Oh, no, in my work inbox, I have unanswered emails from 2015 that are just like somebody that's a very kind person asking me to do them a favor. I just can't delete it, because I'm like, "Maybe I'll want to do this sometime."
+
+[00:13:49 @Craig] [laughs] Right. In 15 years, I'm definitely going to want to do this thing that I didn't want to do for the last 5. Just to finish off this thought, how did you get intros? I think there is a way to do it. I've definitely gotten cold requests from people that I immediately say yes to.
+
+[00:14:07 @craig] The difference between those -- these are people that I've never heard of, that I don't know, I have no connection to, we don't have any overlapping friends -- the difference there is that the email I get feels so emotionally mature, self-aware, and not super long. Sometimes, you get these crazy, 3,000, or 4,000, 5,000-word emails. That's not good.
+
+[00:14:26 @Jessica] Yeah, my life story.
+
+[00:14:28 @Craig] Just right to the point, maybe maximum 300 to 500 words, that signals that this person has got their shit together. That whatever you do to help them, to connect with them, or be on their podcast or whatever, you immediately feel that it's not going to be a burden. I don't know exactly what the magic sauce is.
+
+[00:14:46 @Jessica] I think part of the magic sauce is that that person needs to have it be a very low pressure, "I realize this is a big ask, but I want to do a thing, and it'd be cool if you wanted to do it." The big thing is, you have to give someone the ability to say no really easily.
+
+[00:15:01 @Jessica] Actually, if you give that to them, they probably won't do it. If you don't give it to them, then they will do it right away. They're like, "This is too much pressure. I don't want to do it. I don't know you."
+
+[00:15:11 @Craig] If you give them the option to say no and they say no, they'll remember you as the kind person who gave them the option. Maybe next time, it won't be a no.
+
+[00:15:20 @Jessica] At almost every conference I spoke at last year were people that asked me three years in a row. [laughs] Then I was like, "OK, fine."
+
+[00:15:29 @Craig] Dude, I spoke at SmashingConf today. Vitaly, we looked up the emails. Literally, he had sent me six years, every single year.
+
+[00:15:38 @Jessica] He's notoriously relentless. He's a cartoonishly relentless organizer of conferences. I love it, though. He's very sweet.
+
+[00:15:47 @Craig] We were just laughing. I was like, "Next time, let's make it less than six years of emails." [laughs] Sometimes, it takes that long. Part of the reason why I didn't write Vitaly off is because he was always so genuine.
+
+[00:15:59 @craig] It was like, "OK, this guy is not full of BS," and yada, yada, yada. Anyway, so you had built up a great network of connections, because you're respectful about these connections that you have. In the end, you ended up going with Penguin Random House. Were you waffling at all?
+
+[00:16:15 @Jessica] I was waffling a little bit. I had a few good offers. I was thinking about Abrams, because I have some really good personal connections to Abrams. I really love their book program for kids. I think they focus on making really age appropriate stuff that teaches important lessons and that kind of thing.
+
+[00:16:33 @Jessica] They always hire spectacular illustrators for all their stuff. Their program's a lot smaller, but it's really tight. I was really hot on potentially working with them. Then I got another competitive offer from Simon & Schuster.
+
+[00:16:49 @Jessica] Theirs was like a, "What do you want from us," kind of thing, where they left it really open. They were like, "Hey, you just presented this all on a silver platter. What do you actually want out of a publishing relationship?"
+
+[00:17:01 @Jessica] Made me feel like I would have a big say in it. I definitely got what I would describe in my meeting with them, is I could feel the dollar signs in their eyes, which I couldn't feel at some of the other meetings.
+
+[00:17:15 @Jessica] They were talking to me being like, "This is a big deal," which made me feel super confident and like hot shit. I was still very much thinking about working with them, too. Then with Penguin, it was a different thing, where they were one of the first people to reach out to me about the book.
+
+[00:17:34 @Jessica] I've had a really great relationship with Penguin in general, just from working with them over the years. Of course, their reputation is super stellar. They were starting this new imprint that was brand new.
+
+[00:17:44 @Jessica] Their whole thing was like, "Hey, this is one of the first books that we'll be publishing under this imprint. We really want to high pri it, and give it a lot of attention. We think that this is a big deal." I got a lot of, "Hey, this is a big deal project. We really want to prioritize you" from both them and Simon & Schuster.
+
+[00:18:03 @Jessica] It just came down to, who do I want to get in a shotgun marriage with, based on emotional connection, kind of. It was Penguin. I just really felt like everybody on the team I was really vibing with.
+
+[00:18:22 @Jessica] That's just how I am in general with work, where I would much rather have a better personal connection with a client than have it work out super crazy financially or something like that. Ideal if it's both, but for me, I knew it was going to be a long haul process, and I just wanted to make sure that it felt like lovey-dovey and awesome.
+
+[00:18:44 @Jessica] What I really told them, and what I tell them throughout the whole process, is I have a lot of energy to put out into a project and into promoting a project, but I only put out as much as I get back from whomever I'm partnering with.
+
+[00:19:00 @Jessica] If I'm not getting the energy back, I'm not going to tap all my resources, and I'm not going to call in all my favors and do all that kind of stuff, because it's not worth it to me, if I feel like the project itself isn't at that level for them.
+
+[00:19:12 @Craig] You felt like from the Penguin folks, they were just like, "Yes, we're with you."
+
+[00:19:17 @Jessica] Absolutely. We are in. Let's do it. Let's go to Mars together.
+
+[00:19:22 @Craig] Nice.
+
+[00:19:23 @Jessica] It was very immediate. They were very good at along the whole way, anytime that I was like, "I don't know about this." It's like, "Oh my God, what do you need?" They were on top of it. It's a very rare, weird experience with a publisher, because most authors don't get the experience that I have had with Penguin.
+
+[00:19:42 @Jessica] What ended up happening is because I got that love from them upfront, that they were like, "Yes, this is a priority for us. We want to make sure this awesome, and as good as it can be, and gets as many places as possible," that I actually did the work and promoted it a lot during its presale, which meant that the sales numbers were high enough that they were salivating and got all the salespeople in the rest of Penguin on board, which made them elevate it to a lead title, which then got a lot more resources on board.
+
+[00:20:12 @Jessica] Then I was having meetings with 13 people, talking about PR strategies and all that kind of stuff, which is not a thing that authors get to do with publishers, ever.
+
+[00:20:21 @Craig] Right. I think you've had a pretty unique experience.
+
+[00:20:26 @Jessica] I was just back there. They have annual sales conference that's internal. It happened to coincide with my dates for coming back to New York to do some of my book events. They had me come in for a 30-person champagne toast in the morning before their sales conference.
+
+[00:20:45 @Craig] Oh, my God.
+
+[00:20:44 @Jessica] That was like, what is this world? [laughs] I can't even tell this story to other people that have published books, because the usual thing is they'll write one blog post about you, and then everything else is on you.
+
+[00:20:58 @Craig] Right, right, right. Then when you try to email them, "Hey guys, is everything cool over there?" like silence.
+
+[00:21:05 @Jessica] You're like, "How many books have we sold'?" They're like, "Let me just get back to you in six days with just an email with a number in it and no actual report."
+
+[00:21:13 @Craig] 12. "Oh, thank god. Sorry, I've noticed that my key doesn't work here anymore." I feel like that's more like what happens with most arrangements. You're in this PR meeting with 13 people. Are they just like, "Jessica, Jessica. We've got this idea. Jessica, we've got this idea. Hey." Are they just throwing you...?
+
+[00:21:32 @Jessica] Well first, I went in and I was like, "Let me tell you all the things that I'm doing." I just laid out all this stuff, because I was going totally HAM. I was just so pumped, that I was like, "I'm working on these T-shirts, and I'm making sterling silver jewelry for it. I'm talking to Alaska Airlines about partnering for the book tour. Then I'm going to reach out to..." and all this stuff.
+
+[00:21:50 @Jessica] They're like, "What, what, what?" Then they had a presentation to show me, but you should have seen some of their faces. They were just like, "Yes, please. You just do this all, please."
+
+[00:22:02 @Craig] They're presentation was like, "We're going to make a Twitter account for you. We were thinking about, have you heard of this Instagram?"
+
+[00:22:10 @Jessica] Like, "We're thinking about doing a presale contest." I got you guys. Don't worry.
+
+[00:22:17 @Craig] You were definitely, I would say, an ideal author.
+
+[00:22:23 @Jessica] Yeah. I mean, because of it, they literally any time I feel wigged out about something, whatever it is, they're like, "Oh my God, we're so sorry. Let's fix it right away." Because they're just like, "Please don't stop your crazy machine that is helping to sell this book."
+
+[00:22:37 @Craig] Exactly. Every time you send an email that's mildly unhappy, someone's fired. "What? You made Jessica a little bit unhappy. You're out of here."
+
+[00:22:46 @Jessica] I'm not a person that likes to butt heads in projects. That's not my MO, but it does feel really good to feel like if I very strongly disagree about something, I can win. That has been nice.
+
+[00:22:59 @Craig] That's how it should be. You've built up a tremendous amount of support and power and fans and stuff over the years. This book means a lot to you. You have a strong creative vision. You should have all the power in the situation. It makes me wonder, did you think about kick-starting this thing?
+
+[00:23:17 @Jessica] I did. I definitely did. But I didn't think that this was going to be my Kickstarter. For one thing, my schedule is so wackadoo, just because of having two kids and traveling and all this kind of stuff, that the idea of having even tiniest anything to do with order fulfillment was just a nightmare to me. Like, no, no, no.
+
+[00:23:39 @Jessica] Also, I am of the belief that everybody, every creative person that has an audience gets one successful Kickstarter in their life. Other than that, it's just par at best.
+
+[00:23:53 @Jessica] I didn't think that this book needed to be that. When I have some crazy idea for a project, and I need people to just believe in me, I'll go to Kickstarter for that. Or if it's an insane production thing, and nobody wants to do it because they don't want to touch it with a 10-foot pole, that's one thing, but people want to make books. It's fine.
+
+[00:24:12 @Jessica] I think part of it, too, is one of the reasons I wanted to work with a major publisher is because I felt like I really wanted the audience of this book to go past my design world. Because I knew that the designers would buy it, and I am grateful to them for it. I know that they're my core people.
+
+[00:24:28 @Jessica] I'm seeing that especially while being on tour. Basically, if I do a book event and don't tell the designers about it, there's two people there. If I tell the designers, there's 400.
+
+[00:24:38 @Jessica] I don't want to disregard that audience at all, but I wanted to...because I felt like the book had a message that was much wider than design. It's not a book about lettering. It's a totally different thing. I wanted it to be in front of as many eyes as possible. Doing it myself through Kickstarter wouldn't have enabled that.
+
+[00:24:57 @Craig] Totally. Penguin is the kind of company that put you on Barnes & Noble tables all across the Midwest, which is hard to do with Kickstarter.
+
+[00:25:08 @Jessica] You just can't get store presence stuff with Kickstarter. Even I know that a lot of publications don't want to review self-published books as much as they want to review things that are published by publishing houses. I don't know if the New York Times has changed their view on this, but I don't think they review things that are self-published.
+
+[00:25:25 @Craig] Right. I don't know the specifics on that either, but probably not. It's kind of like the Academy not giving Academy awards to things that haven't been in movie theaters.
+
+[00:25:35 @Jessica] Yeah, and it's a similar thing with even the New York Times list. With the New York Times list, if I bought...say I sold 20,000 copies through Kickstarter. That wouldn't count towards the bestseller at all, because bulk sales don't count. It's only small purchases through independent book stores or book sellers.
+
+[00:25:54 @Craig] Yeah, it's interesting, the pluses and minuses. The thing with Kickstarter is you probably would have just made more money. Or maybe you wouldn't have made more money. I don't know what that...
+
+[00:26:02 @Jessica] No, I definitely would have made more money. [laughs] But the thing about it is, it's like to me, I see this as the slow burn. I'm all about the slow burn passive income, and trying to get as many of those streams as possible. I have a long game of just eventually down the line, I will be making $100,000 a year in passive income. That's my goal.
+
+[00:26:27 @Jessica] I don't think it's going to happen in the next 5 to 10 years, but that's my ultimate goal. I want to get to that point where I don't have to have a retirement account, because I just have passive income that is my income.
+
+[00:26:42 @Craig] Right, right. What are your other passive income streams right now?
+
+[00:26:45 @Jessica] Skillshare has been great. I have Skillshare classes. I have another one that's coming out in January that I have not even announced yet. It's totally new. It's all about doing book cover designs.
+
+[00:26:55 @Craig] Fantastic.
+
+[00:26:56 @Jessica] It's actually about book covers, but it's about everything. Book covers are sort of an encapsulation for most one-off design projects, because of the quality of the videos that I've been able to produce with them, because they come to me and produce them for me, and do all the editing, which means that it's really not a big deal for me to make them.
+
+[00:27:18 @Jessica] It's basically a four or five day commitment. The quality is way higher than I would have recorded on my own. It ends up being an awesome return, even with their membership model.
+
+[00:27:28 @Jessica] When they first started out and it was just like people paying for tickets, it was bonkers. Like my first year of doing Kickstarter, when all of the artists got 85 percent of the ticket price, it was totally crazy.
+
+[00:27:42 @Craig] The trick is to get aligned with these new services right when they start up. They're still in super generous mode. They're like, "We'll give you everything you want."
+
+[00:27:48 @Jessica] Yeah, you need to get in when they're in super generous mode. I know a lot of folks have walked away from things like this that have a membership model, just because they're like, "Oh my god, if I do this on my own, then I make all the money."
+
+[00:28:02 @Jessica] It's so similar to Kickstarter, where if your audience is there, and want you to do all the work, and you want to invest in it, then yes, go for it. You will make more money if you do it that way. But it's just way more work, and you have to really want to do it.
+
+[00:28:16 @Craig] Like you said, the audience is also limited.
+
+[00:28:19 @Jessica] Yeah, the audience is limited.
+
+[00:28:20 @Craig] I think that's one of the big reasons why to push through any of these gatekeepers, whether it's you're publishing articles for magazines or you're doing books, you can do stuff independently on your website, of course. That's always an option. If you've built up an audience, that's great.
+
+[00:28:35 @craig] But even still, if you publish something through Penguin Random House, that is totally going to be in a bunch of kids' bedrooms that you have never been able to reach otherwise.
+
+[00:28:48 @craig] I guess in the end, the question is the philosophical question of, what is the purpose of producing this object? Why am I making this thing? Why am I putting it out in the world?
+
+[00:28:57 @Jessica] Yeah, and the answer is often, well, eventually I want to justify making it monetarily in some way, but your lead answer is never, because I want to make a ton of money on it. Because that's not the line of work to get into you're into fast cash.
+
+[00:29:13 @Craig] Totally easier ways to do that.
+
+[00:29:15 @Jessica] There's way easier ways to make money than to spend a year and a half on a project, and know that it's going to take you two years to get your small advance back.
+
+[00:29:24 @Craig] Even startup people, I've had young startup people come to me, and they're like, "Man, yeah, I'm just going to do this startup, and sell it for, I don't know, a couple million dollars in a couple years." I'm like, "First of all, probably not. Probably not the easiest."
+
+[00:29:38 @craig] If you really feel that thing needs to be done and has to be in the world, go for it. But if you're just looking to make a couple million dollars, go work at Goldman. That's a pretty easy way to make a couple million dollars, guaranteed. Don't publish a book and don't work for an early stage startup.
+
+[00:29:52 @Jessica] One of my girlfriends is a cartoonist. She's publishing a book as well. She told me that she gets people that are super successful in other fields that she knows contacting her to be like, "How did you do it? I've been trying to publish a book for years." She's like, "Why are you doing that?" [laughs] It's like keep doing your incredibly successful thing that you do.
+
+[00:30:19 @Craig] It's like you really need to feel more than anything else that that thing has to be in the world. That's the only reason.
+
+[00:30:24 @Jessica] The main thing is, too, not only do you have to feel like it has to be in the world, but you have to believe it in so much that you want it to be your identity for years.
+
+[00:30:35 @Craig] Yes, yes.
+
+[00:30:35 @Jessica] Because it's the only thing you're going to be asked questions about. If you don't really believe in it...if you start a business not knowing that, the business is going to go nowhere. Unless you can passionately talk about it, not only in one or two interviews, but for years, it's going to go nowhere. So, you really have to feel it.
+
+[00:30:56 @Craig] I think that is totally underestimated, the connection of identity to the books you put out, and really, for how many years that lasts.
+
+[00:31:05 @Jessica] It's difficult to understand until you've had a piece that you've made take over your identity, which not everybody experiences. There's tons of creatives in the world that have never had that happen to them and might never have that happen to them.
+
+[00:31:20 @Jessica] Once you have it happen to you, you understand the gravity of a self-authored project becoming successful. Where you're just like, I really have to believe in this, because otherwise I'm going to hate every interview that I ever do, and every press request I ever get.
+
+[00:31:36 @Craig] Totally, yeah. I completely feel that. One of the things, I don't know if you meant to do this or not, but your book Tomorrow I'll Be Brave is actually a pretty good language learning book. I've been reading it with some young kids here in Japan. They're not native English speakers, but they have some English background.
+
+[00:31:58 @craig] It's been really, really interesting, because a lot of the words are pretty long. They're big words. The way you've written them, the lettering makes it so it's not immediately obvious exactly what all the letters are sometimes, I mean, just the playfulness of it. If you're not a native speaker, you have to parse it out slowly.
+
+[00:32:18 @craig] It's been really fun. I start reading to the kids. These are kids who are six or seven or eight or nine. Then I'll be like, "What do you think this one is?" Tomorrow I'll be curious. And they're like, " [with an accent] Curious." You're like, "Yeah, curious. What do you think that means?" It's actually a really awesome language book. I don't know if you even though about that.
+
+[00:32:41 @Jessica] That's super cool.
+
+[00:32:41 @Craig] Yeah, it was very surprising. I was like, actually this is very neat, and these are words that they've definitely not run into before.
+
+[00:32:50 @Jessica] It's so funny because the book itself...I ran into some roadblocks just with people giving me a hard time about it being crazy lettering, because a lot of kids are just learning to read, and it might be too crazy for them. My defense to that has always been, this is not a young reader's book. This is a picture book, which is a totally different thing.
+
+[00:33:12 @Jessica] I have gotten some feedback from parents being like, "I don't know what you were intending to do with this book, but it's ticking every box with my kid. My kid's learning how to read with your big words." That's crazy.
+
+[00:33:24 @Jessica] I do think that seeing language really big on a page just gets kids amped, for sure. I didn't anticipate that it could be used in that way. It's one of those nice to haves, but did not seek it. That's really cool to hear, though, that they have been digging it in that way.
+
+[00:33:44 @Craig] Yeah, well, I think the lettering turns it into a puzzle.
+
+[00:33:47 @Jessica] Yeah. that's definitely true. I think that as kids are learning to read, they get really frustrated, because parents just start hammering these phonetic sounds into you, and it's all just becomes work really fast. So, anything to keep it like a puzzle is probably really good.
+
+[00:34:03 @Craig] I totally felt that. In fact, I have a question from a young reader over here, if you don't mind. Her name is Mizuki. She's nine years old, and her question is, "How does a bunny father make a kitty child?"
+
+[00:34:19 @Jessica] This is a great question. When I initially conceived of the characters being a bunny and cat, and that the bunny does have a parent in the book, I didn't want the role of the cat to be extremely specific. I wanted it so that maybe it's a sibling, maybe it's friend, maybe it's a pet.
+
+[00:34:43 @Jessica] It depends on how you perceive it at your house based on what your house looks like. If you have a younger sibling, then you're going to see your younger sibling in that cat. If you have a best friend and not a younger sibling yet, maybe you'll see them in the cat. I wanted it to be a little ambiguous. I figured if it was a little bunny, it would be like instant tiny sibling.
+
+[00:35:07 @Craig] It completely adds a sub-story to the book. It makes it way more mature, suddenly.
+
+[00:35:13 @Jessica] Then also, if it is a sibling, you can have a whole conversation about adoption. There's all this stuff that can be brought up about mixed families and this kind of thing.
+
+[00:35:22 @Craig] Totally.
+
+[00:35:22 @Jessica] I purposely only showed one parent in this book also, because I wanted it to be like any home situation. To me, the bunny is the Dad, because I put glasses on him like my husband. There's nothing saying that's not a mom bunny that's wearing glasses, and just has lounge wear like the rest of us have.
+
+[00:35:43 @Craig] Right, right, right. When we got to that page, immediately she picked up, and said, "Ah, the father is a bunny. How does that work?"
+
+[00:35:53 @craig] I was like, "Well, you know the fertility of bunnies is vastly overrated. They aren't that fertile, actually. This family, just they wanted two kids. And so, there are lots of kitty-cats. You see all the posers for kitty-cats who need homes. So, this bunny family decided to adopt this kitty-cat."
+
+[00:36:13 @Jessica] Perfect.
+
+[00:36:14 @Craig] She was like, "Oh, that makes sense. Yeah, yeah. That's definitely..."
+
+[00:36:18 @Jessica] They're like, "Yes."
+
+[00:36:19 @Craig] I can dig that now." Is the book going to come out in Japanese?
+
+[00:36:23 @Jessica] Yeah. I mean, I would truly love to have it come out in so many different languages. Yes, I have to redo all the lettering, and then I'd also want to work with someone to help keep it just as musical and rhymey in that language as it is in English, because it would be a real shame if it just became really flat when it got translated.
+
+[00:36:44 @Craig] Did that come up with Penguin? Were they like, "Man, it would be awesome if maybe instead of using this crazy lettering you just wrote it in Times New Roman. Could we just do that to make the translations real easy?"
+
+[00:36:55 @Jessica] You know, it didn't. I do think that's one of the reasons why I had initially intended to self-publish it, is because there was a lot of stuff that I saw as being red flags for publishers, where I was just like, "I don't want to have this conversation, because I don't want anybody to tell me that it's not possible to do this."
+
+[00:37:12 @Jessica] I've worked on books before where they make you make all the text black so that it can be swapped out easily on it's own plate, and that kind of thing.
+
+[00:37:19 @Jessica] I just didn't...I know that this is going to be an issue, where this book just can't be internationalized very easily. There's art that runs across the spread for every single page. There's all this stuff that a lot of conservative publishers would be really wigged out about. They were like, "No, don't worry about it. We know that. That's just part of this project. It's fine."
+
+[00:37:43 @Craig] That constraint is also where all the power comes from, having these giant words that you have to decipher and stuff like that. That's where the heart of the book lives. How many spreads did you do that didn't make it into the book?
+
+[00:37:55 @Jessica] I had another word, originally. I was going to do one about silly. That didn't make it in. Part of that was just for length. Once I figured out that it had to be 40 pages, just trying to cut it down. We had to do some cutting with how the end came together, just because I had to cut a full spread. I had another good night spread in it or something like that, just to get the pacing right and make it hit the page count.
+
+[00:38:22 @Jessica] The way that I work is that I'm very iterative on top of the same illustrations. I start with a sketch, then keep reworking that, until I feel, OK. I add color to that, then keep going and keep going and adding detail and adding detail.
+
+[00:38:38 @Jessica] Most of the spreads came together over time, fairly naturally. There were only a couple of them that gave me a really hard time, like the adventurous spread. I just did so many iterations of that one, because I couldn't get the hierarchy right.
+
+[00:38:51 @Jessica] It just felt like everything was the same size across the spreads, and I knew I wanted it to be this really pink, bright sunset. I didn't know how to get the contrast of the letters plus the ship working together so that you could still read the word, but it wasn't dominating the page. That one required a bunch of finagling and redrawing.
+
+[00:39:13 @Jessica] It being the first spread of the book also didn't help, because I felt like the pressure was on to make it really awesome. Everything else felt like it came together a little bit more naturally.
+
+[00:39:21 @Craig] I love the running spread, with all the animals sprinting.
+
+[00:39:25 @Jessica] Oh yeah, that one I did so many loose sketches for the animals, first. I had all these gibberish pencil sketches of me just trying to get the energy right and figure out the scale of the animals. Then when I was actually working on the final, the main thing was just making sure that it felt like this huge wave of big animals coming in from the left side.
+
+[00:39:45 @Craig] Totally. What's so, I think, striking about it is you have obviously all these pages with big words on them. The action's a little bit smaller. Then you turn to that spread and it's like, it hits you in the face. It's like, whoa, who are all these animals? Man, they all look so happy. Those are the happiest running animals I've ever seen in my life.
+
+[00:40:03 @Jessica] I think it's the elephant. Put the elephant sweating a little though. I think he looks a little winded. [laughs]
+
+[00:40:11 @Craig] They're all good people. They all have good hearts.
+
+[00:40:15 @Jessica] Yeah, yeah. They all look like they're having fun. It's competitive, but in a fun way.
+
+[00:40:21 @Craig] There are two or three spreads that didn't make it in that you had done or thought about, into the final product.
+
+[00:40:27 @Jessica] I was trying to make a few spreads more quiet. I made this one spread that I loved that was all pink. It was a silhouette of the dad bunny hugging the bunny, while the bunny had a little tear, and then the cat was being playful and trying to cheer up the bunny.
+
+[00:40:47 @Jessica] I just really loved this silhouetted image. It was such a tender moment. I was like, "Oh man, this makes me want to redo the whole book, to have more minimalism," and all this stuff. Then they were like, "We have to cut that one for length, anyway." I was like, "OK." [laughs]
+
+[00:41:02 @Craig] It's like, this is why I went with the big guys, because they're going to help me, and not have this thing spiral out for another three years.
+
+[00:41:09 @Jessica] I have that one in my back pocket. I don't think I ever made that until final, final art. I did a really tight sketch for that one. I feel like I'm going to do a final piece of that at some point, just because I really liked it.
+
+[00:41:22 @Craig] When you say tight sketch, do you mean a digital file that's sort of there, but not...
+
+[00:41:27 @Jessica] I sketch by hand, a bit, usually when I'm trying to come up with my ideas and get a general sense of the layout. I'll just do really crappy pencil sketches. Actually, what I would do is print out spreads from the book with the typesetting in there, just on laser paper, and then do loose sketches on top of them, of what I thought would be on the page, so that I could pace it out.
+
+[00:41:50 @Jessica] Then when I was actually doing my proper sketches, I have sketching more frequently on an iPad in Procreate, especially for this project, because color became such a big deal.
+
+[00:42:02 @Craig] The iPad just does color better than desktop? Or...?
+
+[00:42:05 @Jessica] I never sketch on desktop. Sketching is always an activity that I would do in coffee shops, in a literal sketchbook. The iPad has become my coffee shop device. [laughs]
+
+[00:42:18 @Craig] Interesting, interesting.
+
+[00:42:19 @Jessica] Procreate is an amazing program because it's so simple. It's just for drawing. There are people who make crazy paintings in it, and that's not me. I use it in the same rudimentary way that I would just be making sketches by hand, which is make not perfect sketches using the most basic of brushes in there.
+
+[00:42:36 @Jessica] Because I use it in such a rudimentary way, it feels very natural to me. It feels like I'm sketching by hand, except I can undo, which is so nice, and I don't have to break out all the art supplies at a table on an airplane, which is super weird.
+
+[00:42:48 @Craig] Right. It sounds like you start with the type, then you build around that.
+
+[00:42:52 @Jessica] With this one, I did. That's actually mostly because I was so comfortable with the type and lettering, and the illustration was something that I felt really rusty on. When I was saying that I start with the type, I would literally typeset the words in the font that I was using. Just the words, not the lettering, and sketch on that page.
+
+[00:43:12 @Jessica] When it came to actually working on the final art, I would often take the lettering pieces almost to full final, and then sketch all the illustration around them. That's just because I felt more comfortable doing the lettering when I did the illustration, just because I've been doing only lettering for eight years.
+
+[00:43:30 @Craig] I was looking at your website, on the Tomorrow I'll Be Brave website, and I noticed it had some coming soon for posters and other things like that. Are you still working on those?
+
+[00:43:39 @Jessica] Yes. I have a bunch of things. I am touring like a mad woman right now.
+
+[00:43:44 @Craig] How many talks have you given?
+
+[00:43:47 @Jessica] I'm going to 26 cities total.
+
+[00:43:49 @Craig] Wow.
+
+[00:43:53 @Jessica] My travel schedule is I'm gone every Wednesday to Friday. I go to two cities between Wednesday and Friday. Then I come home and I am "working" on Monday and Tuesday.
+
+[00:44:04 @Jessica] A lot of times, it's doctor appointments and random other life stuff that I have to do while I'm town. It's just been hard to get everything up on the site and actually get the production going.
+
+[00:44:15 @Jessica] I have a lot of pokers in the fire of things that I've made or am making. I made these cast characters from the book as a sterling silver necklace. I'm really pumped about those. It looks so good. I'm hand-assembling them myself, so I'm teaching myself how to solder to do it, which is really fun.
+
+[00:44:34 @Jessica] Then I'm making stuffed animals of the bunny. Those, I should be done in March. I'm working with a company that does a lot of stuff for Comic-Con artists.
+
+[00:44:44 @Jessica] I made T-shirts in kid sizes that I haven't put up yet, but I have on hand. I made a number of prints that I produced for West Coast Craft, which is a really awesome curated craft show here.
+
+[00:44:57 @Jessica] I do plan to sell those on the site, but I wanted to wait through the holiday season actually, because I didn't want them to go that fast, because I don't have the ability to produce them as fast as they might have gone during that time. I'm going to post them sometime in the new year.
+
+[00:45:11 @Jessica] Yeah, there's a whole mess of stuff. I basically just went totally crazy and spent way too much money making products for this stuff.
+
+[00:45:17 @Craig] Amazing. Just so people who are listening who may have questions about copyright ownership and things like that, this is all your stuff. Penguin doesn't have a hand in any of this?
+
+[00:45:28 @Jessica] No, no, no. My contract basically says they have world US rights to the book, and that's as far as that goes.
+
+[00:45:39 @Craig] Interesting.
+
+[00:45:39 @Jessica] Anything else with the characters and stuff, I own all that and can do whatever I want with it. I think most publishers would keep it that way, just because they're not going to have the budget to do anything anyway, for the most part. They're happy to let you run with it and do your thing, and take the responsibility out of their court.
+
+[00:45:54 @Craig] For that contract, I know you said you approached publishers on your own, and then you got an agent afterwards. Were you going back and forth with the agent to negotiate all that?
+
+[00:46:06 @Jessica] Yeah. I ended up signing with a literary agent during the week of my meetings. By the time I was getting my contracts in, he was able to review those. He was extremely happy that he basically got delivered a project on a platter and only had to do minimum work for it.
+
+[00:46:26 @Craig] He was like, "Oh, wow, I should buy a lotto ticket today, too." Amazing. In the end, what value did the agent bring to the table that you now see that you maybe couldn't have seen before?
+
+[00:46:37 @Jessica] Well, for me, I haven't dealt with a lot of international rights stuff yet. I did actually already have him renegotiate a previous contract with Chronicle for my international right stuff with them.
+
+[00:46:50 @Jessica] Just because, I had a Spanish publisher buy the rights to my Chronicle book, and they redid the cover without ever showing it to me. I did not want that to happen at all in the future, because it's a book about hand lettering, and it's not really cool when someone else hand letters your cover of your book, in a way that is not following the guidance within the book itself.
+
+[00:47:12 @Jessica] I wanted to make sure that that was a thing. That alone has been great. I just always find that having a second person in your court when there's a difficult conversation to have, or when you need some random thing to get done, and it's just business related, it's just really nice to have that person.
+
+[00:47:29 @Jessica] Even last week or two weeks ago, Penguin came to me with some changes on another project. It set off all my red flags, and sent me into an emotional spiral. I was like, "I need you to be my agent therapist for five phone calls in a row while I talk through my emotions, so that I don't immediately get on a call with them and freak out."
+
+[00:47:52 @Craig] Oh, no.
+
+[00:47:54 @Jessica] I think I've always been someone that needs...one, I need someone to bounce things off of that is a circle of trust person that knows what they're doing, but also can give me the straight shit.
+
+[00:48:05 @Jessica] I do like to have someone in my corner when I feel like being a business woman with a capital B, but I don't want to be a wrathful partner in the program.
+
+[00:48:16 @Craig] You need a bad cop on your side.
+
+[00:48:18 @Jessica] I need a bad cop, because I'm not a good bad cop. I'm a terrible bad cop. Everyone knows that I hate doing it. They're like, "Why are you doing this?" I'm like, "I know. I don't want to. Can't we just all...? Nobody gets paid ever, and it's fine. Let's just be friends. I just want to hug. Pay me in hugs."
+
+[00:48:35 @Craig] You definitely need a bad cop, then.
+
+[00:48:35 @Jessica] Yeah, totally.
+
+[00:48:37 @Craig] Well, Jessica, congrats on everything. This book is incredible. It is an amazing design object, but it's also strangely a really good English language learning tool, as I've found over here in Japan.
+
+[00:48:50 @craig] Thank you for taking time and helping illuminate the process you went through to make this thing real and put it out in the world.
+
+[00:48:56 @Jessica] Yeah, of course. Happy to. Happy to get other people to make things that are scary and require a giant emotional and personal investment.
+
+[00:49:04 @Craig] Thank you so much. Talk to you soon.
+
+[00:49:06 @Jessica] Talk to you soon.
+
+[00:49:09 @Craig] As I said in the beginning, this podcast is made possible by your membership. Consider joining the Explorers Club at craigmod.com/membership. Man, now I know what it feels like to run a public radio station.
+
+[00:49:24 @Craig] This episode is also sponsored by the entirety of the Japanese notebook industry. So specific, quirky, tactile, so many of them. Notebooks from Japan. What do they do? Dare I say it? Oh, I do. They spark joy.
+
+[00:49:39 @Craig] Oh, yes. That first joy spark [Japanese] experienced was actually touching an empty notebook in [Japanese] so many years back. Her husband, then just one of many suitors, a papermaker, brought it with him on their very first date.
+
+[00:49:57 @Craig] Under the cherry blossoms in early April, he took that wax paper wrapped notebook out of his porter man's satchel and said [Japanese] . It was in that moment [Japanese] knew the world needed to be as perfectly refined and minimalist as the small blank tome that she held in her hand.
+
+[00:50:22 @Craig] Thank you, paper people and notebook industry of Japan for making this world so much more tidy than it ever deserved to be.
