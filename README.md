@@ -6,6 +6,8 @@ Public archive of recordings of the podcast [*On Margins*](https://craigmod.com/
 
 *On Margins* is a podcast about making books and book-shaped things, started in 2016, hosted by [Craig Mod](https://craigmod.com/).
 
+This podcast is made possible by [SPECIAL PROJECTS](https://craigmod.com/membership/) members and their memberships.
+
 Available on: 
 - [iTunes](https://itunes.apple.com/us/podcast/on-margins/id1236390557) 
 - [Overcast](https://overcast.fm/itunes1236390557/on-margins)
